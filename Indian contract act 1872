@@ -1,1 +1,458 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T14:29:54.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="K8d1rZBupC7qZ5J5LpFP" version="13.5.8" type="google"><diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-11T05:49:55.079Z" agent="5.0 (X11)" etag="fExrT4lC-uyQDXfX98sv" version="13.6.9" type="github">
+  <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
+    <mxGraphModel dx="3703" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-8" target="02b7j2pqJwGw1zSQj-g7-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-259.9411764705883" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-8" target="02b7j2pqJwGw1zSQj-g7-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-41" target="02b7j2pqJwGw1zSQj-g7-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-41" target="02b7j2pqJwGw1zSQj-g7-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-15" target="02b7j2pqJwGw1zSQj-g7-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-15" target="02b7j2pqJwGw1zSQj-g7-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-23" target="02b7j2pqJwGw1zSQj-g7-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-24" target="02b7j2pqJwGw1zSQj-g7-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-24" target="02b7j2pqJwGw1zSQj-g7-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-760" y="300" />
+              <mxPoint x="-840" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-24" target="02b7j2pqJwGw1zSQj-g7-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-8" target="02b7j2pqJwGw1zSQj-g7-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-41" value="Elements of&lt;br/&gt;Contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-85" target="02b7j2pqJwGw1zSQj-g7-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-98" target="02b7j2pqJwGw1zSQj-g7-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-100" target="02b7j2pqJwGw1zSQj-g7-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-105" target="02b7j2pqJwGw1zSQj-g7-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-83" target="02b7j2pqJwGw1zSQj-g7-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-95" target="02b7j2pqJwGw1zSQj-g7-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-103" target="02b7j2pqJwGw1zSQj-g7-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-113" target="02b7j2pqJwGw1zSQj-g7-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-113" target="02b7j2pqJwGw1zSQj-g7-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-109" target="02b7j2pqJwGw1zSQj-g7-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-57" target="02b7j2pqJwGw1zSQj-g7-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-57" value="&#xa;&#xa;&lt;!--StartFragment--&gt;Performance&lt;!--EndFragment--&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" parent="1" vertex="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-97" target="02b7j2pqJwGw1zSQj-g7-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-97" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Validity or&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;&amp;nbsp;enforceability&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-56" target="02b7j2pqJwGw1zSQj-g7-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-56" value="Formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-87" target="02b7j2pqJwGw1zSQj-g7-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-143" target="02b7j2pqJwGw1zSQj-g7-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-143" target="02b7j2pqJwGw1zSQj-g7-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-143" target="02b7j2pqJwGw1zSQj-g7-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-143" value="Types of contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.083;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-24" target="02b7j2pqJwGw1zSQj-g7-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-171" target="02b7j2pqJwGw1zSQj-g7-176" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="400" />
+              <mxPoint x="-1100" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-171" target="02b7j2pqJwGw1zSQj-g7-175" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="400" />
+              <mxPoint x="-970" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-171" target="02b7j2pqJwGw1zSQj-g7-174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-171" target="02b7j2pqJwGw1zSQj-g7-178" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="400" />
+              <mxPoint x="-580" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-171" target="02b7j2pqJwGw1zSQj-g7-179" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="400" />
+              <mxPoint x="-710" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-23" target="02b7j2pqJwGw1zSQj-g7-194" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-194" target="02b7j2pqJwGw1zSQj-g7-196" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-194" target="02b7j2pqJwGw1zSQj-g7-198" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-194" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Communication&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;of acceptance&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-196" value="Abstinence" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-198" target="02b7j2pqJwGw1zSQj-g7-199" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-198" target="02b7j2pqJwGw1zSQj-g7-200" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-198" value="Act" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-199" value="Conduct" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-200" target="02b7j2pqJwGw1zSQj-g7-202" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="02b7j2pqJwGw1zSQj-g7-200" target="02b7j2pqJwGw1zSQj-g7-201" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-200" value="Words" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-201" value="Written" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-202" value="Oral" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-107" value="E.com. contracts" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="325" y="600" width="110" height="60" as="geometry">
+            <mxRectangle x="145" y="440" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-108" value="When a contract is entered into by two or more parties using electronics means, such&lt;br/&gt;as e-mails is known as e-commerce contracts." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-107" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-93" value="Unenforceable &#xa;contracts" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="185" y="600" width="110" height="60" as="geometry">
+            <mxRectangle x="15" y="440" width="205" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-94" value="&amp;nbsp;Where a contract is good in substance but because of some technical&lt;br/&gt;defect i.e. absence in writing, barred by limitation etc. one or both the parties cannot sue upon it, it&lt;br/&gt;is described as an unenforceable contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-93" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-115" value="Bilateral&#xa;contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="600" y="480" width="110" height="60" as="geometry">
+            <mxRectangle x="420" y="320" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-116" value="A Bilateral contract is one where the obligation or promise is outstanding&lt;br/&gt;on the part of both the parties.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-115" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-117" value="Unilateral&#xa;contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="450" y="480" width="110" height="60" as="geometry">
+            <mxRectangle x="280" y="320" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-118" value="Unilateral contract is a one sided contract in which one party has&lt;br/&gt; performed his duty or obligation and the other party’s obligation is outstanding." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-117" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-103" value="Quasi-contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="325" y="520" width="110" height="60" as="geometry">
+            <mxRectangle x="705" y="560" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-104" value="&amp;nbsp;A quasi-contract is not an actual contract but it resembles a contract. It is created&lt;br/&gt;by law under certain circumstances. The law creates and enforces legal rights and obligations when&lt;br/&gt;no real contract exists" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-103" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-95" value="&#xa;Illegal agreements&#xa;" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="185" y="520" width="110" height="60" as="geometry">
+            <mxRectangle x="15" y="370" width="200" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-96" value="&amp;nbsp;It is a contract which the law forbids to be made" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-95" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-105" value="Tacit contracts" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="325" y="440" width="110" height="60" as="geometry">
+            <mxRectangle x="145" y="300" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-106" value="The word Tacit means silent. Tacit contracts are those that are inferred through the&lt;br/&gt;conduct of parties without any words spoken or written." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-105" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-83" value="Voidable contracts&#xa;2(i)" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="185" y="440" width="110" height="60" as="geometry">
+            <mxRectangle x="565" y="480" width="200" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-84" value="&amp;nbsp;“an agreement which is enforceable by law at the&lt;br/&gt;option of one or more parties thereto, but not at the option of the other or others is a voidable&lt;br/&gt;contract”" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-83" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-113" value="Executory contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="525" y="360" width="110" height="60" as="geometry">
+            <mxRectangle x="345" y="230" width="200" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-114" value="&amp;nbsp;In an executory contract the consideration is reciprocal promise or obligation.&lt;br/&gt;Such consideration is to be performed in future only and therefore these contracts are described as&lt;br/&gt;executory contracts." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-113" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-100" value="Implied contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="325" y="360" width="110" height="60" as="geometry">
+            <mxRectangle x="145" y="230" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-101" value="&amp;nbsp;Implied contracts in contrast come into existence by implication. Most often&lt;br/&gt;the implication is by law and or by action." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-100" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-85" value="Void contracts &#xa;2(j)" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="185" y="360" width="110" height="60" as="geometry">
+            <mxRectangle x="15" y="230" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-86" value="&amp;nbsp;“A contract which ceases to be enforceable by law&lt;br/&gt;becomes void when it ceases to be enforceable”." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-85" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-109" value="Executed contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="525" y="280" width="110" height="60" as="geometry">
+            <mxRectangle x="905" y="320" width="200" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-110" value="The consideration in a given contract could be an act or forbearance. When&lt;br/&gt;the act is done or executed or the forbearance is brought on record, then the contract is an&lt;br/&gt;executed contract.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-109" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-98" value="Express contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="325" y="280" width="110" height="60" as="geometry">
+            <mxRectangle x="145" y="160" width="200" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-99" value="&amp;nbsp;A contract would be an express contract if the terms are expressed by words or&lt;br/&gt;in writing" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-98" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-87" value="Valid contracts" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="185" y="280" width="110" height="60" as="geometry">
+            <mxRectangle x="15" y="160" width="200" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-88" value="&amp;nbsp;An agreement which is binding and enforceable is a valid contract." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-87" vertex="1">
+          <mxGeometry x="5" y="70" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-178" value="standing offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-640" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-260" y="480" width="200" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-189" value="&amp;nbsp;An offer which is allowed to remain open for acceptance over&lt;br&gt;a period of time is known as standing or continuing or open offer." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-178" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-179" value="cross offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-770" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-390" y="480" width="200" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-187" value="When two parties exchange identical oers in ignorance at the time of each other’s oer,&lt;br/&gt;the oers are called cross oers.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-179" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-174" value="counter offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-900" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-520" y="480" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-188" value="&amp;nbsp;When the offeree oers to qualified acceptance of the oer subject to modifications and&lt;br&gt;variations in the terms of original offer, he is said to have made a counter offer" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-174" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-175" value="special offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1030" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-650" y="480" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-186" value="When the offer is made to a specific or an ascertained person, it is known as a&lt;br&gt;specific offer." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-175" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-176" value="general offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1160" y="440" width="120" height="40" as="geometry">
+            <mxRectangle x="-780" y="480" width="200" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-185" value="&amp;nbsp;It is an offer made to public at large and hence anyone can accept and do the desired act" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-176" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-25" value="Legal Rules of a&#xa;valid acceptance" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-420" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="-40" y="360" width="410" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-193" value="&lt;ul&gt;&lt;li&gt;(1) Acceptance can be given only by the person to whom offer is made.&lt;br&gt;&lt;/li&gt;&lt;li&gt;(2) Acceptance must be absolute and unqualified.&lt;br&gt;&lt;/li&gt;&lt;li&gt;(3) The acceptance must be communicated.&lt;br&gt;&lt;/li&gt;&lt;li&gt;(4) Acceptance must be in the prescribed mode.&lt;br&gt;&lt;/li&gt;&lt;li&gt;(5) Time: Acceptance must be given within the specified time limit.&lt;br&gt;&lt;/li&gt;&lt;li&gt;(6) Mere silence is not acceptance.&lt;br&gt;&lt;/li&gt;&lt;li&gt;(7) Acceptance by conduct/Implied Acceptance.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="02b7j2pqJwGw1zSQj-g7-25" vertex="1">
+          <mxGeometry y="40" width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-28" value="Communication&#xa;of offer (section 4)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-580" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="-200" y="360" width="270" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-190" value="Express offer" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-28" vertex="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-191" value="implied offer" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-28" vertex="1">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-211" value="“the communication of oer is complete when it&lt;br&gt;comes to the knowledge of the person to whom it is made”." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-28" vertex="1">
+          <mxGeometry x="10" y="50" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-29" value="Essentials of a&#xa;proposal " style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-740" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="-360" y="360" width="400" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-166" value="1. The person making the proposal or offer is called the ‘promisor’ or ‘offeror’.&lt;br&gt;&lt;br&gt;2. For a valid offer, the party making it must express his willingness ‘to do’ or ‘not to do’ something.&lt;br&gt;&lt;br&gt;3. An offer can be positive as well as negative.&lt;br&gt;&lt;br&gt;4. The willingness must be expressed with a view to obtain the assent.&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-29" vertex="1">
+          <mxGeometry x="10" y="50" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-171" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Kinds of offer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-900" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-27" value="&#xa;   Legal Rules of a&#xa;valid offer&#xa;" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-1060" y="320" width="120" height="40" as="geometry">
+            <mxRectangle x="-680" y="360" width="300" height="430" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-170" value="&lt;span&gt;1. It must be capable of creating legal relations.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;2. It must be certain, definite and not vague&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;3. It must be communicated to the offeree&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;4. It must be made with a view to obtaining the assent of the other party&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;5. It may be conditional&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;6 Offer should not contain a term the non compliance of which would amount to acceptance&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;7. The oer may be either specific&amp;nbsp;or general&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;8. Offer is Different from a mere statement of intention, an invitation to offer, a mere communication&lt;/span&gt;&lt;br&gt;&lt;span&gt;of information, Casual Equity, A prospectus and Advertisement.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;9. The offer may be express or implied&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;10. A statement of price is not an offer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-27" vertex="1">
+          <mxGeometry x="10" y="50" width="280" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-23" value="Acceptance 2(b)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-340" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="40" y="280" width="390" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-192" value="“When the person to whom the proposal is made signies his assent thereto, proposal is said to be&lt;br/&gt;accepted. The proposal, when accepted, becomes a promise”." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-23" vertex="1">
+          <mxGeometry x="10" y="50" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-24" value="offer / proposal&#xa;2(a)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-820" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="-440" y="280" width="200" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-165" value="“when one person&lt;br/&gt;signies to another his willingness to do or to abstain from doing anything with a view&lt;br/&gt;to obtaining the assent of that other to such act or abstinence, he is said to make a&lt;br/&gt;proposal”" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-24" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-16" value="Enforceability by law" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-180" y="160" width="160" height="40" as="geometry">
+            <mxRectangle x="200" y="200" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-46" value="&amp;nbsp;An agreement to become a contract must give rise to a legal obligation which means a duly enforceable by law." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-16" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-47" value="Contract = Accepted proposal/Agreement + Enforceability by law" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-16" vertex="1">
+          <mxGeometry x="10" y="130" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-15" value="Agreement 2(e)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-460" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="-80" y="200" width="250" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-44" value="&amp;nbsp;“every promise&lt;br/&gt;and every set of promises, forming the consideration for each other”.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-15" vertex="1">
+          <mxGeometry x="10" y="50" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-45" value="Agreement = Oer/Proposal + Acceptance" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-15" vertex="1">
+          <mxGeometry x="10" y="120" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-13" value="Essentials of a valid&#xa;Contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry">
+            <mxRectangle x="400" y="120" width="210" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-49" value="1) Agreement &lt;br&gt;2) Two parties&lt;br&gt;3) Free consent &lt;br&gt;4) Intention to create legal relationship&lt;br&gt;5) Competency of the parties &lt;br&gt;6) Fulfillment of legal formalities&lt;br&gt;7) Lawful consideration &lt;br&gt;8) Certainty of meaning&lt;br&gt;9)&amp;nbsp; Legal object &lt;br&gt;10) Possibility of performance&lt;br&gt;11) Not expressly declared to be void&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-13" vertex="1">
+          <mxGeometry x="10" y="70" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-8" value="contract 2(h)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="20" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="40" width="240" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-39" value="“an agreement enforceable by law”" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-8" vertex="1">
+          <mxGeometry x="10" y="50" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-48" value="Contract = Accepted proposal/Agreement + Enforceability by law" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-8" vertex="1">
+          <mxGeometry x="10" y="90" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
