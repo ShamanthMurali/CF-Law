@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T18:06:18.145Z" agent="5.0 (X11)" etag="qmn4tIXtYxgnrXvjHeJD" version="13.6.10" type="github"><diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">ddHNEoIgEADgp+GOUI13s7p08tCZkU2YQddBGq2nDwfMGOvCLN8uLD+EF+10tqJXV5RgCKNyIvxIGMsPuR9neAbYMR6gsVoGylao9Asi0qgPLWFICh2icbpPscaug9olJqzFMS27o0m79qKBDVS1MFu9aelUvNaern4B3ailc0ZjphVLcYRBCYnjF/GS8MIiuhC1UwFmfrvlXcK605/s52AWOvdjgQ/Wvf0k+SBevgE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-14T10:22:39.343Z" agent="5.0 (X11)" etag="cXwuj2ZZFbmiur9nit4a" version="13.6.10" type="github">
+  <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
+    <mxGraphModel dx="1265" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
