@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T17:18:59.937Z" agent="5.0 (X11)" etag="xuDQz6CiqbYsRX0hGadr" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T17:43:55.189Z" agent="5.0 (X11)" etag="JkohDI5Z6MlgMKNAgLS_" version="13.7.1" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="2110" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1700" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
@@ -22,11 +43,97 @@
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-5" value="Liability of Joint Promisor &amp;amp; Promisee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-6" target="E0t1wR7pqK-8ebcjUuFq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-6" value="By Whom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-7" value="Discharge of a Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-15" value="OBLIGATIONS OF PARTIES TO CONTRACTS &lt;font color=&quot;#CCCC00&quot;&gt;SECTION 37&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-120" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-16" value="Note: when the promisor dies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-17" target="E0t1wR7pqK-8ebcjUuFq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-17" value="&lt;div&gt;&lt;b&gt;Not &lt;/b&gt;involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-19" target="E0t1wR7pqK-8ebcjUuFq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-19" value="&lt;div&gt;Involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-22" value="To be performed by their representatives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-24" value="The contract cannot be enforced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="260" />
+              <mxPoint x="-140" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="260" />
+              <mxPoint x="140" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="260" />
+              <mxPoint x="280" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="260" />
+              <mxPoint x="-280" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-27" value="&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 40&lt;/font&gt;&lt;/div&gt;&lt;div&gt;The promise under a contract may be performed, as the circumstances may permit, by the promisor himself, or by his agent or his legal representative.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-29" value="3.          Legal Representatives: " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-30" value="&lt;div&gt;4.     Third persons:&lt;span style=&quot;left: 123.073px ; top: 231.388px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.9143)&quot;&gt; &lt;/span&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section  41&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-31" value="2.          Agent:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-32" value="5.     Joint promisors: &lt;font color=&quot;#CCCC00&quot;&gt;Section 42&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-33" value="1.          Promisor himself:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
