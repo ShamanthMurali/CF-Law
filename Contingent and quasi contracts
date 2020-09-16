@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T07:05:40.458Z" agent="5.0 (X11)" etag="b7RwG750AKojpQe_IEHG" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T07:08:46.836Z" agent="5.0 (X11)" etag="WPPuARzN34Cv6qqwldCQ" version="13.7.1" type="github">
   <diagram id="P6hJ91coJIR6rZFlrZz1" name="Page-1">
     <mxGraphModel dx="868" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="TZVSyfbI9g44Gsz5vjIH-1" value="&lt;div&gt;Obligation of a &lt;br&gt;&lt;/div&gt;&lt;div&gt;person enjoying benefit of non gratuitous act &lt;font color=&quot;#CCCC00&quot;&gt;[Section 70]&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="600" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZVSyfbI9g44Gsz5vjIH-2" target="TZVSyfbI9g44Gsz5vjIH-23" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TZVSyfbI9g44Gsz5vjIH-2" value="Responsibility of finder of goods  &lt;font color=&quot;#CCCC00&quot;&gt;[Section 71]&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="740" y="190" width="120" height="80" as="geometry" />
@@ -133,6 +136,15 @@
         </mxCell>
         <mxCell id="TZVSyfbI9g44Gsz5vjIH-21" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;[ShyamLal vs. State of U.P. A.I.R (1968) 130]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;where ‘K’ a government servant was compulsorily retired by  the  government.    He  led  a  writ  petition  and  obtained  an  injunction  against  the  order.    He  was  reinstated  and  was  paid  salary  but  was  given  no  work  and  in  the  mean  time  government  went  on  appeal. The appeal was decided in favour of the government and ‘K’ was directed to return the salary paid to him during the period of reinstatement.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" vertex="1" visible="0" parent="1">
           <mxGeometry x="520" y="510" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TZVSyfbI9g44Gsz5vjIH-23" target="TZVSyfbI9g44Gsz5vjIH-24" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-23" value="&lt;div&gt;‘A person who nds goods belonging to another and takes them into his custody is subject to same responsibility as if he were a bailee’.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;Thus a finder of lost goods has:&lt;/b&gt;&lt;/div&gt;&lt;div&gt; (i)     to take proper care of the property as man of ordinary prudence would take&lt;/div&gt;&lt;div&gt;(ii)    no right to appropriate the goods and &lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)   to restore the goods if the owner is found&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="290" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Hollins  vs.  Howler  L.  R.  &amp;amp;  H.  L.&lt;/b&gt;&lt;/u&gt;&lt;br&gt; ‘H’  picked  up  a  diamond  on  the  oor  of  ‘F’s  shop  and  handed  over  the same to ‘F’ to keep till the owner was found. In spite of the best efforts, the true owner could not be  traced.  After  the  lapse  of  some  weeks,  ‘H’  tendered  to  ‘F’  the  lawful  expenses  incurred  by  him  and  requested to return the diamond to him. ‘F’ refused to do so. Held, ‘F’ must return the diamond to ‘H’ as he was entitled to retain the goods found against everybody except the true owner. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="450" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
