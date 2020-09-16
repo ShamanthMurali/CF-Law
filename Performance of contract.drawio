@@ -1,11 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T10:22:39.343Z" agent="5.0 (X11)" etag="cXwuj2ZZFbmiur9nit4a" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T17:18:59.937Z" agent="5.0 (X11)" etag="xuDQz6CiqbYsRX0hGadr" version="13.7.1" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="1265" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-1" value="Performance of Reciprocal Promises" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="Appropriation of Payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="Contracts which need not be Performed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-4" value="Time &amp;amp; Place of Performance of Promise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-5" value="Liability of Joint Promisor &amp;amp; Promisee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-6" value="By Whom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-7" value="Discharge of a Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
