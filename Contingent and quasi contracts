@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T07:08:46.836Z" agent="5.0 (X11)" etag="WPPuARzN34Cv6qqwldCQ" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T07:12:16.201Z" agent="5.0 (X11)" etag="n6czJm5buZR8QCbzEbr1" version="13.7.1" type="github">
   <diagram id="P6hJ91coJIR6rZFlrZz1" name="Page-1">
     <mxGraphModel dx="868" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="TZVSyfbI9g44Gsz5vjIH-2" value="Responsibility of finder of goods  &lt;font color=&quot;#CCCC00&quot;&gt;[Section 71]&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="740" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TZVSyfbI9g44Gsz5vjIH-3" target="TZVSyfbI9g44Gsz5vjIH-27" visible="0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TZVSyfbI9g44Gsz5vjIH-3" value="&lt;div&gt;Money paid  by mistake or under coercion &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;[Section 72]&lt;/font&gt; &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="880" y="190" width="120" height="80" as="geometry" />
@@ -145,6 +148,15 @@
         </mxCell>
         <mxCell id="TZVSyfbI9g44Gsz5vjIH-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Hollins  vs.  Howler  L.  R.  &amp;amp;  H.  L.&lt;/b&gt;&lt;/u&gt;&lt;br&gt; ‘H’  picked  up  a  diamond  on  the  oor  of  ‘F’s  shop  and  handed  over  the same to ‘F’ to keep till the owner was found. In spite of the best efforts, the true owner could not be  traced.  After  the  lapse  of  some  weeks,  ‘H’  tendered  to  ‘F’  the  lawful  expenses  incurred  by  him  and  requested to return the diamond to him. ‘F’ refused to do so. Held, ‘F’ must return the diamond to ‘H’ as he was entitled to retain the goods found against everybody except the true owner. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" vertex="1" visible="0" parent="1">
           <mxGeometry x="660" y="450" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TZVSyfbI9g44Gsz5vjIH-27" target="TZVSyfbI9g44Gsz5vjIH-30" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-27" value="“A person to whom money has been paid or anything delivered by mistake or under coercion, must repay or return it”. " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="800" y="290" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZVSyfbI9g44Gsz5vjIH-30" value="&lt;div&gt;&lt;span style=&quot;left: 93.0733px ; top: 221.268px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.859313)&quot;&gt; &lt;/span&gt;&lt;u&gt;&lt;b&gt;[Trikamdas  vs.  Bombay  Municipal  Corporation A. I. R.1954]&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; where ‘T’ was traveling without ticket in a tram car and on checking he was asked to pay `5/- as penalty to compound transaction. T led a suit against the corporation for recovery on the ground that  it  was  extorted  from  him.  The  suit  was  decreed(T won)  in  his favor. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="800" y="360" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
