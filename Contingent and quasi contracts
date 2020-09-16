@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T17:00:31.134Z" agent="5.0 (X11)" etag="bdYw_6alN65Ne-6iw-1X" version="13.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T03:36:03.452Z" agent="5.0 (X11)" etag="lDAc-V6HhXInrEe5g5OG" version="13.7.1" type="github">
   <diagram id="P6hJ91coJIR6rZFlrZz1" name="Page-1">
-    <mxGraphModel dx="633" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,6 +26,24 @@
         </mxCell>
         <mxCell id="8nLgjOGNV4g-SV62TyWO-8" value="&lt;div&gt;Rules relating to &lt;br&gt;&lt;/div&gt;&lt;div&gt;enforcement&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="190" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hsFOBfr_EWaErBdwZ6vg-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 32&lt;/font&gt;&lt;br&gt; “where a contingent contract is made to do or not to do anything if an uncertain future  event  happens,  it  cannot  be  enforced  by  law  unless  and  until  that  event  has  happened.  If  the  event becomes impossible, such contracts become void”&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hsFOBfr_EWaErBdwZ6vg-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 33&lt;/font&gt;&lt;/div&gt; “Where a contingent contract is made to do or not do anything if an uncertain  future  event  does  not  happen,  it  can  be  enforced  only  when  the  happening  of  that  event  becomes impossible and not before”." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hsFOBfr_EWaErBdwZ6vg-3" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 34&lt;/font&gt;&lt;/div&gt;&lt;div&gt;“if  a  contract  is  contingent  upon  as  to  how  a  person  will  act  at  an unspecificed  time,  the  event  shall  be  considered  to  have  become  impossible  when  such  person  does  anything  which renders it impossible that he should so act within any denite time or otherwise than under further contingencies”.&lt;/div&gt;&lt;div&gt;Example: Where ‘A’ agrees to pay ‘B’ a sum of money if ‘B’ marries ‘C’.  ‘C’ marries ‘D’. This act of ‘C’ has rendered the event of ‘B’ marrying ‘C’ as impossible; it is though possible if there is divorce between ‘C’  and ‘D’.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hsFOBfr_EWaErBdwZ6vg-4" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 35&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;There can be a contingent contract wherein a party promises to do or not do something if a future uncertain event happens within a fixed time. Such a contract is void if the event does not happen and the time lapses.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Example: A promises to pay B a sum of money if certain ship returns within a year. The contract may be enforced if the ship returns within the year, and becomes void if the ship is burnt within the year.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hsFOBfr_EWaErBdwZ6vg-5" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 35&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;also  says  that  -Contingent contracts might be based on the non-happening of an uncertain future event within a fixed time. In such cases, the promisor is liable to do or not do something if the event does not happen within the said time. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Example:  A  promises  to  pay  B  a  sum  of  money  if  a  certain  ship  does  not  return  within  a  year.  The  contract may be enforced if the ship does not return within the year, or is burnt within the year.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hsFOBfr_EWaErBdwZ6vg-6" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 36&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Contingent on an impossible event &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Contingent agreements to do or not to do anything, if an impossible event happens are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.&lt;/div&gt;&lt;div&gt;&lt;br&gt;Example: ‘A’ agrees to pay ‘B’ `one lakh if sun rises in the west next morning.  This is an impossible event and hence void&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;left: 103.615px ; top: 1098.17px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.993278)&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="790" width="360" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
