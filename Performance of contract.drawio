@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T07:01:39.703Z" agent="5.0 (X11)" etag="csgamB7jVJA54DTL68q5" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T07:03:25.525Z" agent="5.0 (X11)" etag="O6yXNGwtEnGYj6GKKYQq" version="13.7.2" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
     <mxGraphModel dx="2110" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,13 +26,13 @@
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-1" value="Performance of Reciprocal Promises" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="Appropriation of Payments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="Contracts which need not be Performed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-4" target="VpjiBCg_nfdNJr2iW8XH-29" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-4" value="Time &amp;amp; Place of Performance of Promise" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-5" target="VpjiBCg_nfdNJr2iW8XH-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -96,10 +96,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-7" value="Discharge of a Contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-15" value="OBLIGATIONS OF PARTIES TO CONTRACTS &lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;SECTION 37&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="-120" width="120" height="70" as="geometry" />
+          <mxGeometry x="-490" y="-180" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -307,7 +307,7 @@
           <mxGeometry x="20" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-6" value="By Whom" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-29" value="&lt;div&gt;Application for performance on certain day to be at proper time and place&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 48&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="220" y="180" width="120" height="110" as="geometry" />
