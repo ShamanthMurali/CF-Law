@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T19:13:22.558Z" agent="5.0 (X11)" etag="Sb_Nf9L4_TziQjfhTPjN" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T19:44:33.695Z" agent="5.0 (X11)" etag="MfWNAx_O7w6aNwCmcj3P" version="13.7.3" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="1907" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,29 @@
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-1" value="&lt;div&gt;Performance of Reciprocal Promises&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 51 - 58&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="Appropriation of Payments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y2YTb_YGv56ar9WMazZc-35" value="&lt;font style=&quot;font-size: 8px&quot;&gt;When the promisor and promisee have previous mutual debts&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-2" target="y2YTb_YGv56ar9WMazZc-29" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-2" target="y2YTb_YGv56ar9WMazZc-30" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="160" />
+              <mxPoint x="630" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-2" target="y2YTb_YGv56ar9WMazZc-31" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="160" />
+              <mxPoint x="350" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="&lt;div&gt;Appropriation of Payments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 59 - 61&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 190.368px ; top: 1015.5px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.940838)&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="430" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="Contracts which need not be Performed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="&lt;div&gt;&amp;nbsp;Contracts which need not be Performed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Sections 62 to 67&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-4" target="VpjiBCg_nfdNJr2iW8XH-29" edge="1" visible="0">
@@ -527,6 +546,33 @@
         </mxCell>
         <mxCell id="y2YTb_YGv56ar9WMazZc-27" value="&lt;div&gt;The law on this point is contained in Section 58 which says that “In the case of the alternative promise, one branch of which is legal and the other illegal, the legal branch alone can be enforced”.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Example: A and B agree that A shall pay B ` 1,00,000, for which B shall afterwards deliver to A either rice or smuggled opium.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This is a valid contract to deliver rice, and a void agreement as to the opium.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
           <mxGeometry x="440" y="770" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2YTb_YGv56ar9WMazZc-29" target="y2YTb_YGv56ar9WMazZc-41" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-29" value="&lt;div&gt;Application of payment to a specific debt is &lt;b&gt;not&lt;/b&gt; indicated&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 60&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y2YTb_YGv56ar9WMazZc-30" target="y2YTb_YGv56ar9WMazZc-45" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-30" value="&lt;div&gt;Application of payment where neither party appropriates &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 61&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="570" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2YTb_YGv56ar9WMazZc-31" target="y2YTb_YGv56ar9WMazZc-39" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-31" value="&lt;div&gt;Application of payment to a specific debt is indicated&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 59&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-39" value="it must be made accordingly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-41" value="the creditor may apply at his discretion to any lawful debt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-45" value="the payment shall be applied with respect to order of time(LIFO)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
