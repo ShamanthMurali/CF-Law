@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T19:44:33.695Z" agent="5.0 (X11)" etag="MfWNAx_O7w6aNwCmcj3P" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:10:24.369Z" agent="5.0 (X11)" etag="NFsqqM6IDjpiaTO7aVOp" version="13.7.3" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="1575" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1724" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,69 @@
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="&lt;div&gt;Appropriation of Payments&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 59 - 61&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 190.368px ; top: 1015.5px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.940838)&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="430" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="&lt;div&gt;&amp;nbsp;Contracts which need not be Performed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Sections 62 to 67&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="y2YTb_YGv56ar9WMazZc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="840" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="980" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="420" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="280" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="280" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="280" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="y2YTb_YGv56ar9WMazZc-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="160" />
+              <mxPoint x="280" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="&lt;div&gt;&amp;nbsp;Contracts which need not be Performed&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Sections 62 to 67&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1">
           <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-4" target="VpjiBCg_nfdNJr2iW8XH-29" edge="1" visible="0">
@@ -573,6 +635,53 @@
         </mxCell>
         <mxCell id="y2YTb_YGv56ar9WMazZc-45" value="the payment shall be applied with respect to order of time(LIFO)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
           <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
+          <mxGeometry x="920" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-63" value=" Alteration" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2A2A2A;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="220" y="400" width="320" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-78" value="&lt;div&gt; where the parties to a contract agree to alter it, the original contract is rescinded, with the result that it need not be performed. In other words, a contract is also discharged by alteration. &lt;br&gt;&lt;/div&gt;&lt;div&gt;in case of alteration the terms of the contract may be altered by mutual agreement by the contracting parties but the parties to the contract will remain the same.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="y2YTb_YGv56ar9WMazZc-63">
+          <mxGeometry y="40" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-54" value="&lt;div&gt;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;font-weight: normal&quot;&gt;Effect of novation,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; rescission, and &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;alteration of contract &lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 62&lt;/font&gt;&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2A2A2A;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="80" as="geometry">
+            <mxRectangle x="220" y="180" width="170" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-67" value="“If the parties to a contract agree to substitute a new contract for it, or to rescind or alter it, the original contract need not be performed” " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="y2YTb_YGv56ar9WMazZc-54">
+          <mxGeometry y="40" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-62" value=" Novation" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2A2A2A;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="220" y="280" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-75" value="&lt;div&gt;the old contract is substituted for a new one.&lt;/div&gt;&lt;div&gt;the old contract is discharged.&lt;/div&gt;&lt;div&gt;There may be a change in the parties&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="y2YTb_YGv56ar9WMazZc-62">
+          <mxGeometry y="40" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-61" value="Rescission/Recind" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2A2A2A;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="220" y="340" width="120" height="40" as="geometry">
+            <mxRectangle x="220" y="340" width="230" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-76" value="if the parties mutually agree to rescind the contract the contract may be discharged" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="y2YTb_YGv56ar9WMazZc-61">
+          <mxGeometry y="40" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
