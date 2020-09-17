@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T17:38:31.169Z" agent="5.0 (X11)" etag="gCI4NsfPiMLIeGO0u-wt" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T17:49:29.466Z" agent="5.0 (X11)" etag="qwRKFxeoFn__vSIQfVkb" version="13.7.3" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
     <mxGraphModel dx="1906" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -364,31 +364,34 @@
           <mxGeometry x="350" y="310" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sk9FqR-iDwF5xVdi0Y7-3" target="2sk9FqR-iDwF5xVdi0Y7-10" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-3" value="" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="290" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2sk9FqR-iDwF5xVdi0Y7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="2sk9FqR-iDwF5xVdi0Y7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2sk9FqR-iDwF5xVdi0Y7-4" target="2sk9FqR-iDwF5xVdi0Y7-27" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sk9FqR-iDwF5xVdi0Y7-4" value="&lt;h3&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;simultaneous Performance of a Reciprocal Promise &lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 51&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sk9FqR-iDwF5xVdi0Y7-10" target="2sk9FqR-iDwF5xVdi0Y7-12" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -420,6 +423,15 @@
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="580" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sk9FqR-iDwF5xVdi0Y7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sk9FqR-iDwF5xVdi0Y7-27" target="2sk9FqR-iDwF5xVdi0Y7-28" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sk9FqR-iDwF5xVdi0Y7-27" value="Some contracts&lt;br&gt; consist of a reciprocal promise or promises which are to be performed &lt;br&gt;simultaneously. In such cases, there is no obligation on the promisor to&lt;br&gt; perform his promise unless the promisee is willing to perform his &lt;br&gt;reciprocal promise." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="155" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2sk9FqR-iDwF5xVdi0Y7-28" value="Example: A and B contract that A shall deliver the goods to B to be paid for by B on delivery. A need not deliver the goods, unless B is ready and willing to pay for the goods on delivery." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="430" y="250" width="400" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
