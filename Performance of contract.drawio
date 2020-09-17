@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T18:13:56.526Z" agent="5.0 (X11)" etag="6gP17geuOq_3USxWMJMp" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T18:18:08.633Z" agent="5.0 (X11)" etag="hLZ2uwRLuEQzMBGs9uJj" version="13.7.3" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="1574" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1906" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-1" target="2sk9FqR-iDwF5xVdi0Y7-4">
@@ -104,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-4" value="&lt;div&gt;Time &amp;amp; Place of Performance of Promise&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 46 - 50&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-4" value="&lt;div&gt;Time &amp;amp; Place of Performance of Promise&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 46 - 50&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2A2A2A;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-5" target="VpjiBCg_nfdNJr2iW8XH-11" edge="1" visible="0">
@@ -135,25 +135,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-16" value="Note: when the promisor dies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="-280" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="-220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-17" target="E0t1wR7pqK-8ebcjUuFq-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-17" value="&lt;div&gt;&lt;b&gt;Not &lt;/b&gt;involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="-200" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-19" target="E0t1wR7pqK-8ebcjUuFq-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-19" value="&lt;div&gt;Involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="-200" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-22" value="To be performed by their representatives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="-140" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="-80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-24" value="The contract cannot be enforced" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="-140" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="-80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-29" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
