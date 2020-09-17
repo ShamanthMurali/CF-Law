@@ -1,91 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T18:16:20.988Z" agent="5.0 (X11)" etag="4ug2Nm6Ba5D_pBzwvpkH" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T05:45:50.355Z" agent="5.0 (X11)" etag="1jJSp_pC4VCQJiGKTbAO" version="13.7.2" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="2332" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-4">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-2">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-3">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-7">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-5">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-6">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qp0NQLGNWPWNpe9ATkXj-1" target="E0t1wR7pqK-8ebcjUuFq-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qp0NQLGNWPWNpe9ATkXj-1" value="Performance of a contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-1" value="Performance of Reciprocal Promises" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-1" value="Performance of Reciprocal Promises" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="Appropriation of Payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-2" value="Appropriation of Payments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="Contracts which need not be Performed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-3" value="Contracts which need not be Performed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-4" value="Time &amp;amp; Place of Performance of Promise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-4" value="Time &amp;amp; Place of Performance of Promise" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-5" value="Liability of Joint Promisor &amp;amp; Promisee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-5" value="Liability of Joint Promisor &amp;amp; Promisee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-6" target="E0t1wR7pqK-8ebcjUuFq-27">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-6" target="E0t1wR7pqK-8ebcjUuFq-27" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-6" value="By Whom" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-6" value="By Whom" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-60" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-7" value="Discharge of a Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-7" value="Discharge of a Contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-15" value="OBLIGATIONS OF PARTIES TO CONTRACTS &lt;font color=&quot;#CCCC00&quot;&gt;SECTION 37&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-15" value="OBLIGATIONS OF PARTIES TO CONTRACTS &lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;SECTION 37&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-450" y="-120" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-17">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-19">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-16" target="E0t1wR7pqK-8ebcjUuFq-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-16" value="Note: when the promisor dies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-16" value="Note: when the promisor dies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-17" target="E0t1wR7pqK-8ebcjUuFq-22">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-17" target="E0t1wR7pqK-8ebcjUuFq-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-17" value="&lt;div&gt;&lt;b&gt;Not &lt;/b&gt;involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-17" value="&lt;div&gt;&lt;b&gt;Not &lt;/b&gt;involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="-200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-19" target="E0t1wR7pqK-8ebcjUuFq-24">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-19" target="E0t1wR7pqK-8ebcjUuFq-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-19" value="&lt;div&gt;Involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-19" value="&lt;div&gt;Involving &lt;br&gt;&lt;/div&gt;&lt;div&gt;personal skill&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="-200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-22" value="To be performed by their representatives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-22" value="To be performed by their representatives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-24" value="The contract cannot be enforced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-24" value="The contract cannot be enforced" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-29">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-29" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-31">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint y="260" />
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-30">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-30" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint y="260" />
@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-32">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-32" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint y="260" />
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-33">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="E0t1wR7pqK-8ebcjUuFq-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint y="260" />
@@ -117,86 +117,108 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-27" value="&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 40&lt;/font&gt;&lt;/div&gt;&lt;div&gt;The promise under a contract may be performed, as the circumstances may permit, by the promisor himself, or by his agent or his legal representative.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="VpjiBCg_nfdNJr2iW8XH-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-27" target="VpjiBCg_nfdNJr2iW8XH-2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-27" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 40&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The promise under a contract may be performed, as the circumstances may permit, by the promisor himself, or by his agent or his legal representative.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-120" y="160" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-29" target="E0t1wR7pqK-8ebcjUuFq-50" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-29" target="E0t1wR7pqK-8ebcjUuFq-50" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-29" value="3.          Legal Representatives: " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-29" value="3.          Legal Representatives: " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="-60" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-30" target="E0t1wR7pqK-8ebcjUuFq-57" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-30" target="E0t1wR7pqK-8ebcjUuFq-57" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-30" value="&lt;div&gt;&amp;nbsp;&amp;nbsp; 4.     Third persons:&lt;span style=&quot;left: 123.073px ; top: 231.388px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.9143)&quot;&gt; &lt;/span&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section  41&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-30" value="&lt;div&gt;&amp;nbsp;&amp;nbsp; 4.     Third persons:&lt;span style=&quot;left: 123.073px ; top: 231.388px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.9143)&quot;&gt; &lt;/span&gt;&lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section  41&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-31" target="E0t1wR7pqK-8ebcjUuFq-48" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-31" target="E0t1wR7pqK-8ebcjUuFq-48" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-31" value="2.          Agent:" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-31" value="2.          Agent:" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="-200" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-32" target="E0t1wR7pqK-8ebcjUuFq-62" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-32" target="E0t1wR7pqK-8ebcjUuFq-62" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-32" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; 5.     Joint promisors: &lt;font color=&quot;#CCCC00&quot;&gt;Section 42&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-32" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; 5.     Joint promisors: &lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 42&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="220" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-33" target="E0t1wR7pqK-8ebcjUuFq-40" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-33" target="E0t1wR7pqK-8ebcjUuFq-40" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-33" value="1.          Promisor himself:" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-33" value="1.          Promisor himself:" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="-340" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-40" target="E0t1wR7pqK-8ebcjUuFq-41" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-40" target="E0t1wR7pqK-8ebcjUuFq-41" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-40" value="if the contract specifies the promise should be performed by the promisor himself" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-40" value="if the contract specifies the promise should be performed by the promisor himself" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-400" y="340" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-41" target="E0t1wR7pqK-8ebcjUuFq-43" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-41" target="E0t1wR7pqK-8ebcjUuFq-43" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-41" value="Then it can only be performed by him" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-41" value="Then it can only be performed by him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-400" y="400" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-43" value="Eg: personal skill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-43" value="Eg: personal skill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-370" y="440" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-48" value="Where  personal  consideration(skill)  is  not  the  foundation  of  a  contract,  the  promisor  or  his  representative may employ a competent person to perform it." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-48" value="Where  personal  consideration(skill)  is  not  the  foundation  of  a  contract,  the  promisor  or  his  representative may employ a competent person to perform it." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-260" y="340" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-50" target="E0t1wR7pqK-8ebcjUuFq-52" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-50" target="E0t1wR7pqK-8ebcjUuFq-52" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-50" value="in case of non personal skill." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-50" value="in case of non personal skill." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-60" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-52" target="E0t1wR7pqK-8ebcjUuFq-54" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-52" target="E0t1wR7pqK-8ebcjUuFq-54" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-52" value="the contract maybe should be fulfilled by their representatives" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-52" value="the contract maybe should be fulfilled by their representatives" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-60" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-54" value=" But their liability under a contract is limited to the value of the property they inherit from the deceased." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-54" value=" But their liability under a contract is limited to the value of the property they inherit from the deceased." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-60" y="460" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-57" target="E0t1wR7pqK-8ebcjUuFq-58" visible="0">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-57" target="E0t1wR7pqK-8ebcjUuFq-58" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-57" value="Example:  A  received  certain  goods  from  B  promising  to  pay  `  100,000/-.  Later  on,  A  expressed  his  inability to make payment. C, who is known to A, pays ` 60,000/- to B on behalf of A. However, A was not aware of the payment. Now B is intending to sue A for the amount of ` 100,000/-" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-57" value="Example:  A  received  certain  goods  from  B  promising  to  pay  `  100,000/-.  Later  on,  A  expressed  his  inability to make payment. C, who is known to A, pays ` 60,000/- to B on behalf of A. However, A was not aware of the payment. Now B is intending to sue A for the amount of ` 100,000/-" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry y="340" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-58" value="As  per  Section  41  of  the  Indian  Contract  Act,  1872,  when  a  promisee  accepts  performance  of  the  promise from a third person, he cannot afterwards enforce it against the promisor. That is, performance by a stranger, accepted by the promisee, produces the result of discharging the promisor, although the latter has neither authorised nor ratied the act of the third party. Therefore, in the present instance, B can sue only for the balance amount i.e., ` 40,000/- and not for the whole amount" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-58" value="As  per  Section  41  of  the  Indian  Contract  Act,  1872,  when  a  promisee  accepts  performance  of  the  promise from a third person, he cannot afterwards enforce it against the promisor. That is, performance by a stranger, accepted by the promisee, produces the result of discharging the promisor, although the latter has neither authorised nor ratied the act of the third party. Therefore, in the present instance, B can sue only for the balance amount i.e., ` 40,000/- and not for the whole amount" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1" visible="0">
           <mxGeometry y="470" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-57" target="E0t1wR7pqK-8ebcjUuFq-57">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-57" target="E0t1wR7pqK-8ebcjUuFq-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-62" value=" When two or more persons have made a joint promise, then unless a contrary intention appears by the contract, all such persons must jointly fulfill the promise. If any of them dies, his legal representatives must, jointly with the surviving promisors, fulfill the promise. If all of them die, the legal representatives of all of them must fulll the promise jointly. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-62" value=" When two or more persons have made a joint promise, then unless a contrary intention appears by the contract, all such persons must jointly fulfill the promise. If any of them dies, his legal representatives must, jointly with the surviving promisors, fulfill the promise. If all of them die, the legal representatives of all of them must fulll the promise jointly. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="160" y="340" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-2" value="&lt;div&gt;EFFECT OF REFUSAL&lt;/div&gt;&lt;div&gt; OF PARTY TO &lt;br&gt;&lt;/div&gt;&lt;div&gt;PERFORM PROMISE&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 39&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="360" y="240" width="160" height="80" as="geometry">
+            <mxRectangle x="-120" y="360" width="400" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-3" value="&lt;div&gt;when  a  party  to  a  contract  has  refused  to  perform,  or  disabled  himself  from  performing his promise in its entirety, the promisee may put an end to the contract, unless he has signied, by words or conduct, his acquiescence in its continuance. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;In case the promisee decides to continue the contract, he would not be entitled to put an end to the contract on this ground subsequently. In either case, the promisee would be able to claim damages that he suffers as a result on the breach.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VpjiBCg_nfdNJr2iW8XH-2">
+          <mxGeometry y="80" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-1" value="&lt;div&gt;EFFECT OF REFUSAL &lt;br&gt;&lt;/div&gt;&lt;div&gt;TO ACCEPT OFFER &lt;br&gt;&lt;/div&gt;&lt;div&gt;OF PERFORMANCE&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 38&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="550" y="240" width="160" height="80" as="geometry">
+            <mxRectangle x="-360" y="360" width="320" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-4" value="&lt;div&gt;where a promisor has made an offer of performance to the promisee, and the offer has not been accepted, then the promisor is not responsible for non performance, nor does he thereby lose his rights under the contract.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VpjiBCg_nfdNJr2iW8XH-1">
+          <mxGeometry y="80" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
