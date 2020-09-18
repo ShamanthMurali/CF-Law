@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T17:15:22.527Z" agent="5.0 (X11)" etag="_cvdJLOOTmYQbfiPVO3T" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T18:31:58.934Z" agent="5.0 (X11)" etag="ChTt_vgy86ejHOjn69Kq" version="13.7.3" type="github" pages="2">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
-    <mxGraphModel dx="2114" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2964" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,6 +23,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-1" target="SSirs5h6eGf50sHcbVoI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-1" target="jNocb0CNvXqQZ48EuvPV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-1" value="Companies Act 2013" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -65,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-6" value="&lt;span style=&quot;left: 94.0977px ; top: 710.957px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.986298)&quot;&gt;Features&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1150" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-7" target="SSirs5h6eGf50sHcbVoI-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,8 +76,8 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-7" target="SSirs5h6eGf50sHcbVoI-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-7" value="&lt;span style=&quot;left: 194.404px ; top: 692.184px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.998298)&quot;&gt;Corporate &lt;/span&gt;&lt;span style=&quot;left: 213.191px ; top: 707.184px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.989043)&quot;&gt;Veil &lt;/span&gt;&lt;span style=&quot;left: 203.351px ; top: 722.184px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00535)&quot;&gt;Theory&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-7" value="&lt;div&gt;Corporate Veil Theory&lt;/div&gt;&lt;font color=&quot;#00CC00&quot;&gt;&lt;b&gt;[Salomon  Vs.  Salomon  and  Co  Ltd]&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="80" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-8" target="SSirs5h6eGf50sHcbVoI-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,25 +91,28 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-8" value="Incorporation of Company" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-16" value="Separate Legal entity, Perpetual Succession, Limited Liabilty, Articial Judicial Person" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="160" width="120" height="120" as="geometry" />
+        <mxCell id="I26di_Zlv_mUw11UhSgW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-16" target="I26di_Zlv_mUw11UhSgW-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-18" value="&lt;span style=&quot;left: 160.691px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 184.157px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.91)&quot;&gt;is &lt;/span&gt;&lt;span style=&quot;left: 162.984px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.05301)&quot;&gt;different &lt;/span&gt;&lt;span style=&quot;left: 166.037px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02261)&quot;&gt;from its &lt;/span&gt;&lt;span style=&quot;left: 160.944px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00473)&quot;&gt;members&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="160" width="120" height="80" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-16" value="Separate Legal entity " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1150" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-18" value="Company is different from its members" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1010" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-19" target="14xWNsdD24ZYNxKM7WRv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-19" value="Veil can be lifted to disregard separate legal entity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="-870" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-22" value="Get certi-cate of incor-poration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-23" value="&lt;span style=&quot;left: 437.944px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940249)&quot;&gt;For easy &lt;/span&gt;&lt;span style=&quot;left: 447.037px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.18817)&quot;&gt;ling &lt;/span&gt;&lt;span style=&quot;left: 443.864px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.06204)&quot;&gt;follow &lt;/span&gt;&lt;span style=&quot;left: 445.704px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.881475)&quot;&gt;SPICe&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-23" value="For easy ling follow SPICe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-24" value="&lt;span style=&quot;left: 301.744px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.977303)&quot;&gt;Register &lt;/span&gt;&lt;span style=&quot;left: 298.104px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 299.037px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.959859)&quot;&gt;with ROC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-24" value="Register Company with ROC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-28" target="SSirs5h6eGf50sHcbVoI-44" edge="1">
@@ -121,25 +127,25 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-29" target="SSirs5h6eGf50sHcbVoI-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-29" value="&lt;span style=&quot;left: 578.997px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00827)&quot;&gt;Equity &lt;/span&gt;&lt;span style=&quot;left: 578.277px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.92954)&quot;&gt;Shares &lt;/span&gt;&lt;span style=&quot;left: 586.771px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.982402)&quot;&gt;capital&lt;/span&gt;&lt;span style=&quot;left: 577.957px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02035)&quot;&gt;&lt;/span&gt;&lt;span style=&quot;left: 584.291px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.931295)&quot;&gt;&lt;/span&gt;&lt;span style=&quot;left: 578.957px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.964686)&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-29" value="Equity Shares capital" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-30" value="&lt;span style=&quot;left: 551.504px ; top: 1049.29px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00826)&quot;&gt;With &lt;/span&gt;&lt;span style=&quot;left: 540.824px ; top: 1064.29px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03476)&quot;&gt;Uniform &lt;/span&gt;&lt;span style=&quot;left: 546.477px ; top: 1079.29px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00593)&quot;&gt;Rights&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-30" value="With Uniform Rights" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-31" value="&lt;span style=&quot;left: 618.597px ; top: 1049.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00826)&quot;&gt;With &lt;/span&gt;&lt;span style=&quot;left: 614.251px ; top: 1064.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.09272)&quot;&gt;differ&lt;/span&gt;&lt;span style=&quot;left: 615.504px ; top: 1079.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03388)&quot;&gt;ential &lt;/span&gt;&lt;span style=&quot;left: 612.637px ; top: 1094.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.04426)&quot;&gt;Voting &lt;/span&gt;&lt;span style=&quot;left: 613.571px ; top: 1109.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00593)&quot;&gt;Rights&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-31" value="With differential Voting Rights" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-36" value="&lt;span style=&quot;left: 644.117px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03584)&quot;&gt;Defines &lt;/span&gt;&lt;span style=&quot;left: 647.664px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02581)&quot;&gt;object &lt;/span&gt;&lt;span style=&quot;left: 636.637px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.953469)&quot;&gt;and scope &lt;/span&gt;&lt;span style=&quot;left: 636.651px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01672)&quot;&gt;of work of &lt;/span&gt;&lt;span style=&quot;left: 639.224px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01155)&quot;&gt;company&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-36" value="Defines object and scope of work of company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-37" value="&lt;span style=&quot;left: 706.517px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 724.251px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.933333)&quot;&gt;can &lt;/span&gt;&lt;span style=&quot;left: 715.424px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01591)&quot;&gt;not go &lt;/span&gt;&lt;span style=&quot;left: 712.117px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02191)&quot;&gt;beyond &lt;/span&gt;&lt;span style=&quot;left: 706.304px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.967235)&quot;&gt;the scope &lt;/span&gt;&lt;span style=&quot;left: 710.237px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.10508)&quot;&gt;dened.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-37" value="Company can not go beyond the scope dened." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-40" value="&lt;span style=&quot;left: 780.091px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03584)&quot;&gt;Defines &lt;/span&gt;&lt;span style=&quot;left: 786.184px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.97704)&quot;&gt;rules, &lt;/span&gt;&lt;span style=&quot;left: 786.571px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02796)&quot;&gt;regu&lt;/span&gt;&lt;span style=&quot;left: 782.277px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02617)&quot;&gt;lations &lt;/span&gt;&lt;span style=&quot;left: 781.584px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.994192)&quot;&gt;or bye- &lt;/span&gt;&lt;span style=&quot;left: 781.904px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.975899)&quot;&gt;laws of &lt;/span&gt;&lt;span style=&quot;left: 774.304px ; top: 919.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.993014)&quot;&gt;Company&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-40" value="Defines rules, regulations or bye- laws of Company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-41" value="&lt;span style=&quot;left: 842.024px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 859.891px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.925926)&quot;&gt;has &lt;/span&gt;&lt;span style=&quot;left: 851.411px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01613)&quot;&gt;power &lt;/span&gt;&lt;span style=&quot;left: 848.784px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03241)&quot;&gt;to alter &lt;/span&gt;&lt;span style=&quot;left: 852.091px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.995313)&quot;&gt;it AoA &lt;/span&gt;&lt;span style=&quot;left: 845.837px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.05662)&quot;&gt;through &lt;/span&gt;&lt;span style=&quot;left: 848.904px ; top: 919.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.955111)&quot;&gt;Special &lt;/span&gt;&lt;span style=&quot;left: 860.397px ; top: 934.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.913488)&quot;&gt;Re&lt;/span&gt;&lt;span style=&quot;left: 845.731px ; top: 949.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.06696)&quot;&gt;solution&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-41" value="Company has power to alter it AoA through Special Resolution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-44" target="SSirs5h6eGf50sHcbVoI-45" edge="1">
@@ -148,47 +154,379 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-44" value="&lt;span style=&quot;left: 502.997px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940141)&quot;&gt;2. Issued&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-45" value="&lt;span style=&quot;left: 505.144px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.951544)&quot;&gt;3. Called &lt;/span&gt;&lt;span style=&quot;left: 514.344px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.945029)&quot;&gt;up&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-45" value="3. Called up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-49" value="&lt;span style=&quot;left: 514.344px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.945029)&quot;&gt;4. &lt;/span&gt;&lt;span style=&quot;left: 508.211px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.973507)&quot;&gt;Paid up &lt;/span&gt;&lt;span style=&quot;left: 510.344px ; top: 919.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.044)&quot;&gt;capita&lt;/span&gt;l" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-49" value="4. Paid up capital" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="14xWNsdD24ZYNxKM7WRv-1" target="14xWNsdD24ZYNxKM7WRv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="14xWNsdD24ZYNxKM7WRv-1" value="Trading with enemy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="14xWNsdD24ZYNxKM7WRv-1" value="&lt;div&gt;Trading with enemy&lt;/div&gt;&lt;font color=&quot;#00CC00&quot;&gt;&lt;b&gt;[Daimler Co. Ltd. vs. Continental Tyre &amp;amp; Rubber Co.]&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14xWNsdD24ZYNxKM7WRv-2" target="14xWNsdD24ZYNxKM7WRv-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="14xWNsdD24ZYNxKM7WRv-2" value="Where corporate entity is used to evade or circumvent tax" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="14xWNsdD24ZYNxKM7WRv-2" value="&lt;div&gt;Where corporate entity is used to evade or circumvent tax&lt;/div&gt;&lt;span style=&quot;left: 140.887px ; top: 560.618px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.967014)&quot;&gt; &lt;/span&gt;&lt;b&gt;&lt;font color=&quot;#00CC00&quot;&gt;[Dinshaw Maneckjee Petit]&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="370" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="14xWNsdD24ZYNxKM7WRv-4" target="14xWNsdD24ZYNxKM7WRv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="14xWNsdD24ZYNxKM7WRv-4" value="Where companies form other companies as their subsidiaries to act as their agent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="14xWNsdD24ZYNxKM7WRv-4" value="&lt;div&gt;Where companies form other companies as their subsidiaries to act as their agent&lt;/div&gt;&lt;font color=&quot;#00CC00&quot;&gt;&lt;b&gt;[Merchandise  Transport  Limited  vs.  British  Transport  Commission]&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="490" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14xWNsdD24ZYNxKM7WRv-5" target="14xWNsdD24ZYNxKM7WRv-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="14xWNsdD24ZYNxKM7WRv-5" value="To avoid a legal obligation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="560" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="14xWNsdD24ZYNxKM7WRv-12" value="Where the device of incorporation is adopted for some illegal or improper purpose" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="660" width="120" height="80" as="geometry" />
+        <mxCell id="14xWNsdD24ZYNxKM7WRv-12" value="&lt;div&gt;Where the device of incorporation is adopted for some illegal or improper purpose&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#00CC00&quot;&gt;&lt;b&gt;[Gilford Motor Co.vs. Horne]&lt;/b&gt;&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;left: 319.277px ; top: 341.425px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.954408)&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="700" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-14" value="&lt;div&gt;Preference share&lt;/div&gt;&lt;div&gt;capital&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I26di_Zlv_mUw11UhSgW-1" target="I26di_Zlv_mUw11UhSgW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-1" value="Articial Judicial Person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I26di_Zlv_mUw11UhSgW-2" target="I26di_Zlv_mUw11UhSgW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-2" value="Limited Liabilty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I26di_Zlv_mUw11UhSgW-3" target="I26di_Zlv_mUw11UhSgW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-3" value="Perpetual Succession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-7" value="&lt;div&gt;Common Seal&lt;/div&gt;(optional since 2015)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="14xWNsdD24ZYNxKM7WRv-5" value="&lt;div&gt;To avoid a &lt;br&gt;&lt;/div&gt;&lt;div&gt;legal obligation&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-870" y="640" width="120" height="40" as="geometry">
+            <mxRectangle x="-90" y="640" width="260" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I26di_Zlv_mUw11UhSgW-10" value="&lt;div&gt;Where  it  was  found  that  the  sole  purpose  for  the  formation  of  the  company was to use it as a device to reduce the amount to be paid by way of bonus to workmen, the Supreme Court upheld the piercing of the veil to look at the real transaction&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00CC00&quot;&gt;&lt;b&gt;[Workmen  of  Associated  Rubber  Industry  ltd.,  v.  Associated  Rubber  Industry  Ltd.]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="14xWNsdD24ZYNxKM7WRv-5">
+          <mxGeometry y="40" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-3" target="jNocb0CNvXqQZ48EuvPV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-3" target="jNocb0CNvXqQZ48EuvPV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-3" value="Companies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-5" target="jNocb0CNvXqQZ48EuvPV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-5" value="Incorporated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-6" value="Unincorporated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-10" target="jNocb0CNvXqQZ48EuvPV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-10" target="jNocb0CNvXqQZ48EuvPV-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-10" target="jNocb0CNvXqQZ48EuvPV-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-420" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-10" value="On the Basis of Mode of Incorporation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="220" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-11" value="Statutory Companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-12" value="Chartered Companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-14" target="jNocb0CNvXqQZ48EuvPV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-14" value="Registered Companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-18" target="jNocb0CNvXqQZ48EuvPV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-18" target="jNocb0CNvXqQZ48EuvPV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-18" target="jNocb0CNvXqQZ48EuvPV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-18" value="On the basis of Liability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-20" target="jNocb0CNvXqQZ48EuvPV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-20" value="&lt;div&gt;Companies Ltd. by Guarantee&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;left: 209.601px ; top: 251.886px ; font-size: 11.974px ; font-family: sans-serif ; transform: scalex(0.937145)&quot;&gt; &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(21)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-23" target="jNocb0CNvXqQZ48EuvPV-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-23" target="jNocb0CNvXqQZ48EuvPV-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-23" value="On the basis of Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-26" target="jNocb0CNvXqQZ48EuvPV-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380" y="570" />
+              <mxPoint x="-380" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-26" target="jNocb0CNvXqQZ48EuvPV-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="570" />
+              <mxPoint x="-300" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-26" value="Without Share Capita" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-27" value="Private" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-28" value="Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-31" target="jNocb0CNvXqQZ48EuvPV-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="570" />
+              <mxPoint x="-540" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-31" target="jNocb0CNvXqQZ48EuvPV-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="570" />
+              <mxPoint x="-460" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-31" value="With Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-32" value="Private" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-33" value="Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-35" target="jNocb0CNvXqQZ48EuvPV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-35" value="&lt;div&gt;Unlimited Companies &lt;/div&gt;&lt;span style=&quot;left: 209.601px ; top: 251.886px ; font-size: 11.974px ; font-family: sans-serif ; transform: scalex(0.937145)&quot;&gt; &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(92)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-38" target="jNocb0CNvXqQZ48EuvPV-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-38" target="jNocb0CNvXqQZ48EuvPV-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-38" value="On the basis of Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-41" target="jNocb0CNvXqQZ48EuvPV-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="570" />
+              <mxPoint x="-60" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-41" target="jNocb0CNvXqQZ48EuvPV-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="570" />
+              <mxPoint x="20" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-41" value="Without Share Capita" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-42" target="QDwBVIeSUC65LQVbXJEH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="640" />
+              <mxPoint x="-100" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-42" value="Private" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-43" target="QDwBVIeSUC65LQVbXJEH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-43" value="Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-46" target="jNocb0CNvXqQZ48EuvPV-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="570" />
+              <mxPoint x="-220" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-46" target="jNocb0CNvXqQZ48EuvPV-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="570" />
+              <mxPoint x="-140" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-46" value="With Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-47" target="QDwBVIeSUC65LQVbXJEH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-47" value="Private" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-48" target="QDwBVIeSUC65LQVbXJEH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="640" />
+              <mxPoint x="-100" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-48" value="Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-50" target="jNocb0CNvXqQZ48EuvPV-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-50" value="&lt;div&gt;Companies Ltd. by shares&lt;/div&gt;&lt;span style=&quot;left: 209.601px ; top: 251.886px ; font-size: 11.974px ; font-family: sans-serif ; transform: scalex(0.937145)&quot;&gt; &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(22)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-52" target="jNocb0CNvXqQZ48EuvPV-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-52" value="On the basis of Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-55" target="jNocb0CNvXqQZ48EuvPV-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-700" y="570" />
+              <mxPoint x="-700" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNocb0CNvXqQZ48EuvPV-55" target="jNocb0CNvXqQZ48EuvPV-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-620" y="570" />
+              <mxPoint x="-620" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-55" value="With Share Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-56" value="Private" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jNocb0CNvXqQZ48EuvPV-57" value="Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="580" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDwBVIeSUC65LQVbXJEH-5" target="QDwBVIeSUC65LQVbXJEH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDwBVIeSUC65LQVbXJEH-5" target="QDwBVIeSUC65LQVbXJEH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDwBVIeSUC65LQVbXJEH-5" target="QDwBVIeSUC65LQVbXJEH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDwBVIeSUC65LQVbXJEH-5" target="QDwBVIeSUC65LQVbXJEH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-5" value="Unlimited Co." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="660" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-6" value="The liability ceases on when he ceases to be member" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="740" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDwBVIeSUC65LQVbXJEH-8" target="QDwBVIeSUC65LQVbXJEH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-8" value="Liability is not unlimited till the time Company is not wound up." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="740" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDwBVIeSUC65LQVbXJEH-10" target="QDwBVIeSUC65LQVbXJEH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-10" value="Liability of each member extends to amount of Company’s debt and liabilities." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="740" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-11" value="No limit on the liability of members" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="740" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-12" value="Member can be called to contribute only in the event of winding up of Company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="860" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QDwBVIeSUC65LQVbXJEH-13" value="However, he can claim contribution from other members." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="860" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="4VHjXszzhIKlVwmtIXTH" name="Page-2">
-    <mxGraphModel dx="1053" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aaYMCqLNOdjaiOD8Z3hF-0" />
         <mxCell id="aaYMCqLNOdjaiOD8Z3hF-1" parent="aaYMCqLNOdjaiOD8Z3hF-0" />
