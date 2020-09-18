@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T14:53:10.343Z" agent="5.0 (X11)" etag="PrVqI55JdXUJT2GciMVH" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T15:03:45.916Z" agent="5.0 (X11)" etag="shVJJWytR0kF-u14KgwO" version="13.7.3" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
-    <mxGraphModel dx="1958" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2962" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,26 +28,125 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-1" value="Companies Act 2013" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-2" target="SSirs5h6eGf50sHcbVoI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-2" value="Share Capital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-3" target="SSirs5h6eGf50sHcbVoI-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-3" value="Shares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-4" target="SSirs5h6eGf50sHcbVoI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-4" target="SSirs5h6eGf50sHcbVoI-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-4" value="MOA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-5" target="SSirs5h6eGf50sHcbVoI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-5" target="SSirs5h6eGf50sHcbVoI-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-5" value="AOA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-6" target="SSirs5h6eGf50sHcbVoI-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-6" value="&lt;span style=&quot;left: 94.0977px ; top: 710.957px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.986298)&quot;&gt;Features&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-480" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-7" target="SSirs5h6eGf50sHcbVoI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-7" target="SSirs5h6eGf50sHcbVoI-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-7" value="&lt;span style=&quot;left: 194.404px ; top: 692.184px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.998298)&quot;&gt;Corporate &lt;/span&gt;&lt;span style=&quot;left: 213.191px ; top: 707.184px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.989043)&quot;&gt;Veil &lt;/span&gt;&lt;span style=&quot;left: 203.351px ; top: 722.184px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00535)&quot;&gt;Theory&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-8" target="SSirs5h6eGf50sHcbVoI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-8" target="SSirs5h6eGf50sHcbVoI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-8" target="SSirs5h6eGf50sHcbVoI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-8" value="Incorporation of Company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-16" value="Separate Legal entity, Perpetual Succession, Limited Liabilty, Articial Judicial Person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-18" value="&lt;span style=&quot;left: 160.691px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 184.157px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.91)&quot;&gt;is &lt;/span&gt;&lt;span style=&quot;left: 162.984px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.05301)&quot;&gt;different &lt;/span&gt;&lt;span style=&quot;left: 166.037px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02261)&quot;&gt;from its &lt;/span&gt;&lt;span style=&quot;left: 160.944px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00473)&quot;&gt;members&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-19" value="Veil can be lifted to disregard separate legal entity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-22" value="Get certi-cate of incor-poration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-23" value="&lt;span style=&quot;left: 437.944px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940249)&quot;&gt;For easy &lt;/span&gt;&lt;span style=&quot;left: 447.037px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.18817)&quot;&gt;ling &lt;/span&gt;&lt;span style=&quot;left: 443.864px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.06204)&quot;&gt;follow &lt;/span&gt;&lt;span style=&quot;left: 445.704px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.881475)&quot;&gt;SPICe&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-24" value="&lt;span style=&quot;left: 301.744px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.977303)&quot;&gt;Register &lt;/span&gt;&lt;span style=&quot;left: 298.104px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 299.037px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.959859)&quot;&gt;with ROC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-28" target="SSirs5h6eGf50sHcbVoI-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-28" value="&lt;span style=&quot;left: 525.051px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.915186)&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;left: 503.571px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00743)&quot;&gt;Nominal&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-29" target="SSirs5h6eGf50sHcbVoI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-29" target="SSirs5h6eGf50sHcbVoI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-29" value="&lt;span style=&quot;left: 578.997px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00827)&quot;&gt;Equity &lt;/span&gt;&lt;span style=&quot;left: 578.277px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.92954)&quot;&gt;Shares &lt;/span&gt;&lt;span style=&quot;left: 586.771px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.982402)&quot;&gt;and &lt;/span&gt;&lt;span style=&quot;left: 577.957px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02035)&quot;&gt;Prefer&lt;/span&gt;&lt;span style=&quot;left: 584.291px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.931295)&quot;&gt;ence &lt;/span&gt;&lt;span style=&quot;left: 578.957px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.964686)&quot;&gt;shares&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-30" value="&lt;span style=&quot;left: 551.504px ; top: 1049.29px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00826)&quot;&gt;With &lt;/span&gt;&lt;span style=&quot;left: 540.824px ; top: 1064.29px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03476)&quot;&gt;Uniform &lt;/span&gt;&lt;span style=&quot;left: 546.477px ; top: 1079.29px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00593)&quot;&gt;Rights&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-31" value="&lt;span style=&quot;left: 618.597px ; top: 1049.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00826)&quot;&gt;With &lt;/span&gt;&lt;span style=&quot;left: 614.251px ; top: 1064.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.09272)&quot;&gt;differ&lt;/span&gt;&lt;span style=&quot;left: 615.504px ; top: 1079.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03388)&quot;&gt;ential &lt;/span&gt;&lt;span style=&quot;left: 612.637px ; top: 1094.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.04426)&quot;&gt;Voting &lt;/span&gt;&lt;span style=&quot;left: 613.571px ; top: 1109.76px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00593)&quot;&gt;Rights&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-36" value="&lt;span style=&quot;left: 644.117px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03584)&quot;&gt;Defines &lt;/span&gt;&lt;span style=&quot;left: 647.664px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02581)&quot;&gt;object &lt;/span&gt;&lt;span style=&quot;left: 636.637px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.953469)&quot;&gt;and scope &lt;/span&gt;&lt;span style=&quot;left: 636.651px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01672)&quot;&gt;of work of &lt;/span&gt;&lt;span style=&quot;left: 639.224px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01155)&quot;&gt;company&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-37" value="&lt;span style=&quot;left: 706.517px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 724.251px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.933333)&quot;&gt;can &lt;/span&gt;&lt;span style=&quot;left: 715.424px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01591)&quot;&gt;not go &lt;/span&gt;&lt;span style=&quot;left: 712.117px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02191)&quot;&gt;beyond &lt;/span&gt;&lt;span style=&quot;left: 706.304px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.967235)&quot;&gt;the scope &lt;/span&gt;&lt;span style=&quot;left: 710.237px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.10508)&quot;&gt;dened.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-40" value="&lt;span style=&quot;left: 780.091px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03584)&quot;&gt;Defines &lt;/span&gt;&lt;span style=&quot;left: 786.184px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.97704)&quot;&gt;rules, &lt;/span&gt;&lt;span style=&quot;left: 786.571px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02796)&quot;&gt;regu&lt;/span&gt;&lt;span style=&quot;left: 782.277px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.02617)&quot;&gt;lations &lt;/span&gt;&lt;span style=&quot;left: 781.584px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.994192)&quot;&gt;or bye- &lt;/span&gt;&lt;span style=&quot;left: 781.904px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.975899)&quot;&gt;laws of &lt;/span&gt;&lt;span style=&quot;left: 774.304px ; top: 919.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.993014)&quot;&gt;Company&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-41" value="&lt;span style=&quot;left: 842.024px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.976798)&quot;&gt;Company &lt;/span&gt;&lt;span style=&quot;left: 859.891px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.925926)&quot;&gt;has &lt;/span&gt;&lt;span style=&quot;left: 851.411px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.01613)&quot;&gt;power &lt;/span&gt;&lt;span style=&quot;left: 848.784px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.03241)&quot;&gt;to alter &lt;/span&gt;&lt;span style=&quot;left: 852.091px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.995313)&quot;&gt;it AoA &lt;/span&gt;&lt;span style=&quot;left: 845.837px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.05662)&quot;&gt;through &lt;/span&gt;&lt;span style=&quot;left: 848.904px ; top: 919.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.955111)&quot;&gt;Special &lt;/span&gt;&lt;span style=&quot;left: 860.397px ; top: 934.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.913488)&quot;&gt;Re&lt;/span&gt;&lt;span style=&quot;left: 845.731px ; top: 949.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.06696)&quot;&gt;solution&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-44" target="SSirs5h6eGf50sHcbVoI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-44" value="&lt;span style=&quot;left: 502.997px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940141)&quot;&gt;2. Issued&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-45" value="&lt;span style=&quot;left: 505.144px ; top: 874.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.951544)&quot;&gt;3. Called &lt;/span&gt;&lt;span style=&quot;left: 514.344px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.945029)&quot;&gt;up&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-49" value="&lt;span style=&quot;left: 514.344px ; top: 889.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.945029)&quot;&gt;4. &lt;/span&gt;&lt;span style=&quot;left: 508.211px ; top: 904.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.973507)&quot;&gt;Paid up &lt;/span&gt;&lt;span style=&quot;left: 510.344px ; top: 919.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.044)&quot;&gt;capita&lt;/span&gt;l" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
