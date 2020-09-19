@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T18:46:44.613Z" agent="5.0 (X11)" etag="jmW_-gN6DoTpek85EttB" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T18:46:56.065Z" agent="5.0 (X11)" etag="h5F7NdBB_WeO4FMZZ2Te" version="13.7.3" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
     <mxGraphModel dx="3814" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -710,7 +710,7 @@
           <mxGeometry y="50" width="350" height="130" as="geometry" />
         </mxCell>
         <mxCell id="I_-eNEe016mynJVv6c57-14" value="&lt;div&gt;Public &lt;br&gt;&lt;/div&gt;&lt;div&gt;Financial &lt;br&gt;&lt;/div&gt;&lt;div&gt;Institutions&lt;/div&gt;&lt;div&gt;(PFI)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(72)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;startSize=100;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2A2A2A;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1250" y="1400" width="120" height="50" as="geometry">
+          <mxGeometry x="1250" y="1400" width="120" height="80" as="geometry">
             <mxRectangle x="1440" y="1380" width="350" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
