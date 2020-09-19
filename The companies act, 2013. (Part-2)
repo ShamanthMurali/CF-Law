@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T19:39:11.456Z" agent="5.0 (X11)" etag="2aOzbC58u3gvRyLdalNM" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T19:42:30.685Z" agent="5.0 (X11)" etag="F8cuz1Vkv6bj-BfMnbWf" version="13.7.3" type="github">
   <diagram id="daQc_qggUSb_Ff3pbO0e" name="Page-1">
-    <mxGraphModel dx="6243" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3314" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,13 +218,13 @@
         <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-45" value="Without Share Capita" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-46" value="Private" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-46" value="Private" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="1580" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F3UoY-y3HTZJ5ZDn-J-k-48" target="F3UoY-y3HTZJ5ZDn-J-k-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-48" value="Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-48" value="Public" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="1580" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F3UoY-y3HTZJ5ZDn-J-k-51" target="F3UoY-y3HTZJ5ZDn-J-k-55">
