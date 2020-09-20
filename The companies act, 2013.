@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T16:30:56.425Z" agent="5.0 (X11)" etag="muXrUp3tK0w2fuSWB4hk" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T16:57:04.892Z" agent="5.0 (X11)" etag="DJaAanMbkTFvlKE6yUkV" version="13.7.3" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
-    <mxGraphModel dx="2324" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1451" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="14xWNsdD24ZYNxKM7WRv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-3" target="14xWNsdD24ZYNxKM7WRv-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-3" value="Shares" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-3" value="&lt;div&gt;Shares&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(84)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 485.047px ; top: 897.524px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.947553)&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-4" target="SSirs5h6eGf50sHcbVoI-36" edge="1">
@@ -121,9 +121,6 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-28" target="SSirs5h6eGf50sHcbVoI-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-28" value="&lt;span style=&quot;left: 525.051px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.915186)&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;left: 503.571px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00743)&quot;&gt;Nominal&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-29" target="SSirs5h6eGf50sHcbVoI-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -151,20 +148,19 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-41" value="Company has power to alter it AoA through Special Resolution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-44" target="SSirs5h6eGf50sHcbVoI-45" edge="1">
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-44" target="bBl3fAH_iA7FOo3e5DAp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-44" value="&lt;span style=&quot;left: 502.997px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940141)&quot;&gt;2. Issued&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yysAGnkmJqSncDdsFOx5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-45" target="SSirs5h6eGf50sHcbVoI-49">
+        <mxCell id="yysAGnkmJqSncDdsFOx5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-45" target="SSirs5h6eGf50sHcbVoI-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-45" value="3. Called up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-49" value="4. Paid up capital" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="190" y="405" width="120" height="40" as="geometry">
+            <mxRectangle x="190" y="405" width="180" height="90" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-49" value="4. Paid up capital" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="340" width="120" height="40" as="geometry" />
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-8" value="is the total amount paid or credited as paid up on shares issued. It is equal to called up capital less calls in arrears" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SSirs5h6eGf50sHcbVoI-49">
+          <mxGeometry y="35" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="14xWNsdD24ZYNxKM7WRv-1" target="14xWNsdD24ZYNxKM7WRv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -289,11 +285,48 @@
         </mxCell>
         <UserObject label="Companies" link="https://viewer.diagrams.net/?highlight=0000ff&amp;layers=1&amp;nav=1&amp;title=The%20companies%20act%2C%202013.%20(Part-2)#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FShamanthMurali%2FCF-Law%2Fmaster%2FThe%2520companies%2520act%252C%25202013.%2520(Part-2)" id="B_T4-reMd93WHcWZR0oI-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="-400" y="80" width="120" height="40" as="geometry" />
+            <mxGeometry x="-390" y="80" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="B_T4-reMd93WHcWZR0oI-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="-290" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBl3fAH_iA7FOo3e5DAp-1" target="SSirs5h6eGf50sHcbVoI-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-1" value="&lt;div&gt;&lt;span style=&quot;left: 502.997px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940141)&quot;&gt;3. Subscribed&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(86)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 485.047px ; top: 897.524px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.947553)&quot;&gt;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="190" y="280" width="170" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-6" value="subscribed capital” as such part of the capital which is for the time being subscribed by the members of a company." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bBl3fAH_iA7FOo3e5DAp-1">
+          <mxGeometry y="40" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-44" value="&lt;div&gt;&lt;span style=&quot;left: 502.997px ; top: 859.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.940141)&quot;&gt;2. Issued&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(50)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 485.047px ; top: 897.524px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.947553)&quot;&gt;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="190" y="220" width="120" height="40" as="geometry">
+            <mxRectangle x="190" y="220" width="160" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-5" value="which  means  such  capital as the company issues from time to time for subscription." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SSirs5h6eGf50sHcbVoI-44">
+          <mxGeometry y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-28" value="&lt;div&gt;&lt;span style=&quot;left: 525.051px ; top: 829.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(0.915186)&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;left: 503.571px ; top: 844.13px ; font-size: 13.3333px ; font-family: sans-serif ; transform: scalex(1.00743)&quot;&gt;Nominal&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(8)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 485.047px ; top: 897.524px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.947553)&quot;&gt; &lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="190" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="190" y="160" width="300" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-4" value=" “Authorised capital” or “Nominal capital” means such capital  as  is  authorised   by the  memorandum  of  a  company  to  be  the  maximum  amount  of  share  capital  of  the  company.  Thus,  it  is  the sum stated in the memorandum as the capital of the company with which it is to be registe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SSirs5h6eGf50sHcbVoI-28">
+          <mxGeometry y="40" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-45" value="&lt;div&gt;3. Called up&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 2(15)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 485.047px ; top: 897.524px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.947553)&quot;&gt;&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="190" y="345" width="120" height="40" as="geometry">
+            <mxRectangle x="190" y="345" width="170" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBl3fAH_iA7FOo3e5DAp-7" value="such part of the capital, which has been called for payment. It is the total amount called up on the shares issued. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SSirs5h6eGf50sHcbVoI-45">
+          <mxGeometry y="40" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
