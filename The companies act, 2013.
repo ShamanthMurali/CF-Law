@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T14:14:14.521Z" agent="5.0 (X11)" etag="IfTKaoSD5UT159rEPuVn" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T14:17:02.967Z" agent="5.0 (X11)" etag="8bBcwiOc6nJxl2vyeI0d" version="13.7.3" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
-    <mxGraphModel dx="1716" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,8 +140,20 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-31" value="With differential Voting Rights" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-36" target="CuvsITGPqePoXAqImEAR-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="240" />
+              <mxPoint x="810" y="240" />
+              <mxPoint x="810" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-36" value="Defines object and scope of work of company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-37" target="CuvsITGPqePoXAqImEAR-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-37" value="Company can not go beyond the scope dened." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
@@ -423,13 +435,13 @@
         <mxCell id="2YDjtUKXABA5X7DNmDEY-30" value="X" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="2YDjtUKXABA5X7DNmDEY-27" vertex="1">
           <mxGeometry x="160" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-1" target="CuvsITGPqePoXAqImEAR-2" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CuvsITGPqePoXAqImEAR-1" target="CuvsITGPqePoXAqImEAR-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-1" value="&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 4&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="CuvsITGPqePoXAqImEAR-1" value="&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 4&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="670" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-6" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="360" />
@@ -437,10 +449,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-3" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-4" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="340" />
@@ -448,115 +460,142 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-5" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1000" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-7" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-2" target="CuvsITGPqePoXAqImEAR-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-2" value="As per Section 4, Memorandum of a company shall be drawn up in such form as is given in Tables A, B, C, D and E in Schedule I of the Companies Act, 2013." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-2" value="As per Section 4, Memorandum of a company shall be drawn up in such form as is given in Tables A, B, C, D and E in Schedule I of the Companies Act, 2013." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="505" y="300" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-3" target="CuvsITGPqePoXAqImEAR-15" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-3" target="CuvsITGPqePoXAqImEAR-15" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-3" value="limited by guarantee and having a share capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-3" value="limited by guarantee and having a share capital" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="680" y="360" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-4" target="CuvsITGPqePoXAqImEAR-14" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-4" target="CuvsITGPqePoXAqImEAR-14" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-4" value="Unlimited cos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-4" value="Unlimited cos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="810" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-5" target="CuvsITGPqePoXAqImEAR-13" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-5" target="CuvsITGPqePoXAqImEAR-13" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-5" value="Unlimited cos and having a share capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-5" value="Unlimited cos and having a share capital" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="940" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-6" target="CuvsITGPqePoXAqImEAR-16" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-6" target="CuvsITGPqePoXAqImEAR-16" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-6" value="cos by guarantee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-6" value="cos by guarantee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="550" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-7" target="CuvsITGPqePoXAqImEAR-8" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuvsITGPqePoXAqImEAR-7" target="CuvsITGPqePoXAqImEAR-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-7" value="&lt;div&gt;limited cos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-7" value="&lt;div&gt;limited cos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="420" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-8" value="Table A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-8" value="Table A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="440" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-13" value="Table E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-13" value="Table E" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="960" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-14" value="Table D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-14" value="Table D" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="830" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-15" value="Table C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-15" value="Table C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="700" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-16" value="Table B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-16" value="Table B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="570" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-32" value="Content of the Memorandum" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
-          <mxGeometry x="820" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-33" target="CuvsITGPqePoXAqImEAR-44" visible="0">
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-32" target="CuvsITGPqePoXAqImEAR-33" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-33" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Name Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-32" target="CuvsITGPqePoXAqImEAR-34" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-32" target="CuvsITGPqePoXAqImEAR-35" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-32" target="CuvsITGPqePoXAqImEAR-36" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-32" target="CuvsITGPqePoXAqImEAR-37" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-32" target="CuvsITGPqePoXAqImEAR-38" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuvsITGPqePoXAqImEAR-32" value="Content of the Memorandum" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="830" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CuvsITGPqePoXAqImEAR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuvsITGPqePoXAqImEAR-33" target="CuvsITGPqePoXAqImEAR-44" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuvsITGPqePoXAqImEAR-33" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Name Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="820" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-34" target="CuvsITGPqePoXAqImEAR-46" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuvsITGPqePoXAqImEAR-34" target="CuvsITGPqePoXAqImEAR-46" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-34" value="&lt;div&gt;Registered office&lt;/div&gt;&lt;div&gt;clause&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-34" value="&lt;div&gt;Registered office&lt;/div&gt;&lt;div&gt;clause&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="820" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-35" target="CuvsITGPqePoXAqImEAR-48" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CuvsITGPqePoXAqImEAR-35" target="CuvsITGPqePoXAqImEAR-48" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-35" value="&lt;div&gt;Object or&lt;/div&gt;&lt;div&gt;objective clause&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-35" value="&lt;div&gt;Object or&lt;/div&gt;&lt;div&gt;objective clause&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="820" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-36" target="CuvsITGPqePoXAqImEAR-51" visible="0">
+        <mxCell id="CuvsITGPqePoXAqImEAR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CuvsITGPqePoXAqImEAR-36" target="CuvsITGPqePoXAqImEAR-51" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-36" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Liability Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-36" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Liability Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="820" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-37" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Capital Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-37" target="CuvsITGPqePoXAqImEAR-53" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuvsITGPqePoXAqImEAR-37" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Capital Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="820" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-38" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Association Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuvsITGPqePoXAqImEAR-38" target="hcv-QPVu4g4XNN9k-nSq-2" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CuvsITGPqePoXAqImEAR-38" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Association Clause&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="820" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-44" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;It must end in the word &quot;limited&quot; if it&#39;s a public company or &quot;Private limited&quot; if it&#39;s a private company.&lt;/li&gt;&lt;li&gt;It can&#39;t be identical to any existing company&#39;s name.&lt;/li&gt;&lt;li&gt;It can&#39;t allude to the new company doing the business of an existing company.&lt;/li&gt;&lt;li&gt;It should not be misleading in any way.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-44" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;It must end in the word &quot;limited&quot; if it&#39;s a public company or &quot;Private limited&quot; if it&#39;s a private company.&lt;/li&gt;&lt;li&gt;It can&#39;t be identical to any existing company&#39;s name.&lt;/li&gt;&lt;li&gt;It can&#39;t allude to the new company doing the business of an existing company.&lt;/li&gt;&lt;li&gt;It should not be misleading in any way.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="960" y="270" width="360" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-46" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;The registered office&#39;s physical location determines which &lt;br&gt;jurisdiction the Registrar of Companies and which court the company &lt;br&gt;would fall under.&lt;/li&gt;&lt;li&gt;It also confirms the company&#39;s nationality.&lt;/li&gt;&lt;li&gt;The registered office&#39;s full address must be provided to the Registrar of Companies to simplify further communications.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-46" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;The registered office&#39;s physical location determines which &lt;br&gt;jurisdiction the Registrar of Companies and which court the company &lt;br&gt;would fall under.&lt;/li&gt;&lt;li&gt;It also confirms the company&#39;s nationality.&lt;/li&gt;&lt;li&gt;The registered office&#39;s full address must be provided to the Registrar of Companies to simplify further communications.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="960" y="330" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-48" value="&lt;ul&gt;&lt;li&gt;It defines and limits the scope of companies operations.&lt;br&gt;&lt;/li&gt;&lt;li&gt;It details the company&#39;s scope of activity for the members and explains how the members&#39; capital will be used.&lt;/li&gt;&lt;li&gt;It protects shareholders funds and ensures the funds will be used &lt;br&gt;for the specific business purposes for which they were raised and that &lt;br&gt;they won&#39;t be risked in other endeavors.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-48" value="&lt;ul&gt;&lt;li&gt;It defines and limits the scope of companies operations.&lt;br&gt;&lt;/li&gt;&lt;li&gt;It details the company&#39;s scope of activity for the members and explains how the members&#39; capital will be used.&lt;/li&gt;&lt;li&gt;It protects shareholders funds and ensures the funds will be used &lt;br&gt;for the specific business purposes for which they were raised and that &lt;br&gt;they won&#39;t be risked in other endeavors.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="960" y="390" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-51" value="The liability clause&lt;br/&gt; explains what liability each of the company&#39;s members faces. If the &lt;br/&gt;company is limited by shares, the liability that each member faces can &lt;br/&gt;be no more than the face value of shares that he or she holds. If it&#39;s a&lt;br/&gt; company that&#39;s limited by guarantee, this clause must define how much &lt;br/&gt;liability each individual company member holds. If it&#39;s an unlimited &lt;br/&gt;company, this particular clause would not be included in the MOA." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" visible="0" parent="1">
+        <mxCell id="CuvsITGPqePoXAqImEAR-51" value="The liability clause&lt;br/&gt; explains what liability each of the company&#39;s members faces. If the &lt;br/&gt;company is limited by shares, the liability that each member faces can &lt;br/&gt;be no more than the face value of shares that he or she holds. If it&#39;s a&lt;br/&gt; company that&#39;s limited by guarantee, this clause must define how much &lt;br/&gt;liability each individual company member holds. If it&#39;s an unlimited &lt;br/&gt;company, this particular clause would not be included in the MOA." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1" visible="0">
           <mxGeometry x="960" y="450" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CuvsITGPqePoXAqImEAR-53" value="The capital clause lists information about the total capital held by the&lt;br/&gt; proposed company. This amount is called the company&#39;s authorized &lt;br/&gt;capital. Companies aren&#39;t permitted to collect more money than the &lt;br/&gt;amount listed under authorized capital. The way the capital is divided &lt;br/&gt;into equity share capital and preference share capital also needs to be &lt;br/&gt;listed in the capital clause. The number of shares the company puts in &lt;br/&gt;equity share capital and preference share capital, alongside their &lt;br/&gt;value, needs to be included in the MOA." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="970" y="520" width="440" height="120" as="geometry" />
+        <mxCell id="CuvsITGPqePoXAqImEAR-53" value="The capital clause lists information about the total capital held by the&lt;br/&gt; proposed company. This amount is called the company&#39;s authorized &lt;br/&gt;capital. Companies aren&#39;t permitted to collect more money than the &lt;br/&gt;amount listed under authorized capital. The way the capital is divided &lt;br/&gt;into equity share capital and preference share capital also needs to be &lt;br/&gt;listed in the capital clause. The number of shares the company puts in &lt;br/&gt;equity share capital and preference share capital, alongside their &lt;br/&gt;value, needs to be included in the MOA." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="960" y="500" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-2" value="The association&lt;br/&gt; clause explains that any individual signing the bottom of the MOA wants&lt;br/&gt; to be part of the association that&#39;s being formed by the memorandum. &lt;br/&gt;The MOA has to be signed by at least seven people or more if it&#39;s a &lt;br/&gt;public company. It has to be signed by at least two or more people if &lt;br/&gt;it&#39;s a private company. The signatures also have to be affirmed by &lt;br/&gt;witnesses. There can be one witness for all of the signatures, but none &lt;br/&gt;of the subscribers can witness the signatures of the others. All &lt;br/&gt;subscribers and witnesses must provide their addresses and occupations &lt;br/&gt;in writing." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="960" y="545" width="440" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
