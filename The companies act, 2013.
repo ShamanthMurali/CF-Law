@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T14:18:19.603Z" agent="5.0 (X11)" etag="mGqNVLvBPHL2_H4aIldk" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T15:09:37.686Z" agent="5.0 (X11)" etag="3C96DeBQEibJd_CJBZyg" version="13.7.3" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
-    <mxGraphModel dx="2154" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,10 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-4" target="SSirs5h6eGf50sHcbVoI-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-4" value="MOA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-4" target="hcv-QPVu4g4XNN9k-nSq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSirs5h6eGf50sHcbVoI-4" value="&lt;div&gt;MOA&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Memorandum Of Association)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-5" target="SSirs5h6eGf50sHcbVoI-40" edge="1">
@@ -65,8 +68,8 @@
         <mxCell id="SSirs5h6eGf50sHcbVoI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-5" target="SSirs5h6eGf50sHcbVoI-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-5" value="AOA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="SSirs5h6eGf50sHcbVoI-5" value="&lt;div&gt;AOA&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Articles Of Association)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SSirs5h6eGf50sHcbVoI-6" target="SSirs5h6eGf50sHcbVoI-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,14 +158,25 @@
         <mxCell id="hcv-QPVu4g4XNN9k-nSq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-37" target="CuvsITGPqePoXAqImEAR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSirs5h6eGf50sHcbVoI-37" value="Company can not go beyond the scope dened." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SSirs5h6eGf50sHcbVoI-37" value="Company can not go beyond the scope defined." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-40" target="hcv-QPVu4g4XNN9k-nSq-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="260" />
+              <mxPoint x="1370" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-40" value="Defines rules, regulations or bye- laws of Company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSirs5h6eGf50sHcbVoI-41" target="hcv-QPVu4g4XNN9k-nSq-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSirs5h6eGf50sHcbVoI-41" value="Company has power to alter it AoA through Special Resolution" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="1380" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBl3fAH_iA7FOo3e5DAp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SSirs5h6eGf50sHcbVoI-44" target="bBl3fAH_iA7FOo3e5DAp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -596,6 +610,63 @@
         </mxCell>
         <mxCell id="hcv-QPVu4g4XNN9k-nSq-2" value="The association&lt;br/&gt; clause explains that any individual signing the bottom of the MOA wants&lt;br/&gt; to be part of the association that&#39;s being formed by the memorandum. &lt;br/&gt;The MOA has to be signed by at least seven people or more if it&#39;s a &lt;br/&gt;public company. It has to be signed by at least two or more people if &lt;br/&gt;it&#39;s a private company. The signatures also have to be affirmed by &lt;br/&gt;witnesses. There can be one witness for all of the signatures, but none &lt;br/&gt;of the subscribers can witness the signatures of the others. All &lt;br/&gt;subscribers and witnesses must provide their addresses and occupations &lt;br/&gt;in writing." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" visible="0" parent="1">
           <mxGeometry x="960" y="545" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcv-QPVu4g4XNN9k-nSq-19" target="hcv-QPVu4g4XNN9k-nSq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcv-QPVu4g4XNN9k-nSq-19" target="hcv-QPVu4g4XNN9k-nSq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-19" value="Doctrine  of  vires" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-20" value="&lt;div&gt;Doctrine  of &lt;br&gt;&lt;/div&gt;&lt;div&gt;intra vires&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcv-QPVu4g4XNN9k-nSq-21" target="hcv-QPVu4g4XNN9k-nSq-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-21" value="&lt;div&gt;Doctrine  of &lt;br&gt;&lt;/div&gt;&lt;div&gt;ultra  vires&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1100" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-24" value="within authority" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-25" value="beyound authority" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcv-QPVu4g4XNN9k-nSq-26" target="hcv-QPVu4g4XNN9k-nSq-28" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-26" value="any act done or a contract made by the company which travels beyond the powers not only of the directors but also of the company is wholly void and inoperative in law and is therefore not binding on the company." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1015" y="240" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcv-QPVu4g4XNN9k-nSq-28" target="hcv-QPVu4g4XNN9k-nSq-30" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-28" value="&lt;div&gt;&lt;span style=&quot;left: 60px ; top: 1018.32px ; font-size: 18.3333px ; font-family: sans-serif ; transform: scalex(0.936239)&quot;&gt;&lt;/span&gt;&lt;font color=&quot;#00CC00&quot;&gt;&lt;b&gt;[Ashbury Railway Carriage and Iron Company Limited v. Riche-(1875)]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://youtu.be/TFGOyqPwpk4?t=515&quot;&gt;Video&lt;/a&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1020" y="340" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcv-QPVu4g4XNN9k-nSq-30" target="hcv-QPVu4g4XNN9k-nSq-31" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-30" value="&lt;div&gt;&lt;b&gt;An ultra vires contract can never be made binding on the company.  It cannot become “Intravires” by reasons of estoppel, acquiescence, Iapse of time, delay or ratication.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The whole position regarding the doctrine of ultra vires can be summed up as:&lt;/div&gt;&lt;div&gt;(i)          When  an  act  is  performed,  which  though  legal  in  itself,  is  not  authorized  by  the  object  clause  of  the  memorandum, or by the statute, it is said to be ultravires the company, and hence null and void.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)        An  act  which  is  ultravires,  the  company  cannot  be  ratified  even  by  the  unanimous  consent  of  all  the  shareholders.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii)      An act which is ultravires the directors, but intravires the company can be ratified by the members of the company through a resolution passed at a general meeting.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv)    If an act is ultravires the Articles, it can be ratied by altering the Articles by a Special Resolution at a general meeting.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1000" y="440" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-31" value="doctrine  of  ultravires  has  been  defeated  as  now  the  object  clause  can  be  easily  altered,  by  passing  just  a  special  resolution  of  the  shareholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1000" y="810" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-36" value="External affairs " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-37" value="Internal affairs " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-38" value="&lt;div&gt;Content of the &lt;br&gt;&lt;/div&gt;&lt;div&gt;AOA&lt;br&gt;&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 5&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1310" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcv-QPVu4g4XNN9k-nSq-41" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
