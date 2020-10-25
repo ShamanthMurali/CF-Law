@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T20:02:27.581Z" agent="5.0 (X11)" etag="VlCd_mSedKEYH11xSF8f" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T12:33:41.616Z" agent="5.0 (X11)" etag="VscQH4OqPJYearYvboHM" version="13.8.2" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
-    <mxGraphModel dx="2429" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,15 +324,15 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-179" value="cross offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-770" y="440" width="120" height="40" as="geometry">
-            <mxRectangle x="-390" y="480" width="200" height="130" as="alternateBounds" />
+            <mxRectangle x="-770" y="440" width="200" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02b7j2pqJwGw1zSQj-g7-187" value="When two parties exchange identical oers in ignorance at the time of each other’s oer,&lt;br/&gt;the oers are called cross oers.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-179" vertex="1">
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-187" value="When two parties exchange identical offers in ignorance at the time of each other’s offer,&lt;br&gt;the offers are called cross offers.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-179" vertex="1">
           <mxGeometry x="10" y="50" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-174" value="counter offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-900" y="440" width="120" height="40" as="geometry">
-            <mxRectangle x="-520" y="480" width="200" height="150" as="alternateBounds" />
+            <mxRectangle x="-900" y="440" width="200" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-188" value="&amp;nbsp;When the offeree oers to qualified acceptance of the oer subject to modifications and&lt;br&gt;variations in the terms of original offer, he is said to have made a counter offer" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-174" vertex="1">
@@ -340,7 +340,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-175" value="special offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-1030" y="440" width="120" height="40" as="geometry">
-            <mxRectangle x="-650" y="480" width="200" height="120" as="alternateBounds" />
+            <mxRectangle x="-1030" y="440" width="200" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-186" value="When the offer is made to a specific or an ascertained person, it is known as a&lt;br&gt;specific offer." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-175" vertex="1">
@@ -348,7 +348,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-176" value="general offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-1160" y="440" width="120" height="40" as="geometry">
-            <mxRectangle x="-780" y="480" width="200" height="120" as="alternateBounds" />
+            <mxRectangle x="-1160" y="440" width="200" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-185" value="&amp;nbsp;It is an offer made to public at large and hence anyone can accept and do the desired act" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-176" vertex="1">
