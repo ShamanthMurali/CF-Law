@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:45:22.989Z" agent="5.0 (X11)" etag="O84MQmwdYCT9oyq65gMT" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T05:46:53.374Z" agent="5.0 (X11)" etag="D2EcKmyqpJy4Zmc9XOMq" version="13.8.2" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
     <mxGraphModel dx="2037" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="02b7j2pqJwGw1zSQj-g7-57" target="02b7j2pqJwGw1zSQj-g7-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="02b7j2pqJwGw1zSQj-g7-57" value="&#xa;&#xa;&lt;!--StartFragment--&gt;Performance&lt;!--EndFragment--&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-57" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; Performance&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="02b7j2pqJwGw1zSQj-g7-97" target="02b7j2pqJwGw1zSQj-g7-87" edge="1">
@@ -104,7 +104,7 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="02b7j2pqJwGw1zSQj-g7-56" target="02b7j2pqJwGw1zSQj-g7-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="02b7j2pqJwGw1zSQj-g7-56" value="Formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-56" value="&lt;b&gt;Formation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="02b7j2pqJwGw1zSQj-g7-87" target="02b7j2pqJwGw1zSQj-g7-85" edge="1">
@@ -314,6 +314,12 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-88" value="&amp;nbsp;An agreement which is binding and enforceable is a valid contract." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-87" vertex="1">
           <mxGeometry x="5" y="70" width="185" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-171" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Kinds of offer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-900" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02b7j2pqJwGw1zSQj-g7-23" target="yWsJi2gQocz6ohqaBc7i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-178" value="standing offer" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-640" y="440" width="120" height="40" as="geometry">
             <mxRectangle x="-260" y="480" width="200" height="130" as="alternateBounds" />
@@ -354,6 +360,14 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-185" value="&amp;nbsp;It is an offer made to public at large and hence anyone can accept and do the desired act" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-176" vertex="1">
           <mxGeometry x="10" y="50" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;align=center;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-100" y="320" width="160" height="40" as="geometry">
+            <mxRectangle x="-100" y="320" width="230" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-3" value="&amp;nbsp; Act&amp;nbsp; a&amp;nbsp; proposal&amp;nbsp; can&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication&amp;nbsp; of&amp;nbsp; its&amp;nbsp; acceptance&amp;nbsp; is&amp;nbsp; complete&amp;nbsp; as&amp;nbsp; against&amp;nbsp; the&amp;nbsp; proposer.&amp;nbsp;&amp;nbsp;&amp;nbsp; An&amp;nbsp; acceptance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication of acceptance is complete as against the acceptor." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yWsJi2gQocz6ohqaBc7i-1">
+          <mxGeometry y="40" width="230" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-25" value="Legal Rules of a&#xa;valid acceptance" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-420" y="320" width="120" height="40" as="geometry">
             <mxRectangle x="-40" y="360" width="410" height="200" as="alternateBounds" />
@@ -384,9 +398,6 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-166" value="1. The person making the proposal or offer is called the ‘promisor’ or ‘offeror’.&lt;br&gt;&lt;br&gt;2. For a valid offer, the party making it must express his willingness ‘to do’ or ‘not to do’ something.&lt;br&gt;&lt;br&gt;3. An offer can be positive as well as negative.&lt;br&gt;&lt;br&gt;4. The willingness must be expressed with a view to obtain the assent.&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-29" vertex="1">
           <mxGeometry x="10" y="50" width="380" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="02b7j2pqJwGw1zSQj-g7-171" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Kinds of offer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-900" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-27" value="&#xa;   Legal Rules of a&#xa;valid offer&#xa;" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-1060" y="320" width="120" height="40" as="geometry">
             <mxRectangle x="-680" y="360" width="300" height="430" as="alternateBounds" />
@@ -395,12 +406,9 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-170" value="&lt;span&gt;1. It must be capable of creating legal relations.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;2. It must be certain, definite and not vague&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;3. It must be communicated to the offeree&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;4. It must be made with a view to obtaining the assent of the other party&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;5. It may be conditional&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;6 Offer should not contain a term the non compliance of which would amount to acceptance&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;7. The oer may be either specific&amp;nbsp;or general&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;8. Offer is Different from a mere statement of intention, an invitation to offer, a mere communication&lt;/span&gt;&lt;br&gt;&lt;span&gt;of information, Casual Equity, A prospectus and Advertisement.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;9. The offer may be express or implied&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;10. A statement of price is not an offer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-27" vertex="1">
           <mxGeometry x="10" y="50" width="280" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="yWsJi2gQocz6ohqaBc7i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02b7j2pqJwGw1zSQj-g7-23" target="yWsJi2gQocz6ohqaBc7i-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-23" value="Acceptance 2(b)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-330" y="230" width="120" height="40" as="geometry">
-            <mxRectangle x="40" y="280" width="390" height="110" as="alternateBounds" />
+            <mxRectangle x="-330" y="230" width="390" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-192" value="“When the person to whom the proposal is made signies his assent thereto, proposal is said to be&lt;br/&gt;accepted. The proposal, when accepted, becomes a promise”." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-23" vertex="1">
@@ -416,7 +424,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-16" value="Enforceability by law" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-180" y="160" width="160" height="40" as="geometry">
-            <mxRectangle x="200" y="200" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="-180" y="160" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-46" value="&amp;nbsp;An agreement to become a contract must give rise to a legal obligation which means a duly enforceable by law." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-16" vertex="1">
@@ -454,14 +462,6 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-48" value="Contract = Accepted proposal/Agreement + Enforceability by law" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-8" vertex="1">
           <mxGeometry x="10" y="90" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;align=center;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-100" y="320" width="160" height="40" as="geometry">
-            <mxRectangle x="-100" y="320" width="230" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yWsJi2gQocz6ohqaBc7i-3" value="&amp;nbsp; Act&amp;nbsp; a&amp;nbsp; proposal&amp;nbsp; can&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication&amp;nbsp; of&amp;nbsp; its&amp;nbsp; acceptance&amp;nbsp; is&amp;nbsp; complete&amp;nbsp; as&amp;nbsp; against&amp;nbsp; the&amp;nbsp; proposer.&amp;nbsp;&amp;nbsp;&amp;nbsp; An&amp;nbsp; acceptance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication of acceptance is complete as against the acceptor." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yWsJi2gQocz6ohqaBc7i-1">
-          <mxGeometry y="40" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
