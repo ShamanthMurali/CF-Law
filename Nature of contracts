@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:26:31.326Z" agent="5.0 (X11)" etag="9pFKiUpvOPH2Tgs_96FM" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T05:42:53.045Z" agent="5.0 (X11)" etag="mHFF-Qz5uupoFrHbRxmw" version="13.8.2" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
-    <mxGraphModel dx="3339" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,8 +395,11 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-170" value="&lt;span&gt;1. It must be capable of creating legal relations.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;2. It must be certain, definite and not vague&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;3. It must be communicated to the offeree&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;4. It must be made with a view to obtaining the assent of the other party&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;5. It may be conditional&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;6 Offer should not contain a term the non compliance of which would amount to acceptance&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;7. The oer may be either specific&amp;nbsp;or general&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;8. Offer is Different from a mere statement of intention, an invitation to offer, a mere communication&lt;/span&gt;&lt;br&gt;&lt;span&gt;of information, Casual Equity, A prospectus and Advertisement.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;9. The offer may be express or implied&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;10. A statement of price is not an offer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-27" vertex="1">
           <mxGeometry x="10" y="50" width="280" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02b7j2pqJwGw1zSQj-g7-23" target="yWsJi2gQocz6ohqaBc7i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-23" value="Acceptance 2(b)" style="swimlane;swimlaneFillColor=#333333;startSize=39;fontColor=#000000;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-340" y="240" width="120" height="40" as="geometry">
+          <mxGeometry x="-330" y="230" width="120" height="40" as="geometry">
             <mxRectangle x="40" y="280" width="390" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -451,6 +454,14 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-48" value="Contract = Accepted proposal/Agreement + Enforceability by law" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-8" vertex="1">
           <mxGeometry x="10" y="90" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC6600&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-100" y="320" width="160" height="40" as="geometry">
+            <mxRectangle x="-100" y="320" width="230" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-3" value="&amp;nbsp; Act&amp;nbsp; a&amp;nbsp; proposal&amp;nbsp; can&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication&amp;nbsp; of&amp;nbsp; its&amp;nbsp; acceptance&amp;nbsp; is&amp;nbsp; complete&amp;nbsp; as&amp;nbsp; against&amp;nbsp; the&amp;nbsp; proposer.&amp;nbsp;&amp;nbsp;&amp;nbsp; An&amp;nbsp; acceptance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication of acceptance is complete as against the acceptor." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yWsJi2gQocz6ohqaBc7i-1">
+          <mxGeometry y="40" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
