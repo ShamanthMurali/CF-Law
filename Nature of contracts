@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:42:53.045Z" agent="5.0 (X11)" etag="mHFF-Qz5uupoFrHbRxmw" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T05:44:25.531Z" agent="5.0 (X11)" etag="vTWvQs_NvUMQ7X3VpY71" version="13.8.2" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
     <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-48" value="Contract = Accepted proposal/Agreement + Enforceability by law" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-8" vertex="1">
           <mxGeometry x="10" y="90" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC6600&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-100" y="320" width="160" height="40" as="geometry">
             <mxRectangle x="-100" y="320" width="230" height="180" as="alternateBounds" />
           </mxGeometry>
