@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T05:46:53.374Z" agent="5.0 (X11)" etag="D2EcKmyqpJy4Zmc9XOMq" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T05:48:14.440Z" agent="5.0 (X11)" etag="Anby7qAXDyGzssYOjDqY" version="13.8.2" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
     <mxGraphModel dx="2037" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
             <mxRectangle x="-100" y="320" width="230" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yWsJi2gQocz6ohqaBc7i-3" value="&amp;nbsp; Act&amp;nbsp; a&amp;nbsp; proposal&amp;nbsp; can&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication&amp;nbsp; of&amp;nbsp; its&amp;nbsp; acceptance&amp;nbsp; is&amp;nbsp; complete&amp;nbsp; as&amp;nbsp; against&amp;nbsp; the&amp;nbsp; proposer.&amp;nbsp;&amp;nbsp;&amp;nbsp; An&amp;nbsp; acceptance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication of acceptance is complete as against the acceptor." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yWsJi2gQocz6ohqaBc7i-1">
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-3" value="&amp;nbsp; Proposal&amp;nbsp; can&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication&amp;nbsp; of&amp;nbsp; its&amp;nbsp; acceptance&amp;nbsp; is&amp;nbsp; complete&amp;nbsp; as&amp;nbsp; against&amp;nbsp; the&amp;nbsp; proposer.&amp;nbsp;&amp;nbsp;&amp;nbsp; An&amp;nbsp; acceptance&amp;nbsp; may&amp;nbsp; be&amp;nbsp; revoked&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; before&amp;nbsp; the&amp;nbsp; communication of acceptance is complete as against the acceptor." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yWsJi2gQocz6ohqaBc7i-1">
           <mxGeometry y="40" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-25" value="Legal Rules of a&#xa;valid acceptance" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
