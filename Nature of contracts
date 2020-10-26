@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T06:14:45.990Z" agent="5.0 (X11)" etag="Fb-xHeCL2vId0xYnJf3D" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T06:53:23.770Z" agent="5.0 (X11)" etag="lmngXL97H7PMCuU5f_yP" version="13.8.2" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
     <mxGraphModel dx="2037" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2A2A2A" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-198" value="Act" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02b7j2pqJwGw1zSQj-g7-199" value="&lt;div&gt;Conduct&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;&amp;nbsp;Section 8&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="02b7j2pqJwGw1zSQj-g7-199" value="&lt;div&gt;Conduct&lt;/div&gt;&lt;font color=&quot;#CC6600&quot;&gt;&lt;b&gt;&amp;nbsp;Section 8&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="02b7j2pqJwGw1zSQj-g7-200" target="02b7j2pqJwGw1zSQj-g7-202" edge="1">
@@ -360,7 +360,7 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-185" value="&amp;nbsp;It is an offer made to public at large and hence anyone can accept and do the desired act" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-176" vertex="1">
           <mxGeometry x="10" y="50" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;align=center;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="yWsJi2gQocz6ohqaBc7i-1" value="&lt;div&gt;Proposal revocation&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC6600&quot;&gt;Section&amp;nbsp; 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;align=center;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-100" y="320" width="160" height="40" as="geometry">
             <mxRectangle x="-100" y="320" width="230" height="180" as="alternateBounds" />
           </mxGeometry>
@@ -378,7 +378,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-28" value="Communication&#xa;of offer (section 4)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-580" y="320" width="120" height="40" as="geometry">
-            <mxRectangle x="-200" y="360" width="270" height="190" as="alternateBounds" />
+            <mxRectangle x="-580" y="320" width="270" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-190" value="Express offer" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-28" vertex="1">
