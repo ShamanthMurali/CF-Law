@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T02:24:47.051Z" agent="5.0 (X11)" etag="WXtiYiR9IAdHI7pJ4-Fs" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T03:28:12.947Z" agent="5.0 (X11)" etag="OjtlZgGqAqIE-a4-qYly" version="13.8.5" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
-    <mxGraphModel dx="2752" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2A2A2A" math="0" shadow="0">
+    <mxGraphModel dx="2092" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2A2A2A" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-95" value="&#xa;Illegal agreements&#xa;" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="185" y="520" width="110" height="60" as="geometry">
-            <mxRectangle x="15" y="370" width="200" height="130" as="alternateBounds" />
+            <mxRectangle x="185" y="520" width="200" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-96" value="&amp;nbsp;It is a contract which the law forbids to be made" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-95" vertex="1">
@@ -290,7 +290,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-85" value="Void contracts &#xa;2(j)" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="185" y="360" width="110" height="60" as="geometry">
-            <mxRectangle x="15" y="230" width="200" height="150" as="alternateBounds" />
+            <mxRectangle x="185" y="360" width="200" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-86" value="&amp;nbsp;“A contract which ceases to be enforceable by law&lt;br/&gt;becomes void when it ceases to be enforceable”." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-85" vertex="1">
@@ -314,7 +314,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-87" value="Valid contracts" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="185" y="280" width="110" height="60" as="geometry">
-            <mxRectangle x="15" y="160" width="200" height="130" as="alternateBounds" />
+            <mxRectangle x="185" y="280" width="200" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-88" value="&amp;nbsp;An agreement which is binding and enforceable is a valid contract." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-87" vertex="1">
