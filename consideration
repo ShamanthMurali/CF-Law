@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T19:05:43.853Z" agent="5.0 (X11)" etag="TWQR7d8GIPLBmuIo2Nkl" version="13.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T19:06:18.230Z" agent="5.0 (X11)" etag="Ts4nE8VRi6t90GfJEbUF" version="13.9.0" type="github">
   <diagram id="Xz_pRffmR6BShC83w378" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,9 +63,9 @@
         <mxCell id="igaYV7Da2zxHCnAtEfwd-22" value="(viii) Consideration must not be unlawful, immoral, or opposed to public policy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="igaYV7Da2zxHCnAtEfwd-14" vertex="1">
           <mxGeometry y="192" width="430" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="igaYV7Da2zxHCnAtEfwd-1" value="consideration 2(d)" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="600" height="150" as="geometry">
-            <mxRectangle x="360" y="40" width="120" height="40" as="alternateBounds" />
+        <mxCell id="igaYV7Da2zxHCnAtEfwd-1" value="consideration 2(d)" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="40" width="600" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="igaYV7Da2zxHCnAtEfwd-6" value="&lt;div&gt;“When at the desire of the promisor, the promisee or any other person &lt;br&gt;&lt;/div&gt;&lt;div&gt;* has done or abstained from doing, or &lt;br&gt;&lt;/div&gt;&lt;div&gt;* does or abstains from doing or &lt;br&gt;&lt;/div&gt;&lt;div&gt;* promises to do or abstain from doing something, &lt;br&gt;&lt;/div&gt;&lt;div&gt;such an act or abstinence or promise is called consideration for the promise”&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="igaYV7Da2zxHCnAtEfwd-1" vertex="1">
