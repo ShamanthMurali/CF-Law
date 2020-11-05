@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T06:13:48.851Z" agent="5.0 (X11)" etag="l2W7H24RgNN-Oi9ygeI9" version="13.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T06:14:43.946Z" agent="5.0 (X11)" etag="RIFRGsmGkq3F1YM0lyPL" version="13.9.0" type="github">
   <diagram id="Xz_pRffmR6BShC83w378" name="Page-1">
     <mxGraphModel dx="764" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,9 +13,9 @@
         <mxCell id="igaYV7Da2zxHCnAtEfwd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="igaYV7Da2zxHCnAtEfwd-1" target="igaYV7Da2zxHCnAtEfwd-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igaYV7Da2zxHCnAtEfwd-25" value="VALIDITY OF AN AGREEMENT&#xa; WITHOUT CONSIDERATION" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="560" y="120" width="270" height="170" as="geometry">
-            <mxRectangle x="560" y="120" width="200" height="40" as="alternateBounds" />
+        <mxCell id="igaYV7Da2zxHCnAtEfwd-25" value="VALIDITY OF AN AGREEMENT&#xa; WITHOUT CONSIDERATION" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="560" y="120" width="200" height="40" as="geometry">
+            <mxRectangle x="560" y="120" width="270" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="igaYV7Da2zxHCnAtEfwd-26" value="1. Natural Love and Affection&lt;br&gt;2. Compensation for past voluntary services&lt;br&gt;3. Promise to pay time barred debt&lt;br&gt;4. Agency&lt;br&gt;5. Completed gift&lt;br&gt;6. Bailment&lt;br&gt;7. Charity" style="rounded=1;whiteSpace=wrap;html=1;" parent="igaYV7Da2zxHCnAtEfwd-25" vertex="1">
