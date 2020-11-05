@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T19:06:18.230Z" agent="5.0 (X11)" etag="Ts4nE8VRi6t90GfJEbUF" version="13.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T06:13:48.851Z" agent="5.0 (X11)" etag="l2W7H24RgNN-Oi9ygeI9" version="13.9.0" type="github">
   <diagram id="Xz_pRffmR6BShC83w378" name="Page-1">
-    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,9 +13,9 @@
         <mxCell id="igaYV7Da2zxHCnAtEfwd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="igaYV7Da2zxHCnAtEfwd-1" target="igaYV7Da2zxHCnAtEfwd-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igaYV7Da2zxHCnAtEfwd-25" value="VALIDITY OF AN AGREEMENT&#xa; WITHOUT CONSIDERATION" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="560" y="120" width="200" height="40" as="geometry">
-            <mxRectangle x="560" y="120" width="270" height="170" as="alternateBounds" />
+        <mxCell id="igaYV7Da2zxHCnAtEfwd-25" value="VALIDITY OF AN AGREEMENT&#xa; WITHOUT CONSIDERATION" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="560" y="120" width="270" height="170" as="geometry">
+            <mxRectangle x="560" y="120" width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="igaYV7Da2zxHCnAtEfwd-26" value="1. Natural Love and Affection&lt;br&gt;2. Compensation for past voluntary services&lt;br&gt;3. Promise to pay time barred debt&lt;br&gt;4. Agency&lt;br&gt;5. Completed gift&lt;br&gt;6. Bailment&lt;br&gt;7. Charity" style="rounded=1;whiteSpace=wrap;html=1;" parent="igaYV7Da2zxHCnAtEfwd-25" vertex="1">
@@ -23,11 +23,14 @@
         </mxCell>
         <mxCell id="igaYV7Da2zxHCnAtEfwd-23" value="doctrine of privity&#xa; of contract" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="340" y="120" width="160" height="40" as="geometry">
-            <mxRectangle x="340" y="120" width="620" height="250" as="alternateBounds" />
+            <mxRectangle x="340" y="120" width="620" height="350" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="igaYV7Da2zxHCnAtEfwd-24" value="(1) In the case of trust, a beneficiary can enforce his right under the trust, though he was not a party to the&lt;br&gt;contract between the settler and the trustee.&lt;br&gt;(2) In the case of a family settlement, if the terms of the settlement are reduced into writing, the members&lt;br&gt;of family who originally had not been parties to the settlement may enforce the agreement.&lt;br&gt;(3) In the case of certain marriage contracts, a female member can enforce a provision for marriage&lt;br&gt;expenses made on the partition of the Hindu Undivided Family.&lt;br&gt;(4) In the case of assignment of a contract / arrangements, a provision may be made for the benefit&lt;br&gt;of a person. He may file the suit though he is not a party to the agreement.&lt;br&gt;(5) Acknowledgement or estoppel – where the promisor by his conduct acknowledges himself as an&lt;br&gt;agent of the third party, it would result into a binding obligation towards third party&lt;br&gt;(6) In the case of covenant running with the land&lt;br&gt;(7) Contracts entered into through an agent: The principal can enforce the contracts entered by his&lt;br/&gt;agent where the agent has acted within the scope of his authority and in the name of the principal." style="rounded=1;whiteSpace=wrap;html=1;" parent="igaYV7Da2zxHCnAtEfwd-23" vertex="1">
-          <mxGeometry x="10" y="50" width="600" height="190" as="geometry" />
+        <mxCell id="igaYV7Da2zxHCnAtEfwd-24" value="&lt;div&gt;Exceptions to the law.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1) In the case of trust, a beneficiary can enforce his right under the trust, though he was not a party to the&lt;/div&gt;contract between the settler and the trustee.&lt;br&gt;(2) In the case of a family settlement, if the terms of the settlement are reduced into writing, the members&lt;br&gt;of family who originally had not been parties to the settlement may enforce the agreement.&lt;br&gt;(3) In the case of certain marriage contracts, a female member can enforce a provision for marriage&lt;br&gt;expenses made on the partition of the Hindu Undivided Family.&lt;br&gt;(4) In the case of assignment of a contract / arrangements, a provision may be made for the benefit&lt;br&gt;of a person. He may file the suit though he is not a party to the agreement.&lt;br&gt;(5) Acknowledgement or estoppel – where the promisor by his conduct acknowledges himself as an&lt;br&gt;agent of the third party, it would result into a binding obligation towards third party&lt;br&gt;(6) In the case of covenant running with the land&lt;br&gt;(7) Contracts entered into through an agent: The principal can enforce the contracts entered by his&lt;br&gt;agent where the agent has acted within the scope of his authority and in the name of the principal." style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="igaYV7Da2zxHCnAtEfwd-23" vertex="1">
+          <mxGeometry x="10" y="120" width="600" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yYbDBUAYoJalLsWp2Aww-1" value="&lt;div&gt;Privity means privacy.&lt;/div&gt;&lt;div&gt;1) a stranger to a contract cannot sue.&lt;/div&gt;&lt;div&gt;2) a stranger to a consideration can sue.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="igaYV7Da2zxHCnAtEfwd-23">
+          <mxGeometry x="10" y="50" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="igaYV7Da2zxHCnAtEfwd-8" value="Legal Rules regarding &#xa;valid consideration" style="swimlane;swimlaneFillColor=#333333;startSize=50;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="120" y="120" width="160" height="40" as="geometry">
