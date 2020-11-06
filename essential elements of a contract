@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T19:09:04.568Z" agent="5.0 (X11)" etag="7SyutzRyvA3tWnn67YV0" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T19:39:00.812Z" agent="5.0 (X11)" etag="0tBDyfnebL6HEE2mN2iN" version="13.9.2" type="github">
   <diagram id="YEOhpMSGdoUlEJBepOPz" name="Page-1">
-    <mxGraphModel dx="923" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,11 +233,11 @@
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-95" value="Transactions &#xa;similar&#xa; to Gambling" style="swimlane;swimlaneFillColor=#333333;startSize=50;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="160" width="120" height="50" as="geometry">
-            <mxRectangle x="600" y="160" width="380" height="220" as="alternateBounds" />
+            <mxRectangle x="600" y="160" width="380" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-96" value="(i) Lottery transactions&lt;br&gt;(ii) Crossword Puzzles and Competitions&lt;br&gt;(iii) Speculative transactions&lt;br&gt;(iv) Horse Race Transactions&lt;br&gt;&lt;br&gt;&lt;u&gt;Transactions resembling with wagering transaction but are not void&lt;br&gt;&lt;/u&gt;&lt;br&gt;(i) Chit fund&lt;br&gt;(ii) Commercial transactions or share market transactions&lt;br&gt;(iii) Games of skill and Athletic Competition&lt;br&gt;(iv) A contract of insurance&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-95" vertex="1">
-          <mxGeometry x="10" y="50" width="360" height="160" as="geometry" />
+          <mxGeometry x="10" y="60" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-20" value="Not Expressly&#xa;declared Void" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="80" width="120" height="40" as="geometry">
