@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T18:25:03.942Z" agent="5.0 (X11)" etag="jfzcnNy15I5LaY4Zm5ON" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T18:27:44.913Z" agent="5.0 (X11)" etag="WDfqViRxVYb1lj25Deu3" version="13.9.2" type="github">
   <diagram id="YEOhpMSGdoUlEJBepOPz" name="Page-1">
     <mxGraphModel dx="923" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
             <mxRectangle x="280" y="460" width="260" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-93" value="Mistake may be dened as innocent or erroneous belief which leads the party to misunderstand&lt;br/&gt;the others. Mistake may be either Bilateral or Unilateral.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-17" vertex="1">
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-93" value="Mistake may be dened as innocent or erroneous belief which leads the party to misunderstand the others. Mistake may be either Bilateral or Unilateral.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-17" vertex="1">
           <mxGeometry x="10" y="50" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-16" value="    Misrepresentation&#xa;[Section 18]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
@@ -204,7 +204,7 @@
             <mxRectangle x="280" y="400" width="420" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-92" value="(1) the positive assertion, in a manner not warranted by the information of the person making it, of that&lt;br/&gt;which is not true, though he believes it to be true;&lt;br/&gt;(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing&lt;br/&gt;it, or any one claiming under him; by misleading another to his prejudice or to the prejudice of any one&lt;br/&gt;claiming under him;&lt;br/&gt;(3) causing, however, innocently, a party to an agreement to make a mistake as to the substance of the&lt;br/&gt;thing which is the subject of the agreement." style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-16" vertex="1">
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-92" value="(1) the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true;&lt;br&gt;(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing it, or any one claiming under him; by misleading another to his prejudice or to the prejudice of any one&lt;br&gt;claiming under him;&lt;br&gt;(3) causing, however, innocently, a party to an agreement to make a mistake as to the substance of the thing which is the subject of the agreement." style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-16" vertex="1">
           <mxGeometry x="10" y="50" width="400" height="180" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-15" value="Fraud&#xa;[ Section 17 ]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
@@ -212,7 +212,7 @@
             <mxRectangle x="280" y="340" width="510" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-91" value="‘Fraud’ means and includes any of the following acts committed by&lt;br/&gt;a party to a contract, or with his connivance, or by his agent, with an intent to deceive another party thereto&lt;br/&gt;or his agent, or to induce him to enter into the contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-15" vertex="1">
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-91" value="‘Fraud’ means and includes any of the following acts committed by&lt;br&gt;a party to a contract, or with his connivance, or by his agent, with an intent to deceive another party thereto or his agent, or to induce him to enter into the contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-15" vertex="1">
           <mxGeometry x="10" y="50" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-18" value="  Undue Influence&#xa;[section 16]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
@@ -220,16 +220,16 @@
             <mxRectangle x="280" y="280" width="420" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-90" value="&amp;nbsp;“A contract is said to be induced by ‘undue&lt;br/&gt;inuence’ where the relations subsisting between the parties are such that one of the parties is in a position&lt;br/&gt;to dominate the will of the other and he uses that position to obtain an unfair advantage over the other”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-18" vertex="1">
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-90" value="&amp;nbsp;“A contract is said to be induced by ‘undue&lt;br&gt;inuence’ where the relations subsisting between the parties are such that one of the parties is in a position to dominate the will of the other and he uses that position to obtain an unfair advantage over the other”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-18" vertex="1">
           <mxGeometry x="10" y="45" width="400" height="75" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-14" value="Coercion&#xa;[section 15]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="280" y="220" width="120" height="40" as="geometry">
-            <mxRectangle x="280" y="220" width="370" height="180" as="alternateBounds" />
+            <mxRectangle x="280" y="220" width="370" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-89" value="“Coercion’ is the committing, or threatening to commit, any act forbidden by the Indian Penal Code or the&lt;br/&gt;unlawful detaining, or threatening to detain any property, to the prejudice of any person whatever, with the&lt;br/&gt;intention of causing any person to enter into an agreement.”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-14" vertex="1">
-          <mxGeometry x="10" y="50" width="350" height="120" as="geometry" />
+          <mxGeometry x="10" y="50" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-95" value="Transactions &#xa;similar&#xa; to Gambling" style="swimlane;swimlaneFillColor=#333333;startSize=50;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="160" width="120" height="50" as="geometry">
