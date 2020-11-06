@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T11:24:28.590Z" agent="5.0 (X11)" etag="FaLhzCf4a6UzKxJKsqfF" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T11:27:08.212Z" agent="5.0 (X11)" etag="G_MtcmiyOaLmoBwY6GZb" version="13.9.2" type="github">
   <diagram id="Xz_pRffmR6BShC83w378" name="Page-1">
     <mxGraphModel dx="764" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="igaYV7Da2zxHCnAtEfwd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="igaYV7Da2zxHCnAtEfwd-1" target="igaYV7Da2zxHCnAtEfwd-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="igaYV7Da2zxHCnAtEfwd-25" value="VALIDITY OF AN AGREEMENT&#xa; WITHOUT CONSIDERATION" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="560" y="120" width="200" height="40" as="geometry">
-            <mxRectangle x="560" y="120" width="350" height="170" as="alternateBounds" />
+        <mxCell id="igaYV7Da2zxHCnAtEfwd-25" value="VALIDITY OF AN AGREEMENT&#xa; WITHOUT CONSIDERATION" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="560" y="120" width="350" height="180" as="geometry">
+            <mxRectangle x="560" y="120" width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="igaYV7Da2zxHCnAtEfwd-26" value="1. Natural Love and Affection &lt;b&gt;[section 25(1)]&lt;/b&gt;&lt;br&gt;2. Compensation for past voluntary services &lt;b&gt;[section 25(2)]&lt;/b&gt;&lt;br&gt;3. Promise to pay time barred debt &lt;b&gt;[section 25(3)]&lt;/b&gt;&lt;br&gt;4. Agency &lt;b&gt;[section 185]&lt;/b&gt;&lt;br&gt;5. Completed gift&lt;b&gt; [explanation 1 to section 25]&lt;/b&gt;&lt;br&gt;6. Bailment &lt;b&gt;[section 148]&lt;/b&gt;&lt;br&gt;7. Charity" style="rounded=1;whiteSpace=wrap;html=1;" parent="igaYV7Da2zxHCnAtEfwd-25" vertex="1">
-          <mxGeometry x="10" y="50" width="330" height="110" as="geometry" />
+        <mxCell id="igaYV7Da2zxHCnAtEfwd-26" value="1. Natural Love and Affection &lt;b&gt;[section 25(1)]&lt;/b&gt;&lt;br&gt;2. Compensation for past voluntary services &lt;b&gt;[section 25(2)]&lt;/b&gt;&lt;br&gt;3. Promise to pay time barred debt &lt;b&gt;[section 25(3)]&lt;/b&gt;&lt;br&gt;4. Agency &lt;b&gt;[section 185]&lt;/b&gt;&lt;br&gt;5. Completed gift&lt;b&gt; [explanation 1 to section 25]&lt;/b&gt;&lt;br&gt;&lt;div&gt;6. Bailment &lt;b&gt;[section 148] &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;(an act of delivering goods to a bailee for a particular purpose, without transfer of ownership.)&lt;/font&gt;&lt;/div&gt;7. Charity" style="rounded=1;whiteSpace=wrap;html=1;" parent="igaYV7Da2zxHCnAtEfwd-25" vertex="1">
+          <mxGeometry x="10" y="50" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="igaYV7Da2zxHCnAtEfwd-23" value="doctrine of privity&#xa; of contract" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="340" y="120" width="160" height="40" as="geometry">
