@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T18:34:41.326Z" agent="5.0 (X11)" etag="LrMeJ0cg6Ck6XxS2V4Sx" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T18:53:59.962Z" agent="5.0 (X11)" etag="lzzG8DC1hVRtkkApX00u" version="13.9.2" type="github">
   <diagram id="YEOhpMSGdoUlEJBepOPz" name="Page-1">
-    <mxGraphModel dx="923" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,11 +241,11 @@
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-20" value="Not Expressly&#xa;declared Void" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="80" width="120" height="40" as="geometry">
-            <mxRectangle x="600" y="80" width="430" height="320" as="alternateBounds" />
+            <mxRectangle x="600" y="80" width="430" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-94" value="1. Made by incompetent parties (Section 11) 6. Agreement in restraint of marriage (Section 26)&lt;br/&gt;2. Agreements made under Bilateral mistake of&lt;br/&gt;fact (Section 20)&lt;br/&gt;7. Agreements in restraint of trade (Section 27)&lt;br/&gt;3. Agreements the consideration or object of&lt;br/&gt;which is unlawful (Section 23)&lt;br/&gt;8. Agreement in restraint of legal proceedings&lt;br/&gt;(Section 28)&lt;br/&gt;4. Agreement the consideration or object of&lt;br/&gt;which is unlawful in parts (Section 24)&lt;br/&gt;9. Agreement the meaning of which is uncertain&lt;br/&gt;(Section 29)&lt;br/&gt;5. Agreements made without consideration&lt;br/&gt;(Section 25)&lt;br/&gt;10. Wagering Agreement (Section 30)&lt;br/&gt;[Refer Unit 2] 11. Agreements to do impossible Acts (Section 56)" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-20" vertex="1">
-          <mxGeometry x="10" y="50" width="420" height="260" as="geometry" />
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-94" value="1. Made by incompetent parties &lt;b&gt;(Section 11)&lt;/b&gt;&lt;br&gt;2. Agreements made under Bilateral mistake of fact &lt;b&gt;(Section 20)&lt;/b&gt;&lt;br&gt;3. Agreements the consideration or object of which is unlawful &lt;b&gt;(Section 23)&lt;/b&gt;&lt;br&gt;&lt;div&gt;4. Agreement the consideration or object of which is &lt;br&gt;&lt;/div&gt;&lt;div&gt;unlawful in parts &lt;b&gt;(Section 24)&lt;/b&gt;&lt;/div&gt;5. Agreements made without consideration &lt;b&gt;(Section 25)&lt;/b&gt;&lt;div&gt;6. Agreement in restraint of marriage &lt;b&gt;(Section 26)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;7. Agreements in restraint of trade &lt;b&gt;(Section 27)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;8. Agreement in restraint of legal proceedings &lt;b&gt;(Section 28)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;9. Agreement the meaning of which is uncertain &lt;b&gt;(Section 29)&lt;/b&gt;&lt;/div&gt;10. Wagering Agreement &lt;b&gt;(Section 30)&lt;/b&gt;&lt;br&gt;[Refer Unit 2] 11. Agreements to do impossible Acts &lt;b&gt;(Section 56)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-20" vertex="1">
+          <mxGeometry x="10" y="50" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ZfO1IfOCsZVbb105HQyM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZfO1IfOCsZVbb105HQyM-5" target="ZfO1IfOCsZVbb105HQyM-8">
           <mxGeometry relative="1" as="geometry" />
