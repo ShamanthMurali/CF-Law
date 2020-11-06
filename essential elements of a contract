@@ -1,47 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T18:18:36.829Z" agent="5.0 (X11)" etag="m40QndOqUn4YA9NKNPe1" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T18:19:54.753Z" agent="5.0 (X11)" etag="MYK54TEAsNL4VFZuBvtt" version="13.9.2" type="github">
   <diagram id="YEOhpMSGdoUlEJBepOPz" name="Page-1">
-    <mxGraphModel dx="2216" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-102" target="D7JyDcPqBtPhqagCJ5Qi-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="60.02857142857141" as="sourcePoint" />
+            <mxPoint x="320" y="20.02857142857141" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-102" target="D7JyDcPqBtPhqagCJ5Qi-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="60.02857142857141" as="sourcePoint" />
+            <mxPoint x="530" y="20.02857142857141" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-8" target="D7JyDcPqBtPhqagCJ5Qi-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-8" value="Capacity to&#xa;Contract" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-9" target="D7JyDcPqBtPhqagCJ5Qi-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-9" value="Major" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="120" height="40" as="geometry">
-            <mxRectangle x="140" y="200" width="60" height="40" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-10" target="D7JyDcPqBtPhqagCJ5Qi-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-10" value="Sound Mind" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="120" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-11" value="Not Disqualied" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-12" target="D7JyDcPqBtPhqagCJ5Qi-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-12" value="Free Consent&#xa;section 14" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-14" target="D7JyDcPqBtPhqagCJ5Qi-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,28 +56,20 @@
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-20" target="D7JyDcPqBtPhqagCJ5Qi-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-20" value="Not Expressly&#xa;declared Void" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="600" y="120" width="120" height="40" as="geometry">
-            <mxRectangle x="600" y="120" width="430" height="320" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-94" value="1. Made by incompetent parties (Section 11) 6. Agreement in restraint of marriage (Section 26)&lt;br/&gt;2. Agreements made under Bilateral mistake of&lt;br/&gt;fact (Section 20)&lt;br/&gt;7. Agreements in restraint of trade (Section 27)&lt;br/&gt;3. Agreements the consideration or object of&lt;br/&gt;which is unlawful (Section 23)&lt;br/&gt;8. Agreement in restraint of legal proceedings&lt;br/&gt;(Section 28)&lt;br/&gt;4. Agreement the consideration or object of&lt;br/&gt;which is unlawful in parts (Section 24)&lt;br/&gt;9. Agreement the meaning of which is uncertain&lt;br/&gt;(Section 29)&lt;br/&gt;5. Agreements made without consideration&lt;br/&gt;(Section 25)&lt;br/&gt;10. Wagering Agreement (Section 30)&lt;br/&gt;[Refer Unit 2] 11. Agreements to do impossible Acts (Section 56)" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-20" vertex="1">
-          <mxGeometry x="10" y="50" width="420" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-28" value="void" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
-          <mxGeometry x="440" y="510" width="40" height="20" as="geometry" />
+          <mxGeometry x="440" y="470" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-33" target="D7JyDcPqBtPhqagCJ5Qi-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-33" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Not Caused by&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-48" target="D7JyDcPqBtPhqagCJ5Qi-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-48" value="Mistake of Law" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-49" target="D7JyDcPqBtPhqagCJ5Qi-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,22 +78,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-49" value="Mistake of Fact" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="580" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-50" value="Mistake of Foreign&lt;br/&gt;Law" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="705" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="665" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-51" target="D7JyDcPqBtPhqagCJ5Qi-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-51" value="Mistake of Indian&lt;br/&gt;Law" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="645" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="605" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-52" target="D7JyDcPqBtPhqagCJ5Qi-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-52" value="Unilateral" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-53" target="D7JyDcPqBtPhqagCJ5Qi-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -127,140 +102,92 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-53" value="Bilateral&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-54" target="D7JyDcPqBtPhqagCJ5Qi-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-54" value="Mistake as to&lt;br/&gt;subject matter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="740" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-55" target="D7JyDcPqBtPhqagCJ5Qi-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-55" value="Mistake as to&lt;br/&gt;possibility of&lt;br/&gt;performance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="740" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-56" target="D7JyDcPqBtPhqagCJ5Qi-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-56" value="Quallty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="805" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="765" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-57" target="D7JyDcPqBtPhqagCJ5Qi-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-57" value="Price" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1045" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="1005" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-58" target="D7JyDcPqBtPhqagCJ5Qi-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-58" value="Identity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="925" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="885" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-59" target="D7JyDcPqBtPhqagCJ5Qi-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-59" value="existence&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="865" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="825" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-60" target="D7JyDcPqBtPhqagCJ5Qi-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-60" value="Title" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="985" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="945" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-62" value="Quantity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1105" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="1065" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-63" target="D7JyDcPqBtPhqagCJ5Qi-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-63" value="Legal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="805" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="765" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-64" value="Physical" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="865" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="825" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-65" value="Character&lt;br/&gt;of written&lt;br/&gt;document" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="810" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-66" target="D7JyDcPqBtPhqagCJ5Qi-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-66" value="Identity of&lt;br/&gt;person" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="745" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="705" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-21" value="Contract is Voidable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
-          <mxGeometry x="325" y="350" width="270" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-14" value="Coercion&#xa;[section 15]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="280" y="260" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="280" width="370" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-89" value="“Coercion’ is the committing, or threatening to commit, any act forbidden by the Indian Penal Code or the&lt;br/&gt;unlawful detaining, or threatening to detain any property, to the prejudice of any person whatever, with the&lt;br/&gt;intention of causing any person to enter into an agreement.”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-14" vertex="1">
-          <mxGeometry x="10" y="50" width="350" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-18" value="Undue Influence&#xa;[section 16]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="280" y="320" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="360" width="420" height="130" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-90" value="&amp;nbsp;“A contract is said to be induced by ‘undue&lt;br/&gt;inuence’ where the relations subsisting between the parties are such that one of the parties is in a position&lt;br/&gt;to dominate the will of the other and he uses that position to obtain an unfair advantage over the other”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-18" vertex="1">
-          <mxGeometry x="10" y="45" width="400" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-15" value="Fraud&#xa;[ Section 17 ]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="280" y="380" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="440" width="510" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-91" value="‘Fraud’ means and includes any of the following acts committed by&lt;br/&gt;a party to a contract, or with his connivance, or by his agent, with an intent to deceive another party thereto&lt;br/&gt;or his agent, or to induce him to enter into the contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-15" vertex="1">
-          <mxGeometry x="10" y="50" width="490" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-16" value="Misrepresentation&#xa;[Section 18]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="280" y="440" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="520" width="420" height="240" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-92" value="(1) the positive assertion, in a manner not warranted by the information of the person making it, of that&lt;br/&gt;which is not true, though he believes it to be true;&lt;br/&gt;(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing&lt;br/&gt;it, or any one claiming under him; by misleading another to his prejudice or to the prejudice of any one&lt;br/&gt;claiming under him;&lt;br/&gt;(3) causing, however, innocently, a party to an agreement to make a mistake as to the substance of the&lt;br/&gt;thing which is the subject of the agreement." style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-16" vertex="1">
-          <mxGeometry x="10" y="50" width="400" height="180" as="geometry" />
+          <mxGeometry x="325" y="310" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZfO1IfOCsZVbb105HQyM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-17" target="D7JyDcPqBtPhqagCJ5Qi-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="560" />
-              <mxPoint x="160" y="560" />
+              <mxPoint x="340" y="520" />
+              <mxPoint x="160" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZfO1IfOCsZVbb105HQyM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-17" target="D7JyDcPqBtPhqagCJ5Qi-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="560" />
-              <mxPoint x="520" y="560" />
+              <mxPoint x="340" y="520" />
+              <mxPoint x="520" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-17" value="Mistake&#xa;[ Sections 20, 21,22]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="280" y="500" width="120" height="40" as="geometry">
-            <mxRectangle x="300" y="600" width="260" height="130" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-93" value="Mistake may be dened as innocent or erroneous belief which leads the party to misunderstand&lt;br/&gt;the others. Mistake may be either Bilateral or Unilateral.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-17" vertex="1">
-          <mxGeometry x="10" y="50" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-95" value="Transactions &#xa;similar&#xa; to Gambling" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="600" y="200" width="120" height="40" as="geometry">
-            <mxRectangle x="600" y="200" width="380" height="220" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-96" value="(i) Lottery transactions&lt;br&gt;(ii) Crossword Puzzles and Competitions&lt;br&gt;(iii) Speculative transactions&lt;br&gt;(iv) Horse Race Transactions&lt;br&gt;&lt;br&gt;&lt;u&gt;Transactions resembling with wagering transaction but are not void&lt;br&gt;&lt;/u&gt;&lt;br&gt;(i) Chit fund&lt;br&gt;(ii) Commercial transactions or share market transactions&lt;br&gt;(iii) Games of skill and Athletic Competition&lt;br&gt;(iv) A contract of insurance&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-95" vertex="1">
-          <mxGeometry x="10" y="50" width="360" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-101" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Lawful Consideration&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-weight: 700&quot;&gt;&amp;amp; Object&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D7JyDcPqBtPhqagCJ5Qi-102" target="D7JyDcPqBtPhqagCJ5Qi-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -269,7 +196,84 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-102" value="&lt;span style=&quot;font-weight: 700&quot;&gt;essential elements of a contract&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="40" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-17" value="Mistake&#xa;[ Sections 20, 21,22]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="280" y="460" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="600" width="260" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-93" value="Mistake may be dened as innocent or erroneous belief which leads the party to misunderstand&lt;br/&gt;the others. Mistake may be either Bilateral or Unilateral.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-17" vertex="1">
+          <mxGeometry x="10" y="50" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-16" value="Misrepresentation&#xa;[Section 18]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="280" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="520" width="420" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-92" value="(1) the positive assertion, in a manner not warranted by the information of the person making it, of that&lt;br/&gt;which is not true, though he believes it to be true;&lt;br/&gt;(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing&lt;br/&gt;it, or any one claiming under him; by misleading another to his prejudice or to the prejudice of any one&lt;br/&gt;claiming under him;&lt;br/&gt;(3) causing, however, innocently, a party to an agreement to make a mistake as to the substance of the&lt;br/&gt;thing which is the subject of the agreement." style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-16" vertex="1">
+          <mxGeometry x="10" y="50" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-15" value="Fraud&#xa;[ Section 17 ]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="280" y="340" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="440" width="510" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-91" value="‘Fraud’ means and includes any of the following acts committed by&lt;br/&gt;a party to a contract, or with his connivance, or by his agent, with an intent to deceive another party thereto&lt;br/&gt;or his agent, or to induce him to enter into the contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-15" vertex="1">
+          <mxGeometry x="10" y="50" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-18" value="Undue Influence&#xa;[section 16]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="280" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="360" width="420" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-90" value="&amp;nbsp;“A contract is said to be induced by ‘undue&lt;br/&gt;inuence’ where the relations subsisting between the parties are such that one of the parties is in a position&lt;br/&gt;to dominate the will of the other and he uses that position to obtain an unfair advantage over the other”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-18" vertex="1">
+          <mxGeometry x="10" y="45" width="400" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-11" value="Not Disqualied" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="120" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-14" value="Coercion&#xa;[section 15]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="280" y="220" width="120" height="40" as="geometry">
+            <mxRectangle x="300" y="280" width="370" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-89" value="“Coercion’ is the committing, or threatening to commit, any act forbidden by the Indian Penal Code or the&lt;br/&gt;unlawful detaining, or threatening to detain any property, to the prejudice of any person whatever, with the&lt;br/&gt;intention of causing any person to enter into an agreement.”" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-14" vertex="1">
+          <mxGeometry x="10" y="50" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-10" value="Sound Mind" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-9" value="Major" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="120" y="140" width="120" height="40" as="geometry">
+            <mxRectangle x="140" y="200" width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-95" value="Transactions &#xa;similar&#xa; to Gambling" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="600" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="600" y="200" width="380" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-96" value="(i) Lottery transactions&lt;br&gt;(ii) Crossword Puzzles and Competitions&lt;br&gt;(iii) Speculative transactions&lt;br&gt;(iv) Horse Race Transactions&lt;br&gt;&lt;br&gt;&lt;u&gt;Transactions resembling with wagering transaction but are not void&lt;br&gt;&lt;/u&gt;&lt;br&gt;(i) Chit fund&lt;br&gt;(ii) Commercial transactions or share market transactions&lt;br&gt;(iii) Games of skill and Athletic Competition&lt;br&gt;(iv) A contract of insurance&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-95" vertex="1">
+          <mxGeometry x="10" y="50" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-20" value="Not Expressly&#xa;declared Void" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="600" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="600" y="120" width="430" height="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-94" value="1. Made by incompetent parties (Section 11) 6. Agreement in restraint of marriage (Section 26)&lt;br/&gt;2. Agreements made under Bilateral mistake of&lt;br/&gt;fact (Section 20)&lt;br/&gt;7. Agreements in restraint of trade (Section 27)&lt;br/&gt;3. Agreements the consideration or object of&lt;br/&gt;which is unlawful (Section 23)&lt;br/&gt;8. Agreement in restraint of legal proceedings&lt;br/&gt;(Section 28)&lt;br/&gt;4. Agreement the consideration or object of&lt;br/&gt;which is unlawful in parts (Section 24)&lt;br/&gt;9. Agreement the meaning of which is uncertain&lt;br/&gt;(Section 29)&lt;br/&gt;5. Agreements made without consideration&lt;br/&gt;(Section 25)&lt;br/&gt;10. Wagering Agreement (Section 30)&lt;br/&gt;[Refer Unit 2] 11. Agreements to do impossible Acts (Section 56)" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-20" vertex="1">
+          <mxGeometry x="10" y="50" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-12" value="Free Consent&#xa;section 14" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="280" y="120" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-8" value="Capacity to&#xa;Contract" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="120" y="120" width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
