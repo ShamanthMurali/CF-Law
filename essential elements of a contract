@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T18:27:44.913Z" agent="5.0 (X11)" etag="WDfqViRxVYb1lj25Deu3" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T18:33:59.029Z" agent="5.0 (X11)" etag="oFmxzSEJPK03RYuDE0gb" version="13.9.2" type="github">
   <diagram id="YEOhpMSGdoUlEJBepOPz" name="Page-1">
     <mxGraphModel dx="923" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,13 +201,13 @@
         </mxCell>
         <mxCell id="D7JyDcPqBtPhqagCJ5Qi-16" value="    Misrepresentation&#xa;[Section 18]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="280" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="280" y="400" width="420" height="240" as="alternateBounds" />
+            <mxRectangle x="280" y="400" width="420" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-92" value="(1) the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true;&lt;br&gt;(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing it, or any one claiming under him; by misleading another to his prejudice or to the prejudice of any one&lt;br&gt;claiming under him;&lt;br&gt;(3) causing, however, innocently, a party to an agreement to make a mistake as to the substance of the thing which is the subject of the agreement." style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-16" vertex="1">
-          <mxGeometry x="10" y="50" width="400" height="180" as="geometry" />
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-92" value="&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Getting into a contract with a&lt;br/&gt; person or a company on false grounds by making statements that are not &lt;br/&gt;in accordance with the facts is known as &lt;b&gt;misrepresentation&lt;/b&gt;.&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="D7JyDcPqBtPhqagCJ5Qi-16" vertex="1">
+          <mxGeometry x="10" y="50" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-15" value="Fraud&#xa;[ Section 17 ]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="D7JyDcPqBtPhqagCJ5Qi-15" value="Fraud&#xa;[Section 17]" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="280" y="340" width="120" height="40" as="geometry">
             <mxRectangle x="280" y="340" width="510" height="120" as="alternateBounds" />
           </mxGeometry>
