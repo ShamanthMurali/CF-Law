@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T08:30:13.994Z" agent="5.0 (X11)" etag="SElma15_BzshzxZfO23z" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-14T14:16:39.589Z" agent="5.0 (X11)" etag="8ifXDd9nLh2BOCtbmFkn" version="13.9.8" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="2336" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="7Zke7j-YVxXUd72GFMQR-55" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-3" target="7Zke7j-YVxXUd72GFMQR-55" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="160" />
@@ -204,31 +204,31 @@
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-6" target="E0t1wR7pqK-8ebcjUuFq-27" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-1" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-2" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-2" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-3" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-4" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-4" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-5" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-6" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-7" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-7" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-8" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-9" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-7" target="7Zke7j-YVxXUd72GFMQR-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-7" value="Discharge of a Contract" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
@@ -321,50 +321,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-40" value="if the contract specifies the promise should be performed by the promisor himself" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-340" y="340" width="240" height="40" as="geometry" />
+          <mxGeometry x="-260" y="340" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-41" target="E0t1wR7pqK-8ebcjUuFq-43" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-41" value="Then it can only be performed by him" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-340" y="400" width="240" height="40" as="geometry" />
+          <mxGeometry x="-260" y="400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-43" value="Eg: personal skill" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-310" y="440" width="180" height="40" as="geometry" />
+          <mxGeometry x="-230" y="460" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-48" value="Where  personal  consideration(skill)  is  not  the  foundation  of  a  contract,  the  promisor  or  his  representative may employ a competent person to perform it." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="-200" y="340" width="240" height="80" as="geometry" />
+          <mxGeometry x="-120" y="340" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-50" target="E0t1wR7pqK-8ebcjUuFq-52" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-50" value="in case of non personal skill." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-52" target="E0t1wR7pqK-8ebcjUuFq-54" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-52" value="the contract maybe should be fulfilled by their representatives" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-54" value=" But their liability under a contract is limited to the value of the property they inherit from the deceased." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry y="460" width="120" height="90" as="geometry" />
+          <mxGeometry x="80" y="460" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-57" target="E0t1wR7pqK-8ebcjUuFq-58" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-57" value="Example:  A  received  certain  goods  from  B  promising  to  pay  `  100,000/-.  Later  on,  A  expressed  his  inability to make payment. C, who is known to A, pays ` 60,000/- to B on behalf of A. However, A was not aware of the payment. Now B is intending to sue A for the amount of ` 100,000/-" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="60" y="340" width="280" height="110" as="geometry" />
+          <mxGeometry x="140" y="340" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-58" value="As  per  Section  41  of  the  Indian  Contract  Act,  1872,  when  a  promisee  accepts  performance  of  the  promise from a third person, he cannot afterwards enforce it against the promisor. That is, performance by a stranger, accepted by the promisee, produces the result of discharging the promisor, although the latter has neither authorised nor ratied the act of the third party. Therefore, in the present instance, B can sue only for the balance amount i.e., ` 40,000/- and not for the whole amount" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="60" y="470" width="280" height="150" as="geometry" />
+          <mxGeometry x="140" y="470" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-57" target="E0t1wR7pqK-8ebcjUuFq-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-1" value="&lt;div&gt;EFFECT OF REFUSAL &lt;br&gt;&lt;/div&gt;&lt;div&gt;TO ACCEPT OFFER &lt;br&gt;&lt;/div&gt;&lt;div&gt;OF PERFORMANCE&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 38&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="690" y="240" width="160" height="80" as="geometry">
-            <mxRectangle x="-360" y="360" width="320" height="200" as="alternateBounds" />
+            <mxRectangle x="690" y="240" width="320" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-4" value="&lt;div&gt;where a promisor has made an offer of performance to the promisee, and the offer has not been accepted, then the promisor is not responsible for non performance, nor does he thereby lose his rights under the contract.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpjiBCg_nfdNJr2iW8XH-1" vertex="1">
@@ -405,7 +405,7 @@
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-2" value="&lt;div&gt;EFFECT OF REFUSAL&lt;/div&gt;&lt;div&gt; OF PARTY TO &lt;br&gt;&lt;/div&gt;&lt;div&gt;PERFORM PROMISE&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 39&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="510" y="240" width="160" height="80" as="geometry">
-            <mxRectangle x="370" y="240" width="400" height="230" as="alternateBounds" />
+            <mxRectangle x="510" y="240" width="400" height="230" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-3" value="&lt;div&gt;when  a  party  to  a  contract  has  refused  to  perform,  or  disabled  himself  from  performing his promise in its entirety, the promisee may put an end to the contract, unless he has signied, by words or conduct, his acquiescence in its continuance. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;In case the promisee decides to continue the contract, he would not be entitled to put an end to the contract on this ground subsequently. In either case, the promisee would be able to claim damages that he suffers as a result on the breach.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpjiBCg_nfdNJr2iW8XH-2" vertex="1">
@@ -421,7 +421,7 @@
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-32" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5&lt;/b&gt;.     Joint promisors&lt;/div&gt;&lt;div&gt;&lt;b&gt; &lt;font color=&quot;#CCCC00&quot;&gt;Section 42&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="360" y="280" width="130" height="40" as="geometry">
-            <mxRectangle x="220" y="280" width="240" height="180" as="alternateBounds" />
+            <mxRectangle x="360" y="280" width="240" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-62" value=" When two or more persons have made a joint promise, then unless a contrary intention appears by the contract, all such persons must jointly fulfill the promise. If any of them dies, his legal representatives must, jointly with the surviving promisors, fulfill the promise. If all of them die, the legal representatives of all of them must fulll the promise jointly. " style="rounded=0;whiteSpace=wrap;html=1;" parent="E0t1wR7pqK-8ebcjUuFq-32" vertex="1">
@@ -664,23 +664,164 @@
         <mxCell id="y2YTb_YGv56ar9WMazZc-45" value="the payment shall be applied with respect to order of time(LIFO)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" parent="1" vertex="1" visible="0">
           <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2YTb_YGv56ar9WMazZc-48" target="7Zke7j-YVxXUd72GFMQR-61" visible="0">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2YTb_YGv56ar9WMazZc-48" target="7Zke7j-YVxXUd72GFMQR-61" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2YTb_YGv56ar9WMazZc-49" target="7Zke7j-YVxXUd72GFMQR-68" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2YTb_YGv56ar9WMazZc-50" target="7Zke7j-YVxXUd72GFMQR-66" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-1" target="7Zke7j-YVxXUd72GFMQR-10" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Zke7j-YVxXUd72GFMQR-2" target="7Zke7j-YVxXUd72GFMQR-19" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-3" target="7Zke7j-YVxXUd72GFMQR-21" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-4" target="7Zke7j-YVxXUd72GFMQR-31" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-6" target="7Zke7j-YVxXUd72GFMQR-34" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Zke7j-YVxXUd72GFMQR-7" target="7Zke7j-YVxXUd72GFMQR-38" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-8" target="7Zke7j-YVxXUd72GFMQR-41" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-9" target="7Zke7j-YVxXUd72GFMQR-43" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-10" target="7Zke7j-YVxXUd72GFMQR-11" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-10" target="7Zke7j-YVxXUd72GFMQR-12" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-10" value="when the mutual obligations are fulfilled" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-11" value="Actual performance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="1010" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Zke7j-YVxXUd72GFMQR-12" target="7Zke7j-YVxXUd72GFMQR-16" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-12" value="Attempted performance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="1010" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-16" value="when one party refuses the performance the contract comes to an end" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="1155" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-19" value="if the parties to a  contract  agree  to  substitute  a  new  contract  for  it,  or  to  rescind  or  remit  or  alter  it,  the  original  contract need not be performed. " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="195" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-21" target="7Zke7j-YVxXUd72GFMQR-22" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-21" value=" The  impossibility  may  exist  from  the  very  start.  In  that  case, it would be impossibility ab initio." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="870" y="280" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-22" target="7Zke7j-YVxXUd72GFMQR-23" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-22" value="a)    an unforeseen change in law" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="870" y="330" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-23" target="7Zke7j-YVxXUd72GFMQR-24" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-23" value="b)   the destruction of the subject-matter essential to that performance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="870" y="380" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-24" target="7Zke7j-YVxXUd72GFMQR-25" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-24" value="c)    the non-existence or non-occurrence of particular state of things, which was naturally contemplated for performing the contract, as a result of some personal incapacity like dangerous malady" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="870" y="430" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-25" value="d)   the declaration of a war (Section 56)." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="870" y="510" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-31" value="if the performance is not done with in specified time the contract is discharged and the promisee can claim damages" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="325" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-34" target="7Zke7j-YVxXUd72GFMQR-35" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-34" value="Breach of contract may be actual breach of contract or anticipatory breach of contract. " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-35" value="party injured thereby, has not only a right of action for damages but he is also discharged from performing his part of the contract. " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="515" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-38" value="Example: A owes B ` 5,00,000. C pays to B `1,00,000 and B accepts them, in satisfaction of his whole claim on A. This payment is a discharge of the whole claim." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="505" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-41" value="Example: If an apprentice refuses to learn, the teacher cannot be held liable for not teaching." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="600" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-43" target="7Zke7j-YVxXUd72GFMQR-44" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-43" value="Example: A took a land on lease from B. Subsequently, A purchases that very land. Now, A becomes the owner of the land and the ownership rights being superior to rights of a lessee, the earlier contract of lease stands terminated" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="660" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-44" value="Sometimes, the inferior rights and the superior rights coincide and meet in one and the same person. In such cases, the inferior rights merge into the superior rights. On merger, the inferior rights vanish and are not required to be enforced" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="850" y="760" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Zke7j-YVxXUd72GFMQR-55" target="7Zke7j-YVxXUd72GFMQR-57" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-57" target="7Zke7j-YVxXUd72GFMQR-58" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-57" value="Example: A owes B ` 5,00,000. C pays to B `1,00,000 and B accepts them, in satisfaction of his whole claim on A. This payment is a discharge of the whole claim." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="345" y="280" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-58" value="“Every promisee may dispense with or remit, wholly or in part, the performance of the promise made to him, or may extend the time for such performance or may accept instead of it any satisfaction which he thinks fit”." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="340" y="435" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-61" value="&lt;div&gt;“When  an  agreement  is  discovered  to  be  void  or  when  a  contract  becomes  void,  any  person  who  has  received  any  advantage  under  such  agreement  or  contract  is  bound  to  restore  it,  or  to  make  compensation for it to the person from whom he received it.”&lt;/div&gt;&lt;div&gt;Example: A pays B ` 1,00,000, in consideration of B’s promising to marry C, A’s daughter. C is dead at the time of the promise. The agreement is void, but B must repay A ` 1,00,000.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="560" y="280" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7Zke7j-YVxXUd72GFMQR-63" target="7Zke7j-YVxXUd72GFMQR-64" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-64" value="Example: If an apprentice refuses to learn, the teacher cannot be held liable for not teaching." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="860" y="270" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-66" value=" contract voidable at the option of one of the parties can be rescinded; but rescission must be communicated to the other party in the same manner as a proposal is communicated under Section 4 of the Contract Act. Similarly, a rescission may be revoked in the same manner as a proposal is revoked." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="720" y="280" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Zke7j-YVxXUd72GFMQR-68" target="7Zke7j-YVxXUd72GFMQR-70" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-68" value="&lt;div&gt;when the contract be voidable post-contract &lt;br&gt;&lt;/div&gt;&lt;div&gt;then the contract must be rescinded and if any benefit was received to any party it must be restored&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="440" y="280" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-70" value="EXAMPLE: A pays to B 1 lakh rupees. but later on the contract becomes voidable. them the contract must be rescinded and A must refund the one lakh rupees to A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="440" y="370" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-63" value="&lt;div&gt;neglect of &lt;br&gt;&lt;/div&gt;&lt;div&gt;promisors reasonable performance&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 67&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="920" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2YTb_YGv56ar9WMazZc-50" value="&lt;div&gt;Communication of rescission&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 66&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2A2A2A;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="780" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y2YTb_YGv56ar9WMazZc-48" value="&lt;div&gt;Obligations of Person who has Received Advantage under Void&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 65&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2A2A2A;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="640" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2YTb_YGv56ar9WMazZc-49" target="7Zke7j-YVxXUd72GFMQR-68" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="y2YTb_YGv56ar9WMazZc-49" value="&lt;div&gt;Restoration of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Benefit under a Voidable Contract&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 64&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2A2A2A;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="500" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2YTb_YGv56ar9WMazZc-50" target="7Zke7j-YVxXUd72GFMQR-66" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y2YTb_YGv56ar9WMazZc-50" value="&lt;div&gt;Communication of rescission&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 66&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2A2A2A;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="780" y="180" width="120" height="80" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-55" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Partly performance &lt;br&gt;&lt;/div&gt;&lt;div&gt;that discharge the whole contract&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 63&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="360" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y2YTb_YGv56ar9WMazZc-63" value=" Alteration" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2A2A2A;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="220" y="400" width="120" height="40" as="geometry">
@@ -714,178 +855,37 @@
         <mxCell id="y2YTb_YGv56ar9WMazZc-67" value="“If the parties to a contract agree to substitute a new contract for it, or to rescind or alter it, the original contract need not be performed” " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" parent="y2YTb_YGv56ar9WMazZc-54" vertex="1">
           <mxGeometry y="40" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-1" target="7Zke7j-YVxXUd72GFMQR-10" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-1" value="Discharge by performance" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-2" target="7Zke7j-YVxXUd72GFMQR-19" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-2" value="&lt;div&gt;Discharge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;mutual agreement&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="710" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-3" target="7Zke7j-YVxXUd72GFMQR-21" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-3" value="Discharge  by  impossibility  of  performance" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="710" y="280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-4" target="7Zke7j-YVxXUd72GFMQR-31" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-4" value="&lt;div&gt; Discharge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;lapse of time&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="710" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-6" target="7Zke7j-YVxXUd72GFMQR-34" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-6" value="&lt;div&gt;Discharge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;breach of contract&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="710" y="460" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-7" target="7Zke7j-YVxXUd72GFMQR-38" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-7" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Partly performance &lt;br&gt;&lt;/div&gt;&lt;div&gt;that discharge the whole contract&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="710" y="520" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-8" target="7Zke7j-YVxXUd72GFMQR-41" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-8" value="neglect of promisors reasonable performance" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="710" y="590" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-9" target="7Zke7j-YVxXUd72GFMQR-43" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-9" value="&lt;div&gt;Merger of &lt;br&gt;&lt;/div&gt;&lt;div&gt;rights&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-9" value="&lt;div&gt;Merger of &lt;br&gt;&lt;/div&gt;&lt;div&gt;rights&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="710" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-10" target="7Zke7j-YVxXUd72GFMQR-11" visible="0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-8" value="neglect of promisors reasonable performance" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="590" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-10" target="7Zke7j-YVxXUd72GFMQR-12" visible="0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-7" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Partly performance &lt;br&gt;&lt;/div&gt;&lt;div&gt;that discharge the whole contract&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="520" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-10" value="when the mutual obligations are fulfilled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-6" value="&lt;div&gt;Discharge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;breach of contract&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-11" value="Actual performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1010" y="130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-12" target="7Zke7j-YVxXUd72GFMQR-16" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-12" value="Attempted performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1010" y="190" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-16" value="when one party refuses the performance the contract comes to an end" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1155" y="170" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-19" value="if the parties to a  contract  agree  to  substitute  a  new  contract  for  it,  or  to  rescind  or  remit  or  alter  it,  the  original  contract need not be performed. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="195" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-21" target="7Zke7j-YVxXUd72GFMQR-22" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-21" value=" The  impossibility  may  exist  from  the  very  start.  In  that  case, it would be impossibility ab initio." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="870" y="280" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-22" target="7Zke7j-YVxXUd72GFMQR-23" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-22" value="a)    an unforeseen change in law" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="870" y="330" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-23" target="7Zke7j-YVxXUd72GFMQR-24" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-23" value="b)   the destruction of the subject-matter essential to that performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="870" y="380" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-24" target="7Zke7j-YVxXUd72GFMQR-25" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-24" value="c)    the non-existence or non-occurrence of particular state of things, which was naturally contemplated for performing the contract, as a result of some personal incapacity like dangerous malady" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="870" y="430" width="290" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-25" value="d)   the declaration of a war (Section 56)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="870" y="510" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-31" value="if the performance is not done with in specified time the contract is discharged and the promisee can claim damages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="325" width="190" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-5" value="&lt;div&gt;Discharge &lt;br&gt;&lt;/div&gt;&lt;div&gt;by operation of law&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-5" value="&lt;div&gt;Discharge &lt;br&gt;&lt;/div&gt;&lt;div&gt;by operation of law&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="710" y="400" width="120" height="40" as="geometry">
             <mxRectangle x="710" y="400" width="210" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-33" value="A contract may be discharged by operation of law which includes by death of the promisor, by insolvency etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7Zke7j-YVxXUd72GFMQR-5">
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-33" value="A contract may be discharged by operation of law which includes by death of the promisor, by insolvency etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="7Zke7j-YVxXUd72GFMQR-5" vertex="1">
           <mxGeometry y="40" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-34" target="7Zke7j-YVxXUd72GFMQR-35" visible="0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-4" value="&lt;div&gt; Discharge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;lapse of time&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-34" value="Breach of contract may be actual breach of contract or anticipatory breach of contract. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="460" width="240" height="40" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-3" value="Discharge  by  impossibility  of  performance" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-35" value="party injured thereby, has not only a right of action for damages but he is also discharged from performing his part of the contract. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="515" width="240" height="50" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-2" value="&lt;div&gt;Discharge by &lt;br&gt;&lt;/div&gt;&lt;div&gt;mutual agreement&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-38" value="Example: A owes B ` 5,00,000. C pays to B `1,00,000 and B accepts them, in satisfaction of his whole claim on A. This payment is a discharge of the whole claim." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="505" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-41" value="Example: If an apprentice refuses to learn, the teacher cannot be held liable for not teaching." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="600" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-43" target="7Zke7j-YVxXUd72GFMQR-44" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-43" value="Example: A took a land on lease from B. Subsequently, A purchases that very land. Now, A becomes the owner of the land and the ownership rights being superior to rights of a lessee, the earlier contract of lease stands terminated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="660" width="320" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-44" value="Sometimes, the inferior rights and the superior rights coincide and meet in one and the same person. In such cases, the inferior rights merge into the superior rights. On merger, the inferior rights vanish and are not required to be enforced" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="850" y="760" width="320" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-55" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Partly performance &lt;br&gt;&lt;/div&gt;&lt;div&gt;that discharge the whole contract&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 63&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="360" y="180" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" visible="0" source="7Zke7j-YVxXUd72GFMQR-55" target="7Zke7j-YVxXUd72GFMQR-57" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-57" target="7Zke7j-YVxXUd72GFMQR-58" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-57" value="Example: A owes B ` 5,00,000. C pays to B `1,00,000 and B accepts them, in satisfaction of his whole claim on A. This payment is a discharge of the whole claim." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="345" y="280" width="150" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-58" value="“Every promisee may dispense with or remit, wholly or in part, the performance of the promise made to him, or may extend the time for such performance or may accept instead of it any satisfaction which he thinks fit”." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="340" y="435" width="160" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-61" value="&lt;div&gt;“When  an  agreement  is  discovered  to  be  void  or  when  a  contract  becomes  void,  any  person  who  has  received  any  advantage  under  such  agreement  or  contract  is  bound  to  restore  it,  or  to  make  compensation for it to the person from whom he received it.”&lt;/div&gt;&lt;div&gt;Example: A pays B ` 1,00,000, in consideration of B’s promising to marry C, A’s daughter. C is dead at the time of the promise. The agreement is void, but B must repay A ` 1,00,000.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="560" y="280" width="280" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-63" target="7Zke7j-YVxXUd72GFMQR-64" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-63" value="&lt;div&gt;neglect of &lt;br&gt;&lt;/div&gt;&lt;div&gt;promisors reasonable performance&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 67&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="920" y="180" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-64" value="Example: If an apprentice refuses to learn, the teacher cannot be held liable for not teaching." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="860" y="270" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-66" value=" contract voidable at the option of one of the parties can be rescinded; but rescission must be communicated to the other party in the same manner as a proposal is communicated under Section 4 of the Contract Act. Similarly, a rescission may be revoked in the same manner as a proposal is revoked." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2A2A2A;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="720" y="280" width="240" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Zke7j-YVxXUd72GFMQR-68" target="7Zke7j-YVxXUd72GFMQR-70" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-68" value="&lt;div&gt;when the contract be voidable post-contract &lt;br&gt;&lt;/div&gt;&lt;div&gt;then the contract must be rescinded and if any benefit was received to any party it must be restored&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="440" y="280" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7Zke7j-YVxXUd72GFMQR-70" value="EXAMPLE: A pays to B 1 lakh rupees. but later on the contract becomes voidable. them the contract must be rescinded and A must refund the one lakh rupees to A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="440" y="370" width="240" height="70" as="geometry" />
+        <mxCell id="7Zke7j-YVxXUd72GFMQR-1" value="Discharge by performance" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="710" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
