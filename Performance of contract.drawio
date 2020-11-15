@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T14:16:39.589Z" agent="5.0 (X11)" etag="8ifXDd9nLh2BOCtbmFkn" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T00:26:00.305Z" agent="5.0 (X11)" etag="xUuqTFf5wB8IQ13znd0D" version="13.9.8" type="github">
   <diagram id="Q2yUOy0-iErexTtuF7qb" name="Page-1">
-    <mxGraphModel dx="1958" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,7 @@
         <mxCell id="2sk9FqR-iDwF5xVdi0Y7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-5" target="VpjiBCg_nfdNJr2iW8XH-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E0t1wR7pqK-8ebcjUuFq-5" value="Liability of Joint Promisor &amp;amp; Promisee" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0" collapsed="1">
+        <mxCell id="E0t1wR7pqK-8ebcjUuFq-5" value="Liability of Joint Promisor &amp;amp; Promisee" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" visible="0">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0t1wR7pqK-8ebcjUuFq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E0t1wR7pqK-8ebcjUuFq-6" target="E0t1wR7pqK-8ebcjUuFq-27" edge="1" visible="0">
@@ -391,7 +391,7 @@
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VpjiBCg_nfdNJr2iW8XH-22" target="VpjiBCg_nfdNJr2iW8XH-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VpjiBCg_nfdNJr2iW8XH-22" value="Effect of release of one joint promisor&lt;div&gt; &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 45&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="VpjiBCg_nfdNJr2iW8XH-22" value="Rights of Joint Promisees&lt;br&gt;&lt;div&gt; &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 45&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="420" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VpjiBCg_nfdNJr2iW8XH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VpjiBCg_nfdNJr2iW8XH-24" target="VpjiBCg_nfdNJr2iW8XH-26" edge="1" visible="0">
