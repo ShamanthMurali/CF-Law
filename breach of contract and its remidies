@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T05:21:28.083Z" agent="5.0 (X11)" etag="ch9EKORZ54JLx2k4cCqq" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T05:26:39.201Z" agent="5.0 (X11)" etag="Ydmd2-qBmy34zWPIZ6BR" version="13.10.0" type="github">
   <diagram id="qwhB_swLNxK2KkElb7xe" name="Page-1">
     <mxGraphModel dx="1108" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,6 +151,15 @@
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-33" value="“When a party to a contract has refused to perform or disable himself from performing, his promise in its&lt;br/&gt;entirety, the promisee may put an end to the contract, unless he has signied, but words or conduct, his&lt;br/&gt;acquiescence in its continuance." style="rounded=1;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-4" vertex="1">
           <mxGeometry x="10" y="60" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HKF_3J27l0oipCCEIqbn-1" value="" style="shape=flexArrow;endArrow=classic;html=1;width=18;endSize=10.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="342" as="sourcePoint" />
+            <mxPoint x="400" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKF_3J27l0oipCCEIqbn-2" value="Party rightfully rescinding contract, entitled to compensation &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;(Section 75)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
