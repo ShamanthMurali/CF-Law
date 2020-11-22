@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T06:39:37.162Z" agent="5.0 (X11)" etag="nmWtc537VijS6nAVku2F" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T07:06:36.515Z" agent="5.0 (X11)" etag="lsrfs62w-JnhhOcWFxtJ" version="13.10.0" type="github">
   <diagram id="qwhB_swLNxK2KkElb7xe" name="Page-1">
     <mxGraphModel dx="1108" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,12 +75,6 @@
         <mxCell id="Tb9ss5tkVFptEStzcvkr-5" value="Rescission of&lt;br/&gt;Contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-6" value="Suit for Specific&lt;br&gt;Performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-7" value="Suit for&lt;br/&gt;Injunction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tb9ss5tkVFptEStzcvkr-9" target="Tb9ss5tkVFptEStzcvkr-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -128,6 +122,9 @@
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-14" value="Ordinary&lt;br/&gt;Damages" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tb9ss5tkVFptEStzcvkr-15" target="c9XdWag_qW1IVe0Yk6iB-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-15" value="Penalty" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="340" width="120" height="40" as="geometry" />
@@ -180,6 +177,25 @@
         </mxCell>
         <mxCell id="c9XdWag_qW1IVe0Yk6iB-4" value="&lt;div&gt;vindictive is punitive in nature&lt;/div&gt;&lt;div&gt;eg: dishonor of a cheque by bank even when there is balance in the bank&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-12">
           <mxGeometry y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-5" value="it is imposed in a way of punisment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-6" value="Suit for Specific&lt;br&gt;Performance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="380" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="380" y="160" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-7" value="When compensation is not enough it requires some specific performance to be made to make good" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-6">
+          <mxGeometry y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-7" value="Suit for&lt;br/&gt;Injunction" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="540" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="540" y="160" width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-9" value="when a party is negotiating the terms of a contract the court&amp;nbsp; may issue an injunction order." style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-7">
+          <mxGeometry y="40" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
