@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T09:39:26.923Z" agent="5.0 (X11)" etag="XEuRvtGCI_uSVwue68Qv" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T09:41:26.686Z" agent="5.0 (X11)" etag="RvtKAFwoSMvpHYmbUBqd" version="13.10.2" type="github">
   <diagram id="fh7y-sXPkE3bz3FBDUQT" name="Page-1">
-    <mxGraphModel dx="2808" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2623" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,17 +209,9 @@
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-83" value="Quality of goods includes their state or condition." style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-82" vertex="1">
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-78" value="Insolvent &lt;br&gt;[Section 2(8)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="260" width="140" height="40" as="geometry">
-            <mxRectangle x="340" y="320" width="290" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-79" value="&amp;nbsp;A person is said to be insolvent when he ceases to pay his debts in the ordinary&lt;br/&gt;course of business, or cannot pay his debts as they become due, whether he has committed an act of&lt;br/&gt;insolvency or not.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-78" vertex="1">
-          <mxGeometry y="40" width="290" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-60" value="symbolic delivery" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="200" y="320" width="120" height="40" as="geometry">
-            <mxRectangle x="-400" y="160" width="220" height="140" as="alternateBounds" />
+            <mxRectangle x="200" y="320" width="220" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-65" value="&lt;span style=&quot;text-align: left&quot;&gt;This kind of delivery involves the delivery of a thing in token of a transfer of some other thing. For example, the key of the godowns with the goods in it, when handed over to the buyer will constitute a symbolic delivery.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-60" vertex="1">
@@ -267,7 +259,7 @@
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-7" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Transfer of property&lt;br&gt;/ delivery&amp;nbsp;[Section 2(2)]&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="40" y="240" width="160" height="40" as="geometry">
-            <mxRectangle x="-537" y="80" width="200" height="80" as="alternateBounds" />
+            <mxRectangle x="40" y="240" width="200" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-62" value="Delivery means voluntary transfer of possession from one person&lt;br/&gt;to another&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-7" vertex="1">
@@ -300,14 +292,6 @@
         <mxCell id="sOYUiQm6_2DiCQyvYYTG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-11" target="sOYUiQm6_2DiCQyvYYTG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-70" value="Mercantile Agent&lt;br&gt;&amp;nbsp;[Section 2(9)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="140" width="140" height="40" as="geometry">
-            <mxRectangle x="80" y="160" width="250" height="130" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-71" value="&lt;span&gt;Mercantile agent is someone who has authority in the customary course of business, either to sell or consign goods under the contract on behalf of the one or both of the parties. Examples include auctioneers, brokers, factors etc.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-70" vertex="1">
-          <mxGeometry y="40" width="250" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-6" value="Goods&lt;br&gt;&amp;nbsp;[Section 2(7)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-300" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="200" y="80" width="280" height="140" as="alternateBounds" />
@@ -315,14 +299,6 @@
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-49" value="“Goods” means every kind of movable property other than actionable claims and money; and&lt;br/&gt;includes stock and shares, growing crops, grass, and things attached to or forming part of the land,&lt;br/&gt;which are agreed to be severed before sale or under the contract of sale.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-6" vertex="1">
           <mxGeometry y="40" width="280" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-67" value="Document of title&lt;br&gt;&amp;nbsp;to goods &lt;br&gt;[Section 2(4)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="80" width="140" height="40" as="geometry">
-            <mxRectangle x="80" y="80" width="200" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-68" value="&lt;span style=&quot;text-align: left&quot;&gt;A formal document that confers or proves ownership is a document of title&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-67" vertex="1">
-          <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sOYUiQm6_2DiCQyvYYTG-1" value="&lt;div&gt;Formalities of &lt;br&gt;&lt;/div&gt;&lt;div&gt;contract of sale&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-880" y="300" width="120" height="50" as="geometry">
@@ -372,22 +348,30 @@
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-36" value="&amp;nbsp;‘Buyer’ means a person who buys or agrees to buy goods.&lt;br&gt; person who buys but&lt;br/&gt;also the one who agrees to buy is a buyer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-9" vertex="1">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-76" value="&amp;nbsp;Property&amp;nbsp;&lt;br&gt;[Section 2(11)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="200" width="140" height="40" as="geometry">
-            <mxRectangle x="80" y="240" width="250" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-77" value="&lt;span&gt;n the Act, property means ‘ownership’ or the general property i.e. all ownership right of the goods. A sale constitutes the transfer of ownership of goods by the seller to the buyer or an agreement of the same.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-76" vertex="1">
-          <mxGeometry y="40" width="250" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="sOYUiQm6_2DiCQyvYYTG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K0-mJAyQ_O13EL4r1lyW-70" target="K0-mJAyQ_O13EL4r1lyW-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="240" as="targetPoint" />
             <mxPoint x="410" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sEcohGPl2vnGG6sJ-qkQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sOYUiQm6_2DiCQyvYYTG-10" target="sEcohGPl2vnGG6sJ-qkQ-1">
+        <mxCell id="sEcohGPl2vnGG6sJ-qkQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sOYUiQm6_2DiCQyvYYTG-10" target="sEcohGPl2vnGG6sJ-qkQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEcohGPl2vnGG6sJ-qkQ-1" value="&lt;div&gt;&amp;nbsp;determination&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;of&amp;nbsp; price&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;by&amp;nbsp; a&amp;nbsp; third&amp;nbsp; party&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 10&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="520" y="270" width="120" height="60" as="geometry">
+            <mxRectangle x="520" y="270" width="490" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sEcohGPl2vnGG6sJ-qkQ-2" value="Example: P is having two bikes. He agrees to sell both of the bikes to S at a price to be xed by the Q. He gives delivery of one bike immediately. Q refuses to x the price. As such P ask S to return the bike already delivered&amp;nbsp; while&amp;nbsp; S&amp;nbsp; claims&amp;nbsp; for&amp;nbsp; the&amp;nbsp; delivery&amp;nbsp; of&amp;nbsp; the&amp;nbsp; second&amp;nbsp; bike&amp;nbsp; too.&amp;nbsp; In&amp;nbsp; the&amp;nbsp; given&amp;nbsp; instance&amp;nbsp; buyer&amp;nbsp; S&amp;nbsp; shall&amp;nbsp; pay&amp;nbsp; reasonable price to P for the bike already taken. As regards the Second bike, the contract can be avoided." style="rounded=0;whiteSpace=wrap;html=1;" parent="sEcohGPl2vnGG6sJ-qkQ-1" vertex="1">
+          <mxGeometry y="60" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-78" value="Insolvent &lt;br&gt;[Section 2(8)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="260" width="140" height="40" as="geometry">
+            <mxRectangle x="340" y="320" width="290" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-79" value="&amp;nbsp;A person is said to be insolvent when he ceases to pay his debts in the ordinary&lt;br/&gt;course of business, or cannot pay his debts as they become due, whether he has committed an act of&lt;br/&gt;insolvency or not.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-78" vertex="1">
+          <mxGeometry y="40" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sOYUiQm6_2DiCQyvYYTG-10" value="&lt;div&gt;Ascertainment&lt;/div&gt;&lt;div&gt;of price&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 9&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="520" y="200" width="120" height="50" as="geometry">
@@ -397,13 +381,29 @@
         <mxCell id="sOYUiQm6_2DiCQyvYYTG-11" value="&lt;div&gt;(1)&amp;nbsp;&amp;nbsp; fixed by the contract, or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)&amp;nbsp;&amp;nbsp; agreed to be fixed in a manner provided by the contract, e.g., by a valuer, or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)&amp;nbsp;&amp;nbsp; determined by the course of dealings between the parties&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="sOYUiQm6_2DiCQyvYYTG-10" vertex="1">
           <mxGeometry y="50" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sEcohGPl2vnGG6sJ-qkQ-1" value="&lt;div&gt;&amp;nbsp;determination&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;of&amp;nbsp; price&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;by&amp;nbsp; a&amp;nbsp; third&amp;nbsp; party&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 10&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="520" y="270" width="120" height="60" as="geometry">
-            <mxRectangle x="520" y="270" width="490" height="150" as="alternateBounds" />
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-76" value="&amp;nbsp;Property&amp;nbsp;&lt;br&gt;[Section 2(11)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="200" width="140" height="40" as="geometry">
+            <mxRectangle x="80" y="240" width="250" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sEcohGPl2vnGG6sJ-qkQ-2" value="Example: P is having two bikes. He agrees to sell both of the bikes to S at a price to be xed by the Q. He gives delivery of one bike immediately. Q refuses to x the price. As such P ask S to return the bike already delivered&amp;nbsp; while&amp;nbsp; S&amp;nbsp; claims&amp;nbsp; for&amp;nbsp; the&amp;nbsp; delivery&amp;nbsp; of&amp;nbsp; the&amp;nbsp; second&amp;nbsp; bike&amp;nbsp; too.&amp;nbsp; In&amp;nbsp; the&amp;nbsp; given&amp;nbsp; instance&amp;nbsp; buyer&amp;nbsp; S&amp;nbsp; shall&amp;nbsp; pay&amp;nbsp; reasonable price to P for the bike already taken. As regards the Second bike, the contract can be avoided." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sEcohGPl2vnGG6sJ-qkQ-1">
-          <mxGeometry y="60" width="490" height="90" as="geometry" />
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-77" value="&lt;span&gt;n the Act, property means ‘ownership’ or the general property i.e. all ownership right of the goods. A sale constitutes the transfer of ownership of goods by the seller to the buyer or an agreement of the same.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-76" vertex="1">
+          <mxGeometry y="40" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-70" value="Mercantile Agent&lt;br&gt;&amp;nbsp;[Section 2(9)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="140" width="140" height="40" as="geometry">
+            <mxRectangle x="80" y="160" width="250" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-71" value="&lt;span&gt;Mercantile agent is someone who has authority in the customary course of business, either to sell or consign goods under the contract on behalf of the one or both of the parties. Examples include auctioneers, brokers, factors etc.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-70" vertex="1">
+          <mxGeometry y="40" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-67" value="Document of title&lt;br&gt;&amp;nbsp;to goods &lt;br&gt;[Section 2(4)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="80" width="140" height="40" as="geometry">
+            <mxRectangle x="340" y="80" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-68" value="&lt;span style=&quot;text-align: left&quot;&gt;A formal document that confers or proves ownership is a document of title&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-67" vertex="1">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
