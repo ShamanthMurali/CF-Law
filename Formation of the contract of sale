@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T05:53:43.689Z" agent="5.0 (X11)" etag="wniDOkkq-WwxLRLXfSeA" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T06:02:06.903Z" agent="5.0 (X11)" etag="vO1vdxtCXXC25XBcNIoX" version="13.10.1" type="github">
   <diagram id="fh7y-sXPkE3bz3FBDUQT" name="Page-1">
-    <mxGraphModel dx="2464" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2568" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-2" value="Parties" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1220" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1180" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-3" value="essentials of a valid&lt;br&gt;contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="80" width="120" height="40" as="geometry" />
@@ -73,13 +73,16 @@
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K0-mJAyQ_O13EL4r1lyW-21" target="K0-mJAyQ_O13EL4r1lyW-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sOYUiQm6_2DiCQyvYYTG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CCCC00;" edge="1" parent="1" source="K0-mJAyQ_O13EL4r1lyW-33" target="sOYUiQm6_2DiCQyvYYTG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-33" value="money&lt;br&gt;consideration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K0-mJAyQ_O13EL4r1lyW-67" target="K0-mJAyQ_O13EL4r1lyW-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K0-mJAyQ_O13EL4r1lyW-70" edge="1">
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K0-mJAyQ_O13EL4r1lyW-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="240" as="targetPoint" />
           </mxGeometry>
@@ -97,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-86" value="sale&lt;br&gt;(SECTION 4)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-920" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-880" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-1" target="_ET7i8i5NuGlAr9mCap7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-14" value="&lt;u&gt;&lt;i&gt;&lt;b&gt;Cases&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="-840" y="390" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-15" target="_ET7i8i5NuGlAr9mCap7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -119,20 +122,20 @@
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-26" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-960" y="380" as="sourcePoint" />
-            <mxPoint x="-760" y="380" as="targetPoint" />
+            <mxPoint x="-920" y="380" as="sourcePoint" />
+            <mxPoint x="-720" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-29" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-760" y="380" as="sourcePoint" />
-            <mxPoint x="-760" y="690" as="targetPoint" />
+            <mxPoint x="-720" y="380" as="sourcePoint" />
+            <mxPoint x="-720" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-30" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-960" y="380" as="sourcePoint" />
-            <mxPoint x="-960" y="690" as="targetPoint" />
+            <mxPoint x="-920" y="380" as="sourcePoint" />
+            <mxPoint x="-920" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-31" target="_ET7i8i5NuGlAr9mCap7-34" edge="1">
@@ -145,37 +148,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-31" value="&lt;u&gt;&lt;i&gt;&lt;b&gt;Effect of destruction of goods&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="701" width="240" height="20" as="geometry" />
+          <mxGeometry x="-940" y="701" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-32" target="_ET7i8i5NuGlAr9mCap7-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ET7i8i5NuGlAr9mCap7-32" value="Goods are destroyed&amp;nbsp;&lt;br&gt;&lt;u&gt;after &lt;/u&gt;the agreement to contract of sale" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-920" y="761" width="120" height="60" as="geometry" />
+        <mxCell id="_ET7i8i5NuGlAr9mCap7-32" value="Goods are destroyed&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;u&gt;after &lt;/u&gt;the agreement to contract of sale&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;section 8&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-33" target="_ET7i8i5NuGlAr9mCap7-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-33" value="&lt;span&gt;Goods are destroyed&amp;nbsp;&lt;/span&gt;&lt;br&gt;after the contract of sale" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="761" width="120" height="60" as="geometry" />
+          <mxGeometry x="-720" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_ET7i8i5NuGlAr9mCap7-34" target="_ET7i8i5NuGlAr9mCap7-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_ET7i8i5NuGlAr9mCap7-34" value="Goods are destroyed&amp;nbsp;&lt;br&gt;&lt;u&gt;before &lt;/u&gt;the contract of sale" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="761" width="120" height="60" as="geometry" />
+        <mxCell id="_ET7i8i5NuGlAr9mCap7-34" value="Goods are destroyed&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;u&gt;before &lt;/u&gt;the contract of sale&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 7&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1040" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-38" value="&amp;gt;void&lt;br&gt;&amp;gt;risk to seller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="841" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1040" y="841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-40" value="&lt;span&gt;&amp;gt;void&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;gt;risk to seller&lt;br&gt;&amp;gt;buyer can claim damages&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-920" y="841" width="120" height="60" as="geometry" />
+          <mxGeometry x="-880" y="841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-42" value="&amp;gt;valid&lt;br&gt;&amp;gt;risk to buyer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="841" width="120" height="60" as="geometry" />
+          <mxGeometry x="-720" y="841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-21" value="Sale and contract &lt;br&gt;for work and labour" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-935" y="610" width="150" height="40" as="geometry">
+          <mxGeometry x="-895" y="610" width="150" height="40" as="geometry">
             <mxRectangle x="-1015" y="490" width="320" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -183,7 +186,7 @@
           <mxGeometry y="40" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-18" value="Sale&#xa; vs &#xa;bailment" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-920" y="520" width="120" height="50" as="geometry">
+          <mxGeometry x="-880" y="520" width="120" height="50" as="geometry">
             <mxRectangle x="-1000" y="420" width="650" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -191,7 +194,7 @@
           <mxGeometry y="50" width="649" height="197" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-15" value="Sale&#xa; vs &#xa;hire purchase" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-920" y="430" width="120" height="50" as="geometry">
+          <mxGeometry x="-880" y="430" width="120" height="50" as="geometry">
             <mxRectangle x="-920" y="430" width="520" height="291" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -199,7 +202,7 @@
           <mxGeometry y="50" width="517.84" height="240" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-82" value="Quality of goods&lt;br&gt;&amp;nbsp;[Section 2(12)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="400" width="140" height="40" as="geometry">
+          <mxGeometry x="340" y="320" width="140" height="40" as="geometry">
             <mxRectangle x="340" y="400" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -207,7 +210,7 @@
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-78" value="Insolvent &lt;br&gt;[Section 2(8)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="320" width="140" height="40" as="geometry">
+          <mxGeometry x="340" y="260" width="140" height="40" as="geometry">
             <mxRectangle x="340" y="320" width="290" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -262,14 +265,6 @@
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-52" value="Specic goods means goods identied and agreed upon at the time a contract of sale is made&lt;br&gt;Example 1: Any specied and nally decided goods like a Samsung Galaxy S7 Edge, Whirlpool washing&lt;br/&gt;machine of 7 kg etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-27" vertex="1">
           <mxGeometry y="40" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-76" value="&amp;nbsp;Property&amp;nbsp;&lt;br&gt;[Section 2(11)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="240" width="140" height="40" as="geometry">
-            <mxRectangle x="80" y="240" width="250" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-77" value="&lt;span&gt;n the Act, property means ‘ownership’ or the general property i.e. all ownership right of the goods. A sale constitutes the transfer of ownership of goods by the seller to the buyer or an agreement of the same.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-76" vertex="1">
-          <mxGeometry y="40" width="250" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-7" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Transfer of property&lt;br&gt;/ delivery&amp;nbsp;[Section 2(2)]&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="40" y="240" width="160" height="40" as="geometry">
             <mxRectangle x="-537" y="80" width="200" height="80" as="alternateBounds" />
@@ -306,7 +301,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-70" value="Mercantile Agent&lt;br&gt;&amp;nbsp;[Section 2(9)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="160" width="140" height="40" as="geometry">
+          <mxGeometry x="340" y="140" width="140" height="40" as="geometry">
             <mxRectangle x="80" y="160" width="250" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -330,7 +325,7 @@
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sOYUiQm6_2DiCQyvYYTG-1" value="&lt;div&gt;Formalities of &lt;br&gt;&lt;/div&gt;&lt;div&gt;contract of sale&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 5&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-920" y="300" width="120" height="50" as="geometry">
+          <mxGeometry x="-880" y="300" width="120" height="50" as="geometry">
             <mxRectangle x="-920" y="300" width="320" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -338,7 +333,7 @@
           <mxGeometry y="40" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-11" value="differences" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-920" y="240" width="120" height="40" as="geometry">
+          <mxGeometry x="-880" y="240" width="120" height="40" as="geometry">
             <mxRectangle x="-920" y="240" width="380.91" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -346,7 +341,7 @@
           <mxGeometry x="8.171241461241152e-14" y="40" width="381.82" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-3" value="agreement&lt;br&gt;&amp;nbsp;to sell&lt;br&gt;[Section 4(3)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-840" y="160" width="120" height="40" as="geometry">
+          <mxGeometry x="-800" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="-840" y="160" width="570" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -354,7 +349,7 @@
           <mxGeometry y="40" width="570" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_ET7i8i5NuGlAr9mCap7-1" value="sale agreement&lt;br&gt;(SECTION 4(1))" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1000" y="160" width="120" height="40" as="geometry">
+          <mxGeometry x="-960" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="-1000" y="160" width="250" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -362,7 +357,7 @@
           <mxGeometry y="40" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-8" value="seller&lt;br&gt;&amp;nbsp;[Section 2(13)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1140" y="160" width="120" height="40" as="geometry">
+          <mxGeometry x="-1100" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="-620" y="160" width="240" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -370,12 +365,34 @@
           <mxGeometry y="40" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-9" value="buyer&amp;nbsp;&lt;br&gt;[Section 2(1)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-1300" y="160" width="120" height="40" as="geometry">
+          <mxGeometry x="-1260" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="-780" y="160" width="280" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-36" value="&amp;nbsp;‘Buyer’ means a person who buys or agrees to buy goods.&lt;br&gt; person who buys but&lt;br/&gt;also the one who agrees to buy is a buyer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-9" vertex="1">
           <mxGeometry y="40" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-76" value="&amp;nbsp;Property&amp;nbsp;&lt;br&gt;[Section 2(11)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="200" width="140" height="40" as="geometry">
+            <mxRectangle x="80" y="240" width="250" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-77" value="&lt;span&gt;n the Act, property means ‘ownership’ or the general property i.e. all ownership right of the goods. A sale constitutes the transfer of ownership of goods by the seller to the buyer or an agreement of the same.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-76" vertex="1">
+          <mxGeometry y="40" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sOYUiQm6_2DiCQyvYYTG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0-mJAyQ_O13EL4r1lyW-70" target="K0-mJAyQ_O13EL4r1lyW-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="targetPoint" />
+            <mxPoint x="410" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOYUiQm6_2DiCQyvYYTG-10" value="&lt;div&gt;Ascertainment&lt;/div&gt;&lt;div&gt;of price&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;Section 9&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="50" as="geometry">
+            <mxRectangle x="520" y="200" width="320" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOYUiQm6_2DiCQyvYYTG-11" value="&lt;div&gt;(1)&amp;nbsp;&amp;nbsp; fixed by the contract, or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)&amp;nbsp;&amp;nbsp; agreed to be fixed in a manner provided by the contract, e.g., by a valuer, or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)&amp;nbsp;&amp;nbsp; determined by the course of dealings between the parties&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sOYUiQm6_2DiCQyvYYTG-10">
+          <mxGeometry y="50" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
