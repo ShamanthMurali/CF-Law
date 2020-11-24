@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T15:15:58.348Z" agent="5.0 (X11)" etag="pimh1SHmnxA9GZjNSMKV" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T23:57:38.197Z" agent="5.0 (X11)" etag="jr12mg1TqtJS4GS4TlOk" version="13.10.2" type="github">
   <diagram id="jKBCTLOwj1DswDWuUuwR" name="Page-1">
-    <mxGraphModel dx="421" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,6 +372,9 @@
         <mxCell id="iB-KLwdSgmg35FpROyWD-11" value="“A warranty is a stipulation collateral to the main purpose of the contract, the breach of which gives rise to a&lt;br/&gt;claim for damages but not to a right to reject the goods and treat the contract as repudiated”." style="rounded=0;whiteSpace=wrap;html=1;" parent="iB-KLwdSgmg35FpROyWD-4" vertex="1">
           <mxGeometry y="40" width="300" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="oBME017ThXjQ7k-HR8Fw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iB-KLwdSgmg35FpROyWD-2" target="oBME017ThXjQ7k-HR8Fw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iB-KLwdSgmg35FpROyWD-2" value="Condition&lt;br&gt;&amp;nbsp;[SECTION 12(2)]&amp;nbsp;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry">
             <mxRectangle x="240" y="80" width="260" height="110" as="alternateBounds" />
@@ -387,6 +390,14 @@
         </mxCell>
         <mxCell id="iB-KLwdSgmg35FpROyWD-9" value="&amp;nbsp;A stipulation in a contract of sale with reference to goods which are&lt;br/&gt;the subject thereof may be a condition or a warranty" style="rounded=1;whiteSpace=wrap;html=1;" parent="iB-KLwdSgmg35FpROyWD-1" vertex="1">
           <mxGeometry y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oBME017ThXjQ7k-HR8Fw-1" value="When condition &#xa;is to be treated &#xa;as warranty&#xa;[Section 13]" style="swimlane;startSize=75;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry y="160" width="120" height="75" as="geometry">
+            <mxRectangle y="160" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBME017ThXjQ7k-HR8Fw-6" value="&lt;div&gt;1. when the buyer waive(give up) on the performance of the condition&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. when the buyer elect to treat the breach of conditions as one of warranty.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oBME017ThXjQ7k-HR8Fw-1">
+          <mxGeometry y="70" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
