@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T01:28:33.226Z" agent="5.0 (X11)" etag="QyPqKp5fL3-pmMktkX89" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T01:57:27.073Z" agent="5.0 (X11)" etag="DqxP5uAJ3-3GyinNQl1A" version="13.10.1" type="github">
   <diagram id="fh7y-sXPkE3bz3FBDUQT" name="Page-1">
-    <mxGraphModel dx="2808" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3004" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,10 +240,10 @@
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-31" value="unascertained" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-380" y="320" width="120" height="40" as="geometry">
-            <mxRectangle x="120" y="240" width="270" height="100" as="alternateBounds" />
+            <mxRectangle x="-380" y="320" width="270" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0-mJAyQ_O13EL4r1lyW-57" value="Unascertained goods are the goods which are not specically identied or ascertained at the time of&lt;br/&gt;making of the contract. They are indicated or dened only by description or sample.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-31" vertex="1">
+        <mxCell id="K0-mJAyQ_O13EL4r1lyW-57" value="Unascertained goods are the goods which are not specically identied or ascertained at the time of&lt;br&gt;making of the contract. They are indicated or defined only by description or sample.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-31" vertex="1">
           <mxGeometry y="40" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-29" value="ascertained" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
@@ -280,11 +280,11 @@
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-25" value="contingent goods&lt;br&gt;&amp;nbsp;[Section 6(2)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-160" y="240" width="130" height="40" as="geometry">
-            <mxRectangle x="340" y="160" width="430" height="160" as="alternateBounds" />
+            <mxRectangle x="-160" y="240" width="430" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-59" value="&lt;span&gt;Contingent goods are actually a subtype of future goods in the sense that in contingent goods the actual sale is to be done in the future. These goods are part of a sale contract that has some contingency clause in it. For example, if you sell your apples from your orchard when the trees are yet to produce apples, the apples are a contingent good. This sale is dependent on the condition that the trees are able to produce apples, which may not happen.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-25" vertex="1">
-          <mxGeometry y="40" width="400" height="120" as="geometry" />
+          <mxGeometry y="40" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-23" value="future goods&lt;br&gt;&amp;nbsp;[Section 2 (6)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-300" y="240" width="120" height="40" as="geometry">
@@ -296,7 +296,7 @@
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-21" value="existing goods&lt;br&gt;&amp;nbsp;(Section 6)" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-535" y="240" width="130" height="40" as="geometry">
-            <mxRectangle x="-35" y="160" width="130" height="100" as="alternateBounds" />
+            <mxRectangle x="-535" y="240" width="130" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-48" value="such goods as are in existence at the time of the contract of sale" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-21" vertex="1">
