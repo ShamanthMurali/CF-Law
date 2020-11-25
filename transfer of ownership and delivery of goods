@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T12:02:26.886Z" agent="5.0 (X11)" etag="0i-0ns11hGo-OXADHG4C" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T12:03:11.940Z" agent="5.0 (X11)" etag="35LVltbZB_lCQfQoz_v4" version="13.10.2" type="github">
   <diagram id="n5IPS41c7DAAmf8fSTAL" name="Page-1">
     <mxGraphModel dx="1958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -570,7 +570,7 @@
             <mxRectangle x="370" y="820" width="510" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnfLZkXM8kLNfKA-xG2h-40" value="(i) Sale by an Official Receiver or Liquidator of the Company will give the purchaser a valid title.&lt;br&gt;(ii) Purchase of goods from a nder of goods will get a valid title under circumstances [Section 169 of&lt;br&gt;the Indian Contract Act, 1872]&lt;br&gt;(iii) A sale by pawnee can convey a good title to the buyer [Section 176 of the Indian Contract Act,&lt;br&gt;1872]" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZnfLZkXM8kLNfKA-xG2h-39" vertex="1">
+        <mxCell id="ZnfLZkXM8kLNfKA-xG2h-40" value="(i) Sale by an Official Receiver or Liquidator of the Company will give the purchaser a valid title.&lt;br&gt;(ii) Purchase of goods from a finder of goods will get a valid title under circumstances [Section 169 of&lt;br&gt;the Indian Contract Act, 1872]&lt;br&gt;(iii) A sale by pawnee can convey a good title to the buyer [Section 176 of the Indian Contract Act,&lt;br&gt;1872]" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZnfLZkXM8kLNfKA-xG2h-39" vertex="1">
           <mxGeometry y="40" width="510" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZnfLZkXM8kLNfKA-xG2h-41" value="Sale by &lt;br&gt;an unpaid seller" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
