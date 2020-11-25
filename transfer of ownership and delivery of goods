@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T09:57:22.538Z" agent="5.0 (X11)" etag="u8V9XrpFszv56oAKTyLa" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T10:41:06.601Z" agent="5.0 (X11)" etag="_8ptY5B-Hc0_gfEidSY5" version="13.10.2" type="github">
   <diagram id="n5IPS41c7DAAmf8fSTAL" name="Page-1">
-    <mxGraphModel dx="2433" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -674,7 +674,7 @@
             <mxRectangle x="-240" y="360" width="470" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PSnf_3OtOLj86w0sUEU5-196" value="&lt;span style=&quot;text-align: left&quot;&gt;If the seller delivers the goods to the buyer or a carrier or a&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.toppr.com/guides/business-laws-cs/indian-contract-act-1872/duties-of-bailee-and-bailor/&quot; style=&quot;box-sizing: border-box ; border: 0px ; transition: 0.8s ease-out 0s ; text-align: left ; box-shadow: none ; text-shadow: none ; outline-color: rgb(85 , 85 , 85)&quot;&gt;bailee&lt;/a&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;(whether named by the buyer or not) for the purpose of transmission to the buyer, but does not reserve the right of disposal, then he is deemed to have unconditionally appropriated the goods to the contract.&lt;br&gt;example:&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="PSnf_3OtOLj86w0sUEU5-195" vertex="1">
+        <mxCell id="PSnf_3OtOLj86w0sUEU5-196" value="&lt;span style=&quot;text-align: left&quot;&gt;If the seller delivers the goods to the buyer or a carrier or a &lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;bailee (whether named by the buyer or not) for the purpose of transmission to the buyer, but does not reserve the right of disposal, then he is deemed to have unconditionally appropriated the goods to the contract.&lt;br&gt;example:&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="PSnf_3OtOLj86w0sUEU5-195" vertex="1">
           <mxGeometry y="80" width="470" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PSnf_3OtOLj86w0sUEU5-179" value="Specific goods to be &lt;br&gt;put into a deliverable state &lt;br&gt;(Section 21)" style="swimlane;startSize=80;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
