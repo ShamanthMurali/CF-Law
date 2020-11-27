@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T15:00:20.539Z" agent="5.0 (X11)" etag="8pGxLl32Z7rSZ2dlBlfF" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T15:21:28.272Z" agent="5.0 (X11)" etag="Lyp3xwdvwnRxC2C7IXTZ" version="13.10.4" type="github">
   <diagram id="jZkPgJGo7-U5F4NOblEo" name="Page-1">
-    <mxGraphModel dx="1219" dy="141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
         <mxCell id="_6V_I4C6rLlWFbrsB7ft-110" value="Fails to deliver the goods at the time or in manner prescribed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-40" y="680" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="K0Jy02tLeHvsc2gtaXiP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_6V_I4C6rLlWFbrsB7ft-111" target="_6V_I4C6rLlWFbrsB7ft-115" visible="0">
+        <mxCell id="K0Jy02tLeHvsc2gtaXiP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_6V_I4C6rLlWFbrsB7ft-111" target="_6V_I4C6rLlWFbrsB7ft-115" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_6V_I4C6rLlWFbrsB7ft-111" value="Repudiates&lt;br&gt;(anticipatory breach of contract)&lt;br&gt;&amp;nbsp;the contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -433,7 +433,7 @@
         <mxCell id="_6V_I4C6rLlWFbrsB7ft-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_6V_I4C6rLlWFbrsB7ft-80" target="_6V_I4C6rLlWFbrsB7ft-81" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_6V_I4C6rLlWFbrsB7ft-80" value="(ii) Where he gives notice to the buyer of his intention to re-sell the goods: If after the receipt of such&lt;br&gt;notice the buyer fails within a reasonable time to pay or tender the price, the seller may resell the goods.&lt;br&gt;It may be noted that in such cases, on the resale of the goods, the seller is also entitled to:&lt;br&gt;&lt;br&gt;(a) Recover the difference between the contract price and resale price, from the original buyer, as&lt;br&gt;damages.&lt;br&gt;(b) Retain the prot if the resale price is higher than the contract price.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+        <mxCell id="_6V_I4C6rLlWFbrsB7ft-80" value="(ii) Where he gives notice to the buyer of his intention to re-sell the goods: If after the receipt of such&lt;br&gt;notice the buyer fails within a reasonable time to pay or tender the price, the seller may resell the goods.&lt;br&gt;It may be noted that in such cases, on the resale of the goods, the seller is also entitled to:&lt;br&gt;&lt;br&gt;(a) Recover the difference between the contract price and resale price, from the original buyer, as&lt;br&gt;damages.&lt;br&gt;(b) Retain the profit if the resale price is higher than the contract price.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="-46.25" y="550" width="570" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_6V_I4C6rLlWFbrsB7ft-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_6V_I4C6rLlWFbrsB7ft-81" target="_6V_I4C6rLlWFbrsB7ft-82" edge="1" visible="0">
