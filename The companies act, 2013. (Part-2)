@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T13:14:47.339Z" agent="5.0 (X11)" etag="7QK2rWgtYY4WYUIENZ6e" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T13:14:57.706Z" agent="5.0 (X11)" etag="LhiwN5jIsgW2rRsv8QYp" version="13.10.5" type="github">
   <diagram id="daQc_qggUSb_Ff3pbO0e" name="Page-1">
     <mxGraphModel dx="3997" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -611,9 +611,6 @@
         </mxCell>
         <mxCell id="F3UoY-y3HTZJ5ZDn-J-k-71" value="Liability is not unlimited till the time Company is not wound up." style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-1080" y="1740" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-IIf3jTSGk9ggkqDTPqO-1" value="Liability is not unlimited till the time Company is not wound up." style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-1070" y="1750" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
