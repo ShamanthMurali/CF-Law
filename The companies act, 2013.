@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T13:17:16.492Z" agent="5.0 (X11)" etag="uwBZHvxdOfCCbKc6lFzM" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T00:43:22.109Z" agent="5.0 (X11)" etag="OOHDykiN81Meo3HHyYBR" version="13.10.5" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
-    <mxGraphModel dx="3066" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,14 +252,6 @@
         </mxCell>
         <mxCell id="sDW0OTkXAnOnSfZyYzni-47" value="&lt;div&gt;Formation of a company&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;Section 3&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="160" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sDW0OTkXAnOnSfZyYzni-46" value="&lt;div&gt;Promoters&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;s&lt;/b&gt;&lt;b&gt;ection  2(69)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 152.439px ; top: 133.779px ; font-size: 16.1333px ; font-family: sans-serif ; transform: scalex(0.87516)&quot;&gt;  &lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="-240" y="80" width="120" height="40" as="geometry">
-            <mxRectangle x="-90" y="80" width="250" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sDW0OTkXAnOnSfZyYzni-50" value="&lt;div&gt;1. Persons who form the company are known as promoters. &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. It is they who conceive the idea of forming the company. &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. They take all necessary steps for its registration.&lt;/div&gt;&lt;div&gt;4. It should, however, be noted that persons acting only in a professional capacity e.g., the solicitor, banker, accountant etc. are not regarded as promoters.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="sDW0OTkXAnOnSfZyYzni-46" vertex="1">
-          <mxGeometry y="40" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sDW0OTkXAnOnSfZyYzni-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sDW0OTkXAnOnSfZyYzni-51" target="sDW0OTkXAnOnSfZyYzni-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -693,6 +685,14 @@
         </mxCell>
         <mxCell id="2YDjtUKXABA5X7DNmDEY-1" value="&lt;div&gt; Companies Act, 2013 defines the term ‘share’ which means a share in the share capital of a company and includes stock. &lt;br&gt;&lt;/div&gt;&lt;div&gt;1. &lt;br&gt;Share is an interest in the company&lt;/div&gt;&lt;div&gt;2. &lt;br&gt;Shares  are  a  movable  property&lt;/div&gt;&lt;div&gt;3. &lt;br&gt;Shares shall be numbered &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SSirs5h6eGf50sHcbVoI-3" vertex="1">
           <mxGeometry y="40" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sDW0OTkXAnOnSfZyYzni-46" value="&lt;div&gt;Promoters&lt;/div&gt;&lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;s&lt;/b&gt;&lt;b&gt;ection  2(69)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;left: 152.439px ; top: 133.779px ; font-size: 16.1333px ; font-family: sans-serif ; transform: scalex(0.87516)&quot;&gt;  &lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="-240" y="80" width="120" height="40" as="geometry">
+            <mxRectangle x="-90" y="80" width="250" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDW0OTkXAnOnSfZyYzni-50" value="&lt;div&gt;1. Persons who form the company are known as promoters. &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. It is they who conceive the idea of forming the company. &lt;br&gt;&lt;/div&gt;&lt;div&gt;3. They take all necessary steps for its registration.&lt;/div&gt;&lt;div&gt;4. It should, however, be noted that persons acting only in a professional capacity e.g., the solicitor, banker, accountant etc. are not regarded as promoters.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="sDW0OTkXAnOnSfZyYzni-46" vertex="1">
+          <mxGeometry y="40" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
