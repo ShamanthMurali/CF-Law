@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T00:43:22.109Z" agent="5.0 (X11)" etag="OOHDykiN81Meo3HHyYBR" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T01:16:56.882Z" agent="5.0 (X11)" etag="_anq1eSyv09e9drwsQRZ" version="13.10.5" type="github">
   <diagram id="sS8g_-QtN6rMmfrDfbB7" name="Page-1">
     <mxGraphModel dx="1958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -512,12 +512,6 @@
         </UserObject>
         <mxCell id="hcv-QPVu4g4XNN9k-nSq-59" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" parent="1" vertex="1">
           <mxGeometry x="1620" y="150" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hcv-QPVu4g4XNN9k-nSq-61" value="(benefit to outsiders)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="55" width="120" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="hcv-QPVu4g4XNN9k-nSq-62" value="(benefit to company)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="55" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="14xWNsdD24ZYNxKM7WRv-5" value="&lt;div&gt;To avoid a &lt;br&gt;&lt;/div&gt;&lt;div&gt;legal obligation&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-530" y="640" width="120" height="40" as="geometry">
