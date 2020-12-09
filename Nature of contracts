@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T00:21:33.235Z" agent="5.0 (X11)" etag="JzGujroNSaBb988VYbOh" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T00:21:44.408Z" agent="5.0 (X11)" etag="iXBqi5cRhlWB4Q5NVpTt" version="13.10.9" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
     <mxGraphModel dx="2277" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2A2A2A" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-115" value="Bilateral&#xa;contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="480" width="110" height="60" as="geometry">
-            <mxRectangle x="420" y="320" width="200" height="150" as="alternateBounds" />
+            <mxRectangle x="600" y="480" width="200" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-116" value="A Bilateral contract is one where the obligation or promise is outstanding&lt;br/&gt;on the part of both the parties.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-115" vertex="1">
@@ -295,7 +295,7 @@
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-113" value="Executory contract" style="swimlane;swimlaneFillColor=#333333;startSize=60;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="525" y="360" width="110" height="60" as="geometry">
-            <mxRectangle x="345" y="230" width="200" height="190" as="alternateBounds" />
+            <mxRectangle x="525" y="360" width="200" height="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-114" value="&amp;nbsp;In an executory contract the consideration is reciprocal promise or obligation.&lt;br/&gt;Such consideration is to be performed in future only and therefore these contracts are described as&lt;br/&gt;executory contracts." style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-113" vertex="1">
