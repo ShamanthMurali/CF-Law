@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T00:11:58.696Z" agent="5.0 (X11)" etag="MNCy-8u_aTImrxEp7Nwp" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T09:49:08.995Z" agent="5.0 (X11)" etag="ufX-6xizWrUBIhmGIt-U" version="13.11.0" type="github">
   <diagram id="jZkPgJGo7-U5F4NOblEo" name="Page-1">
-    <mxGraphModel dx="1958" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
         <mxCell id="_6V_I4C6rLlWFbrsB7ft-68" value="Rule: unpaid sellers right of lien or stoppage in transit is not affected by any sale of pledge buy the buyer&lt;br&gt;&lt;br&gt;Exceptions&lt;br&gt;1) if the seller agrees to it.&lt;br&gt;2) when there is transfer of title in good faith(i.e the second buyer will pay the price for the original owner)" style="rounded=0;whiteSpace=wrap;html=1;" parent="_6V_I4C6rLlWFbrsB7ft-67" vertex="1">
           <mxGeometry y="40" width="520" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_6V_I4C6rLlWFbrsB7ft-64" value="Duration of transit &lt;br&gt;(Section 51)" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;rounded=0;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="_6V_I4C6rLlWFbrsB7ft-64" value="&lt;div&gt;When transit comes &lt;br&gt;&lt;/div&gt;&lt;div&gt;to an end&lt;/div&gt;(Section 51)" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;rounded=0;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-200" y="380" width="160" height="40" as="geometry">
             <mxRectangle x="-200" y="380" width="570" height="210" as="alternateBounds" />
           </mxGeometry>
