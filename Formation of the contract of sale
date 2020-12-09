@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T09:41:26.686Z" agent="5.0 (X11)" etag="RvtKAFwoSMvpHYmbUBqd" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T10:24:59.446Z" agent="5.0 (X11)" etag="mDts98ZfKP7k7P4EKBt_" version="13.11.0" type="github">
   <diagram id="fh7y-sXPkE3bz3FBDUQT" name="Page-1">
-    <mxGraphModel dx="2623" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2808" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,11 +259,11 @@
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-7" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Transfer of property&lt;br&gt;/ delivery&amp;nbsp;[Section 2(2)]&lt;/span&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="40" y="240" width="160" height="40" as="geometry">
-            <mxRectangle x="40" y="240" width="200" height="80" as="alternateBounds" />
+            <mxRectangle x="40" y="240" width="200" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-62" value="Delivery means voluntary transfer of possession from one person&lt;br/&gt;to another&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="K0-mJAyQ_O13EL4r1lyW-7" vertex="1">
-          <mxGeometry y="40" width="200" height="40" as="geometry" />
+          <mxGeometry y="40" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K0-mJAyQ_O13EL4r1lyW-25" value="contingent goods&lt;br&gt;&amp;nbsp;[Section 6(2)]" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-160" y="240" width="130" height="40" as="geometry">
