@@ -1,14 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T03:28:12.947Z" agent="5.0 (X11)" etag="OjtlZgGqAqIE-a4-qYly" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T00:21:33.235Z" agent="5.0 (X11)" etag="JzGujroNSaBb988VYbOh" version="13.10.9" type="github">
   <diagram id="hsXXkQlPyfxrQuMUEEsO" name="Page-1">
-    <mxGraphModel dx="2092" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2A2A2A" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2A2A2A" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-5" target="eI7UchVYJdXG1d4b3AjD-6">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eI7UchVYJdXG1d4b3AjD-5" target="eI7UchVYJdXG1d4b3AjD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-5" value="&lt;u&gt;By death or insanity&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-5" value="&lt;u&gt;By death or insanity&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eI7UchVYJdXG1d4b3AjD-4" target="eI7UchVYJdXG1d4b3AjD-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-4" value="&lt;div&gt;&lt;u&gt;By non fulfillment of condition precedent:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC6600&quot;&gt;&lt;b&gt;Section 6&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where the acceptor fails to fulfill a condition precedent to acceptance the proposal gets revoked. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="280" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eI7UchVYJdXG1d4b3AjD-6" target="eI7UchVYJdXG1d4b3AjD-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-6" value="&lt;u&gt;By counter offer&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eI7UchVYJdXG1d4b3AjD-7" target="eI7UchVYJdXG1d4b3AjD-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-7" value="&lt;u&gt;By the non acceptance of the offer according to the prescribed or usual mode&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="510" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-8" value="&lt;u&gt;By subsequent illegality&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="02b7j2pqJwGw1zSQj-g7-8" target="02b7j2pqJwGw1zSQj-g7-41" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -458,7 +479,7 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-49" value="1) Agreement &lt;br&gt;2) Two parties&lt;br&gt;3) Free consent &lt;br&gt;4) Intention to create legal relationship&lt;br&gt;5) Competency of the parties &lt;br&gt;6) Fulfillment of legal formalities&lt;br&gt;7) Lawful consideration &lt;br&gt;8) Certainty of meaning&lt;br&gt;9)&amp;nbsp; Legal object &lt;br&gt;10) Possibility of performance&lt;br&gt;11) Not expressly declared to be void&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-13" vertex="1">
           <mxGeometry x="10" y="70" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02b7j2pqJwGw1zSQj-g7-8" target="eI7UchVYJdXG1d4b3AjD-1">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="02b7j2pqJwGw1zSQj-g7-8" target="eI7UchVYJdXG1d4b3AjD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="02b7j2pqJwGw1zSQj-g7-8" value="contract 2(h)" style="swimlane;swimlaneFillColor=#333333;startSize=39;" parent="1" vertex="1" collapsed="1">
@@ -472,44 +493,23 @@
         <mxCell id="02b7j2pqJwGw1zSQj-g7-48" value="Contract = Accepted proposal/Agreement + Enforceability by law" style="rounded=1;whiteSpace=wrap;html=1;" parent="02b7j2pqJwGw1zSQj-g7-8" vertex="1">
           <mxGeometry x="10" y="90" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-1" target="eI7UchVYJdXG1d4b3AjD-2">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eI7UchVYJdXG1d4b3AjD-1" target="eI7UchVYJdXG1d4b3AjD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-1" value="&lt;div&gt;Modes of revocation&lt;/div&gt;&lt;div&gt;of offer.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-1" value="&lt;div&gt;Modes of revocation&lt;/div&gt;&lt;div&gt;of offer.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-2" target="eI7UchVYJdXG1d4b3AjD-3">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eI7UchVYJdXG1d4b3AjD-2" target="eI7UchVYJdXG1d4b3AjD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-2" value="&lt;u&gt;By notice of revocation&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-2" value="&lt;u&gt;By notice of revocation&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-3" target="eI7UchVYJdXG1d4b3AjD-4">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eI7UchVYJdXG1d4b3AjD-3" target="eI7UchVYJdXG1d4b3AjD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-3" value="&lt;div&gt;&lt;u&gt;By lapse of time&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#00CC00&quot;&gt;[Ramsgate&amp;nbsp; Victoria&amp;nbsp; Hotel&amp;nbsp; Co.&amp;nbsp; Vs&amp;nbsp; Monteore(1866 L.R.Z. Ex 109)]&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eI7UchVYJdXG1d4b3AjD-3" value="&lt;div&gt;&lt;u&gt;By lapse of time&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#00CC00&quot;&gt;[Ramsgate&amp;nbsp; Victoria&amp;nbsp; Hotel&amp;nbsp; Co.&amp;nbsp; Vs&amp;nbsp; Monteore(1866 L.R.Z. Ex 109)]&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="200" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-4" target="eI7UchVYJdXG1d4b3AjD-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-4" value="&lt;div&gt;&lt;u&gt;By non fulfillment of condition precedent:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC6600&quot;&gt;&lt;b&gt;Section 6&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Where the acceptor fails to fulfill a condition precedent to acceptance the proposal gets revoked. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="280" width="220" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-6" target="eI7UchVYJdXG1d4b3AjD-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-6" value="&lt;u&gt;By counter offer&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eI7UchVYJdXG1d4b3AjD-7" target="eI7UchVYJdXG1d4b3AjD-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-7" value="&lt;u&gt;By the non acceptance of the offer according to the prescribed or usual mode&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="510" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eI7UchVYJdXG1d4b3AjD-8" value="&lt;u&gt;By subsequent illegality&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="590" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
