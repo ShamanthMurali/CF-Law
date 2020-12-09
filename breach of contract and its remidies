@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T07:06:36.515Z" agent="5.0 (X11)" etag="lsrfs62w-JnhhOcWFxtJ" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T02:01:23.416Z" agent="5.0 (X11)" etag="jU3UnrxXneFdm7TpnMb-" version="13.11.0" type="github">
   <diagram id="qwhB_swLNxK2KkElb7xe" name="Page-1">
     <mxGraphModel dx="1108" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,27 +123,11 @@
         <mxCell id="Tb9ss5tkVFptEStzcvkr-14" value="Ordinary&lt;br/&gt;Damages" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tb9ss5tkVFptEStzcvkr-15" target="c9XdWag_qW1IVe0Yk6iB-5">
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Tb9ss5tkVFptEStzcvkr-15" target="c9XdWag_qW1IVe0Yk6iB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-15" value="Penalty" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-16" value="Liquidated&lt;br/&gt;Damages" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="590" y="340" width="120" height="40" as="geometry">
-            <mxRectangle x="590" y="340" width="150" height="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-1" value="Where the compensation payable is agreed before hand for anticipatory breach of the contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-16">
-          <mxGeometry y="40" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-4" value="Anticipatory&lt;br&gt;Breach of&lt;br&gt;Contract &lt;font color=&quot;#CCCC00&quot;&gt;[Section 39]&lt;/font&gt;" style="swimlane;swimlaneFillColor=#333333;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="180" y="80" width="120" height="50" as="geometry">
-            <mxRectangle x="180" y="80" width="270" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-33" value="“When a party to a contract has refused to perform or disable himself from performing, his promise in its&lt;br/&gt;entirety, the promisee may put an end to the contract, unless he has signied, but words or conduct, his&lt;br/&gt;acquiescence in its continuance." style="rounded=1;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-4" vertex="1">
-          <mxGeometry x="10" y="60" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HKF_3J27l0oipCCEIqbn-1" value="" style="shape=flexArrow;endArrow=classic;html=1;width=18;endSize=10.33;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -154,20 +138,23 @@
         <mxCell id="HKF_3J27l0oipCCEIqbn-2" value="Party rightfully rescinding contract, entitled to compensation &lt;font color=&quot;#CCCC00&quot;&gt;&lt;b&gt;(Section 75)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-8" value="Suit upon&lt;br/&gt;Quantum&lt;br/&gt;Meruit" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="700" y="160" width="120" height="50" as="geometry">
-            <mxRectangle x="700" y="160" width="190" height="140" as="alternateBounds" />
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-5" value="it is imposed in a way of punisment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-16" value="Liquidated&lt;br/&gt;Damages" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="590" y="340" width="120" height="40" as="geometry">
+            <mxRectangle x="590" y="340" width="150" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-2" value="when some amount of work had been done before the breach of the contract, then the reciving party should compensate for that." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-8">
-          <mxGeometry y="50" width="190" height="90" as="geometry" />
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-1" value="Where the compensation payable is agreed before hand for anticipatory breach of the contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-16" vertex="1">
+          <mxGeometry y="40" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-11" value="Nominal&lt;br/&gt;Damages" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="500" y="250" width="120" height="40" as="geometry">
             <mxRectangle x="500" y="250" width="170" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-3" value="Damages for the breach of a contract are given by the way of compensation for loss suffered and not by the way of punishment for wrong inflicted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-11">
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-3" value="Damages for the breach of a contract are given by the way of compensation for loss suffered and not by the way of punishment for wrong inflicted" style="rounded=0;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-11" vertex="1">
           <mxGeometry y="40" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-12" value="Vindictive&lt;br/&gt;Damages" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
@@ -175,27 +162,40 @@
             <mxRectangle x="340" y="250" width="160" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-4" value="&lt;div&gt;vindictive is punitive in nature&lt;/div&gt;&lt;div&gt;eg: dishonor of a cheque by bank even when there is balance in the bank&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-12">
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-4" value="&lt;div&gt;vindictive is punitive in nature&lt;/div&gt;&lt;div&gt;eg: dishonor of a cheque by bank even when there is balance in the bank&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-12" vertex="1">
           <mxGeometry y="40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-5" value="it is imposed in a way of punisment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Tb9ss5tkVFptEStzcvkr-6" value="Suit for Specific&lt;br&gt;Performance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="380" y="160" width="120" height="40" as="geometry">
-            <mxRectangle x="380" y="160" width="160" height="120" as="alternateBounds" />
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-8" value="Suit upon&lt;br/&gt;Quantum&lt;br/&gt;Meruit" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="700" y="160" width="120" height="50" as="geometry">
+            <mxRectangle x="700" y="160" width="190" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-7" value="When compensation is not enough it requires some specific performance to be made to make good" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-6">
-          <mxGeometry y="40" width="160" height="80" as="geometry" />
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-2" value="when some amount of work had been done before the breach of the contract, then the reciving party should compensate for that." style="rounded=0;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-8" vertex="1">
+          <mxGeometry y="50" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Tb9ss5tkVFptEStzcvkr-7" value="Suit for&lt;br/&gt;Injunction" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="540" y="160" width="120" height="40" as="geometry">
             <mxRectangle x="540" y="160" width="140" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9XdWag_qW1IVe0Yk6iB-9" value="when a party is negotiating the terms of a contract the court&amp;nbsp; may issue an injunction order." style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="Tb9ss5tkVFptEStzcvkr-7">
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-9" value="when a party is negotiating the terms of a contract the court&amp;nbsp; may issue an injunction order." style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" parent="Tb9ss5tkVFptEStzcvkr-7" vertex="1">
           <mxGeometry y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-6" value="Suit for Specific&lt;br&gt;Performance" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="380" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="380" y="160" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c9XdWag_qW1IVe0Yk6iB-7" value="When compensation is not enough it requires some specific performance to be made to make good" style="rounded=0;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-6" vertex="1">
+          <mxGeometry y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-4" value="Anticipatory&lt;br&gt;Breach of&lt;br&gt;Contract &lt;font color=&quot;#CCCC00&quot;&gt;[Section 39]&lt;/font&gt;" style="swimlane;swimlaneFillColor=#333333;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="180" y="80" width="120" height="50" as="geometry">
+            <mxRectangle x="180" y="80" width="270" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tb9ss5tkVFptEStzcvkr-33" value="“When a party to a contract has refused to perform or disable himself from performing, his promise in its&lt;br/&gt;entirety, the promisee may put an end to the contract, unless he has signied, but words or conduct, his&lt;br/&gt;acquiescence in its continuance." style="rounded=1;whiteSpace=wrap;html=1;" parent="Tb9ss5tkVFptEStzcvkr-4" vertex="1">
+          <mxGeometry x="10" y="60" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
